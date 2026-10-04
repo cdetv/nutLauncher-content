@@ -2,6 +2,7 @@
   "schema": 1,
   "id": "big-walk",
   "name": "Big Walk",
+  "icon": "games/big-walk.png",
   "steamAppId": 1478500,
   "exe": "Big Walk.exe",
   "strategy": "bepinex-thunderstore",
