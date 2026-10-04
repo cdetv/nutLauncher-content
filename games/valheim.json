@@ -13,11 +13,6 @@
       "id": "main",
       "name": "Order of the Nut",
       "manifest": "packs/valheim/main/pack.json"
-    },
-    {
-      "id": "main-big-walk",
-      "name": "Trail of Nuts",
-      "manifest": "packs/valheim/main-big-walk/pack.json"
     }
   ]
 }
