@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "profileName": "Order Of The Nut",
-  "importedAt": "2026-10-04T14:43:34.0804589Z",
-  "source": "code:01a1075d-46de-d0ea-fd93-10f44d5c4000",
+  "importedAt": "2026-10-04T22:14:44.9123168Z",
+  "source": "code:01a108fa-dbbb-6eb9-c10a-af1e4677562c",
   "mods": [
     {
       "id": "denikson-BepInExPack_Valheim",
@@ -212,10 +212,10 @@
     },
     {
       "id": "Advize-PlantEasily",
-      "version": "2.2.2",
+      "version": "2.3.0",
       "enabled": true,
-      "size": 189968,
-      "sha256": "415c6bab9abd622f05b44d3eb431e00a62602f3e455586fc310484bcf1770a3f",
+      "size": 193662,
+      "sha256": "1afe2daffc249ff4dc10dcf659f158d8546070822cb3229be780eee9edc287fe",
       "dependencies": [
         "denikson-BepInExPack_Valheim"
       ],
@@ -228,7 +228,7 @@
         "description": "Allows you to plant evenly spaced crops, either one at a time or in any amount of rows and columns, with grid snapping features and invalid crop placement prevention. Harvest in bulk and optionally auto replant crops. Configurable and supports gamepad.",
         "websiteUrl": "https://www.nexusmods.com/valheim/mods/2350",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Advize/PlantEasily/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Advize-PlantEasily-2.2.2.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Advize-PlantEasily-2.3.0.png"
       }
     },
     {
