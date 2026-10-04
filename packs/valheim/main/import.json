@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "profileName": "Order Of The Nut",
-  "importedAt": "2026-10-03T22:01:05.5336175Z",
-  "source": "code:01a103be-031d-b4d3-7f44-184326ced299",
+  "importedAt": "2026-10-04T03:06:07.5078938Z",
+  "source": "code:01a104dd-94c6-6bd0-6805-091cc7ec430f",
   "mods": [
     {
       "id": "denikson-BepInExPack_Valheim",
@@ -233,10 +233,10 @@
     },
     {
       "id": "Vapok-AdventureBackpacks",
-      "version": "2.2.8",
+      "version": "2.2.9",
       "enabled": true,
-      "size": 48746714,
-      "sha256": "ffde4e8d36680d83a7fb218ecb61f229e0ea97359496a071c369265da19a05b8",
+      "size": 48746795,
+      "sha256": "eba3556d357627cbc3687eb6f04b2238de816f6d6855aae3b5553641466f0394",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-Jotunn",
@@ -251,7 +251,7 @@
         "description": "A Valheim Mod to add a catalogue of Adventuring Backpacks to the Game. These packs will grow and become more useful as the game progresses.",
         "websiteUrl": "https://github.com/Vapok/AdventureBackpacks",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Vapok/AdventureBackpacks/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Vapok-AdventureBackpacks-2.2.8.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Vapok-AdventureBackpacks-2.2.9.png"
       }
     },
     {
@@ -1224,10 +1224,6 @@
       "path": "BepInEx/config/odinplus.plugins.odinskingdom.cfg",
       "sha256": "aba19f831680ee39b2adee87ab41edf1ebbf590ab58f85e568120093c1997c83",
       "owner": "OdinPlus-OdinsKingdom"
-    },
-    {
-      "path": "BepInEx/config/org.bepinex.plugins.sailing.cfg",
-      "sha256": "7d1e396dc3a274ba83b2fde8e4a822811f92a0e4a27a7547e5561b9aaf1f748f"
     },
     {
       "path": "BepInEx/config/org.bepinex.plugins.spearfishing.cfg",
