@@ -3,6 +3,7 @@ schema: 1
 
 # name: Pack name shown to players (default: the name given to new-pack)
 # description: One or two sentences shown to players
+description: "Update test 1"
 
 # Config access for every mod that doesn't set its own, and for config files with no owner:
 #   hidden   - players never see configs; files are reset to the pack's version before each launch
