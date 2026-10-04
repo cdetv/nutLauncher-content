@@ -2,6 +2,7 @@
   "schema": 1,
   "id": "valheim",
   "name": "Valheim",
+  "icon": "games/valheim.png",
   "steamAppId": 892970,
   "exe": "valheim.exe",
   "strategy": "bepinex-thunderstore",
