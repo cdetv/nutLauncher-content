@@ -11,11 +11,7 @@ schema: 1
 defaultConfigAccess: hidden
 
 # Per-mod settings. Any key can be left out to use the default.
-mods:
-  Advize-PlantEasily:
-    configAccess: editable
-    lockedSettings:
-      - { file: advize.PlantEasily.cfg, section: Difficulty, key: UseStamina }
+mods: {}
 #  Author-ModName:
 #    required: false          # default: true if enabled in the r2modman profile
 #    defaultEnabled: true     # for optional mods
