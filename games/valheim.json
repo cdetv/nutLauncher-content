@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "valheim",
+  "name": "Valheim",
+  "steamAppId": 892970,
+  "exe": "valheim.exe",
+  "strategy": "bepinex-thunderstore",
+  "strategyOptions": {
+    "thunderstoreCommunity": "valheim"
+  },
+  "packs": [
+    {
+      "id": "main",
+      "name": "Order of the Nut",
+      "manifest": "packs/valheim/main/pack.json"
+    }
+  ]
+}
