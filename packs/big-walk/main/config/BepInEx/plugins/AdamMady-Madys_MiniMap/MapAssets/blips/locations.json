@@ -1,0 +1,4376 @@
+{
+  "map_id": 987,
+  "marker_anchor": "bottom",
+  "locations": [
+    {
+      "id": 930136,
+      "title": "Painting Room",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.8252483441221,
+      "longitude": -0.92606619061996,
+      "pixels": {
+        "11": {
+          "x": 699.32,
+          "y": 846.1
+        },
+        "13": {
+          "x": 2797.27,
+          "y": 3384.41
+        }
+      }
+    },
+    {
+      "id": 930137,
+      "title": "Starting Hub",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.8513983661269,
+      "longitude": -0.83625912666321,
+      "pixels": {
+        "11": {
+          "x": 830.11,
+          "y": 808.02
+        },
+        "13": {
+          "x": 3320.44,
+          "y": 3232.06
+        }
+      }
+    },
+    {
+      "id": 930158,
+      "title": "Checkpoint",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.8360309748256,
+      "longitude": -0.83551883697712,
+      "pixels": {
+        "11": {
+          "x": 831.19,
+          "y": 830.4
+        },
+        "13": {
+          "x": 3324.75,
+          "y": 3321.59
+        }
+      }
+    },
+    {
+      "id": 930174,
+      "title": "Checkpoint",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.81146447962001,
+      "longitude": -0.80856800079462,
+      "pixels": {
+        "11": {
+          "x": 870.44,
+          "y": 866.18
+        },
+        "13": {
+          "x": 3481.75,
+          "y": 3464.72
+        }
+      }
+    },
+    {
+      "id": 930191,
+      "title": "Map Room",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.82820954785618,
+      "longitude": -0.79442384680615,
+      "pixels": {
+        "11": {
+          "x": 891.04,
+          "y": 841.79
+        },
+        "13": {
+          "x": 3564.15,
+          "y": 3367.16
+        }
+      }
+    },
+    {
+      "id": 930271,
+      "title": "Green Tunnel Entrance",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.71268046919184,
+      "longitude": -0.60506780393681,
+      "pixels": {
+        "11": {
+          "x": 1166.81,
+          "y": 1010.06
+        },
+        "13": {
+          "x": 4667.22,
+          "y": 4040.23
+        }
+      }
+    },
+    {
+      "id": 930272,
+      "title": "Blue Tunnel Entrance",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.82701498217416,
+      "longitude": -0.63782280719994,
+      "pixels": {
+        "11": {
+          "x": 1119.1,
+          "y": 843.53
+        },
+        "13": {
+          "x": 4476.41,
+          "y": 3374.12
+        }
+      }
+    },
+    {
+      "id": 930273,
+      "title": "Painting Room",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.85267911178255,
+      "longitude": -0.70641754516441,
+      "pixels": {
+        "11": {
+          "x": 1019.2,
+          "y": 806.15
+        },
+        "13": {
+          "x": 4076.82,
+          "y": 3224.6
+        }
+      }
+    },
+    {
+      "id": 930275,
+      "title": "Red Tunnel Entrance",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.78270767252005,
+      "longitude": -0.79056383672255,
+      "pixels": {
+        "11": {
+          "x": 896.66,
+          "y": 908.06
+        },
+        "13": {
+          "x": 3586.63,
+          "y": 3632.26
+        }
+      }
+    },
+    {
+      "id": 930290,
+      "title": "Purple Tunnel Entrance",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.48981560472497,
+      "longitude": -0.59793558408168,
+      "pixels": {
+        "11": {
+          "x": 1177.19,
+          "y": 1334.65
+        },
+        "13": {
+          "x": 4708.77,
+          "y": 5338.58
+        }
+      }
+    },
+    {
+      "id": 930291,
+      "title": "Purple Tunnel Entrance",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.46930278882137,
+      "longitude": -0.61355676938419,
+      "pixels": {
+        "11": {
+          "x": 1154.44,
+          "y": 1364.52
+        },
+        "13": {
+          "x": 4617.77,
+          "y": 5458.08
+        }
+      }
+    },
+    {
+      "id": 930292,
+      "title": "Beach Party",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.53860160411759,
+      "longitude": -0.71037743513173,
+      "pixels": {
+        "11": {
+          "x": 1013.44,
+          "y": 1263.59
+        },
+        "13": {
+          "x": 4053.75,
+          "y": 5054.37
+        }
+      }
+    },
+    {
+      "id": 930342,
+      "title": "Coordinate Sign",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.63556857779434,
+      "longitude": -0.5819910764688,
+      "pixels": {
+        "11": {
+          "x": 1200.41,
+          "y": 1122.37
+        },
+        "13": {
+          "x": 4801.66,
+          "y": 4489.47
+        }
+      }
+    },
+    {
+      "id": 930358,
+      "title": "Starting Hub Entrance",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.84453953152767,
+      "longitude": -0.85788282632475,
+      "pixels": {
+        "11": {
+          "x": 798.62,
+          "y": 818.01
+        },
+        "13": {
+          "x": 3194.47,
+          "y": 3272.02
+        }
+      }
+    },
+    {
+      "id": 930365,
+      "title": "Checkpoint",
+      "category_id": 27065,
+      "category": "Point of Interest",
+      "icon": "point_of_interest",
+      "latitude": 0.84310614622784,
+      "longitude": -0.81562431283339,
+      "pixels": {
+        "11": {
+          "x": 860.16,
+          "y": 820.09
+        },
+        "13": {
+          "x": 3440.64,
+          "y": 3280.37
+        }
+      }
+    },
+    {
+      "id": 930133,
+      "title": "Stacking Button Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.84758537169083,
+      "longitude": -0.88859054796814,
+      "pixels": {
+        "11": {
+          "x": 753.9,
+          "y": 813.57
+        },
+        "13": {
+          "x": 3015.58,
+          "y": 3254.28
+        }
+      }
+    },
+    {
+      "id": 930139,
+      "title": "Timing Button Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.7847479187265,
+      "longitude": -0.9116538253223,
+      "pixels": {
+        "11": {
+          "x": 720.31,
+          "y": 905.09
+        },
+        "13": {
+          "x": 2881.23,
+          "y": 3620.37
+        }
+      }
+    },
+    {
+      "id": 930141,
+      "title": "Matching Tiles Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.78170092106376,
+      "longitude": -0.87844136464869,
+      "pixels": {
+        "11": {
+          "x": 768.68,
+          "y": 909.53
+        },
+        "13": {
+          "x": 3074.71,
+          "y": 3638.12
+        }
+      }
+    },
+    {
+      "id": 930142,
+      "title": "Locked Box Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.84714038097715,
+      "longitude": -0.92290666166164,
+      "pixels": {
+        "11": {
+          "x": 703.92,
+          "y": 814.22
+        },
+        "13": {
+          "x": 2815.68,
+          "y": 3256.87
+        }
+      }
+    },
+    {
+      "id": 930170,
+      "title": "Maze Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.69783988760682,
+      "longitude": -0.84733128547748,
+      "pixels": {
+        "11": {
+          "x": 813.98,
+          "y": 1031.67
+        },
+        "13": {
+          "x": 3255.94,
+          "y": 4126.69
+        }
+      }
+    },
+    {
+      "id": 930171,
+      "title": "Point and Click Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.73120397272278,
+      "longitude": -0.81067621707695,
+      "pixels": {
+        "11": {
+          "x": 867.37,
+          "y": 983.08
+        },
+        "13": {
+          "x": 3469.47,
+          "y": 3932.31
+        }
+      }
+    },
+    {
+      "id": 930177,
+      "title": "Cannon Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.67886402229185,
+      "longitude": -0.77167058787003,
+      "pixels": {
+        "11": {
+          "x": 924.17,
+          "y": 1059.31
+        },
+        "13": {
+          "x": 3696.69,
+          "y": 4237.24
+        }
+      }
+    },
+    {
+      "id": 930178,
+      "title": "Basketball Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.70061462713061,
+      "longitude": -0.75287977476404,
+      "pixels": {
+        "11": {
+          "x": 951.54,
+          "y": 1027.63
+        },
+        "13": {
+          "x": 3806.16,
+          "y": 4110.52
+        }
+      }
+    },
+    {
+      "id": 930184,
+      "title": "Memory Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.60845150704483,
+      "longitude": -0.61010172331552,
+      "pixels": {
+        "11": {
+          "x": 1159.47,
+          "y": 1161.86
+        },
+        "13": {
+          "x": 4637.9,
+          "y": 4647.45
+        }
+      }
+    },
+    {
+      "id": 930195,
+      "title": "Pose Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.65962387599775,
+      "longitude": -0.7296824183085,
+      "pixels": {
+        "11": {
+          "x": 985.32,
+          "y": 1087.33
+        },
+        "13": {
+          "x": 3941.29,
+          "y": 4349.33
+        }
+      }
+    },
+    {
+      "id": 930205,
+      "title": "Counting Lights Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.57685196793945,
+      "longitude": -0.60844106851405,
+      "pixels": {
+        "11": {
+          "x": 1161.89,
+          "y": 1207.88
+        },
+        "13": {
+          "x": 4647.57,
+          "y": 4831.54
+        }
+      }
+    },
+    {
+      "id": 930212,
+      "title": "Locked Up Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.55694656642005,
+      "longitude": -0.65076828003006,
+      "pixels": {
+        "11": {
+          "x": 1100.25,
+          "y": 1236.87
+        },
+        "13": {
+          "x": 4401.0,
+          "y": 4947.5
+        }
+      }
+    },
+    {
+      "id": 930214,
+      "title": "Far Away Lights Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.53821487423289,
+      "longitude": -0.46882867813127,
+      "pixels": {
+        "11": {
+          "x": 1365.22,
+          "y": 1264.16
+        },
+        "13": {
+          "x": 5460.87,
+          "y": 5056.62
+        }
+      }
+    },
+    {
+      "id": 930222,
+      "title": "Double Press Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.77849579909743,
+      "longitude": -0.68386611228831,
+      "pixels": {
+        "11": {
+          "x": 1052.05,
+          "y": 914.2
+        },
+        "13": {
+          "x": 4208.19,
+          "y": 3656.79
+        }
+      }
+    },
+    {
+      "id": 930238,
+      "title": "Clifftop Golf Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.49740614583165,
+      "longitude": -0.61066097647029,
+      "pixels": {
+        "11": {
+          "x": 1158.66,
+          "y": 1323.59
+        },
+        "13": {
+          "x": 4634.64,
+          "y": 5294.36
+        }
+      }
+    },
+    {
+      "id": 930239,
+      "title": "Warehouse Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.42279506350525,
+      "longitude": -0.61253102640225,
+      "pixels": {
+        "11": {
+          "x": 1155.94,
+          "y": 1432.25
+        },
+        "13": {
+          "x": 4623.75,
+          "y": 5729.02
+        }
+      }
+    },
+    {
+      "id": 930252,
+      "title": "Beach House Icon Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.38290675501929,
+      "longitude": -0.59329684026144,
+      "pixels": {
+        "11": {
+          "x": 1183.95,
+          "y": 1490.35
+        },
+        "13": {
+          "x": 4735.8,
+          "y": 5961.39
+        }
+      }
+    },
+    {
+      "id": 930254,
+      "title": "Greenhouse Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.44003436033381,
+      "longitude": -0.64012608920623,
+      "pixels": {
+        "11": {
+          "x": 1115.75,
+          "y": 1407.15
+        },
+        "13": {
+          "x": 4463.0,
+          "y": 5628.59
+        }
+      }
+    },
+    {
+      "id": 930255,
+      "title": "Beach Timer Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.36305335438783,
+      "longitude": -0.66840552269102,
+      "pixels": {
+        "11": {
+          "x": 1074.56,
+          "y": 1519.26
+        },
+        "13": {
+          "x": 4298.26,
+          "y": 6077.05
+        }
+      }
+    },
+    {
+      "id": 930258,
+      "title": "Multi-Light Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.43136703727359,
+      "longitude": -0.69586778234645,
+      "pixels": {
+        "11": {
+          "x": 1034.57,
+          "y": 1419.77
+        },
+        "13": {
+          "x": 4138.28,
+          "y": 5679.08
+        }
+      }
+    },
+    {
+      "id": 930293,
+      "title": "Patience Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.48930335264032,
+      "longitude": -0.70873472274522,
+      "pixels": {
+        "11": {
+          "x": 1015.83,
+          "y": 1335.39
+        },
+        "13": {
+          "x": 4063.32,
+          "y": 5341.57
+        }
+      }
+    },
+    {
+      "id": 930295,
+      "title": "Ravine Golf Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.77962455302217,
+      "longitude": -0.72251532478097,
+      "pixels": {
+        "11": {
+          "x": 995.76,
+          "y": 912.55
+        },
+        "13": {
+          "x": 3983.04,
+          "y": 3650.22
+        }
+      }
+    },
+    {
+      "id": 930298,
+      "title": "Passing Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.82296885434867,
+      "longitude": -0.71781090104602,
+      "pixels": {
+        "11": {
+          "x": 1002.61,
+          "y": 849.42
+        },
+        "13": {
+          "x": 4010.45,
+          "y": 3397.69
+        }
+      }
+    },
+    {
+      "id": 930302,
+      "title": "Interrogation Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.86867823920063,
+      "longitude": -0.67893683243565,
+      "pixels": {
+        "11": {
+          "x": 1059.23,
+          "y": 782.85
+        },
+        "13": {
+          "x": 4236.91,
+          "y": 3131.39
+        }
+      }
+    },
+    {
+      "id": 930308,
+      "title": "Climbing Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.80968707262758,
+      "longitude": -0.75090249918006,
+      "pixels": {
+        "11": {
+          "x": 954.42,
+          "y": 868.77
+        },
+        "13": {
+          "x": 3817.68,
+          "y": 3475.07
+        }
+      }
+    },
+    {
+      "id": 930316,
+      "title": "Stage Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.90185712958305,
+      "longitude": -0.74198248139089,
+      "pixels": {
+        "11": {
+          "x": 967.41,
+          "y": 734.52
+        },
+        "13": {
+          "x": 3869.64,
+          "y": 2938.08
+        }
+      }
+    },
+    {
+      "id": 930319,
+      "title": "50/50 Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.70040472160665,
+      "longitude": -0.5793699077804,
+      "pixels": {
+        "11": {
+          "x": 1204.23,
+          "y": 1027.94
+        },
+        "13": {
+          "x": 4816.93,
+          "y": 4111.75
+        }
+      }
+    },
+    {
+      "id": 930321,
+      "title": "Headless Chicken Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.64903534428235,
+      "longitude": -0.50051119603407,
+      "pixels": {
+        "11": {
+          "x": 1319.08,
+          "y": 1102.75
+        },
+        "13": {
+          "x": 5276.31,
+          "y": 4411.01
+        }
+      }
+    },
+    {
+      "id": 930325,
+      "title": "Tower Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.7216293507764,
+      "longitude": -0.4287132798602,
+      "pixels": {
+        "11": {
+          "x": 1423.64,
+          "y": 997.02
+        },
+        "13": {
+          "x": 5694.56,
+          "y": 3988.09
+        }
+      }
+    },
+    {
+      "id": 930328,
+      "title": "Forget-Me-Not Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.67975516242188,
+      "longitude": -0.42874139293275,
+      "pixels": {
+        "11": {
+          "x": 1423.6,
+          "y": 1058.01
+        },
+        "13": {
+          "x": 5694.4,
+          "y": 4232.05
+        }
+      }
+    },
+    {
+      "id": 930329,
+      "title": "Brown Tower Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.66618838707458,
+      "longitude": -0.79508977382849,
+      "pixels": {
+        "11": {
+          "x": 890.07,
+          "y": 1077.77
+        },
+        "13": {
+          "x": 3560.27,
+          "y": 4311.08
+        }
+      }
+    },
+    {
+      "id": 930330,
+      "title": "Invisible Ink Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.7410533214814,
+      "longitude": -0.4778193719018,
+      "pixels": {
+        "11": {
+          "x": 1352.13,
+          "y": 968.73
+        },
+        "13": {
+          "x": 5408.5,
+          "y": 3874.93
+        }
+      }
+    },
+    {
+      "id": 930331,
+      "title": "Hanging Timer Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.7684208249666,
+      "longitude": -0.55100786694626,
+      "pixels": {
+        "11": {
+          "x": 1245.54,
+          "y": 928.87
+        },
+        "13": {
+          "x": 4982.15,
+          "y": 3715.49
+        }
+      }
+    },
+    {
+      "id": 930332,
+      "title": "Camouflage Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.75101539839864,
+      "longitude": -0.43382581259175,
+      "pixels": {
+        "11": {
+          "x": 1416.2,
+          "y": 954.22
+        },
+        "13": {
+          "x": 5664.78,
+          "y": 3816.89
+        }
+      }
+    },
+    {
+      "id": 930336,
+      "title": "Little Patience Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.81295238896647,
+      "longitude": -0.5348729418015,
+      "pixels": {
+        "11": {
+          "x": 1269.03,
+          "y": 864.01
+        },
+        "13": {
+          "x": 5076.14,
+          "y": 3456.05
+        }
+      }
+    },
+    {
+      "id": 930340,
+      "title": "Super Camouflage Box Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.96696829905926,
+      "longitude": -0.60471033575138,
+      "pixels": {
+        "11": {
+          "x": 1167.33,
+          "y": 639.68
+        },
+        "13": {
+          "x": 4669.31,
+          "y": 2558.73
+        }
+      }
+    },
+    {
+      "id": 930344,
+      "title": "Mountain Icon Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.85198237387687,
+      "longitude": -0.56681345122161,
+      "pixels": {
+        "11": {
+          "x": 1222.52,
+          "y": 807.17
+        },
+        "13": {
+          "x": 4890.07,
+          "y": 3228.66
+        }
+      }
+    },
+    {
+      "id": 930347,
+      "title": "Mask Maze Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.92755033725371,
+      "longitude": -0.57637918041547,
+      "pixels": {
+        "11": {
+          "x": 1208.59,
+          "y": 697.1
+        },
+        "13": {
+          "x": 4834.35,
+          "y": 2788.39
+        }
+      }
+    },
+    {
+      "id": 930349,
+      "title": "Large Warehouse Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.9645283202922,
+      "longitude": -0.57496363187502,
+      "pixels": {
+        "11": {
+          "x": 1210.65,
+          "y": 643.24
+        },
+        "13": {
+          "x": 4842.59,
+          "y": 2572.95
+        }
+      }
+    },
+    {
+      "id": 930350,
+      "title": "Playground Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.98092758321887,
+      "longitude": -0.62497229857539,
+      "pixels": {
+        "11": {
+          "x": 1137.82,
+          "y": 619.35
+        },
+        "13": {
+          "x": 4551.27,
+          "y": 2477.4
+        }
+      }
+    },
+    {
+      "id": 930355,
+      "title": "Double Cliff Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.95985574849114,
+      "longitude": -0.70077576065125,
+      "pixels": {
+        "11": {
+          "x": 1027.42,
+          "y": 650.04
+        },
+        "13": {
+          "x": 4109.69,
+          "y": 2600.17
+        }
+      }
+    },
+    {
+      "id": 930359,
+      "title": "Musical Speaker Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 1.000502100111,
+      "longitude": -0.89385198955625,
+      "pixels": {
+        "11": {
+          "x": 746.23,
+          "y": 590.84
+        },
+        "13": {
+          "x": 2984.93,
+          "y": 2363.36
+        }
+      }
+    },
+    {
+      "id": 930362,
+      "title": "Hide and Seek Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.91717613114487,
+      "longitude": -0.79221757346082,
+      "pixels": {
+        "11": {
+          "x": 894.25,
+          "y": 712.21
+        },
+        "13": {
+          "x": 3577.0,
+          "y": 2848.83
+        }
+      }
+    },
+    {
+      "id": 930369,
+      "title": "Musical Chair Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.90191711831613,
+      "longitude": -0.90752694491405,
+      "pixels": {
+        "11": {
+          "x": 726.32,
+          "y": 734.43
+        },
+        "13": {
+          "x": 2905.27,
+          "y": 2937.73
+        }
+      }
+    },
+    {
+      "id": 930370,
+      "title": "Musical Camouflage Box Puzzle",
+      "category_id": 27066,
+      "category": "Puzzle",
+      "icon": "puzzle",
+      "latitude": 0.67226686084109,
+      "longitude": -0.65277012100665,
+      "pixels": {
+        "11": {
+          "x": 1097.33,
+          "y": 1068.92
+        },
+        "13": {
+          "x": 4389.34,
+          "y": 4275.67
+        }
+      }
+    },
+    {
+      "id": 930148,
+      "title": "First Section Gray Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.84149729445397,
+      "longitude": -0.95349424556747,
+      "pixels": {
+        "11": {
+          "x": 659.37,
+          "y": 822.44
+        },
+        "13": {
+          "x": 2637.49,
+          "y": 3289.75
+        }
+      }
+    },
+    {
+      "id": 930149,
+      "title": "Fourth Section Gray Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.84759061132748,
+      "longitude": -0.95615499691019,
+      "pixels": {
+        "11": {
+          "x": 655.5,
+          "y": 813.56
+        },
+        "13": {
+          "x": 2621.99,
+          "y": 3254.25
+        }
+      }
+    },
+    {
+      "id": 930150,
+      "title": "Fifth Section Gray Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.85754586894073,
+      "longitude": -0.95830076412329,
+      "pixels": {
+        "11": {
+          "x": 652.37,
+          "y": 799.06
+        },
+        "13": {
+          "x": 2609.49,
+          "y": 3196.25
+        }
+      }
+    },
+    {
+      "id": 930151,
+      "title": "Third Section Gray Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.85404685516991,
+      "longitude": -0.94577194040133,
+      "pixels": {
+        "11": {
+          "x": 670.62,
+          "y": 804.16
+        },
+        "13": {
+          "x": 2682.48,
+          "y": 3216.63
+        }
+      }
+    },
+    {
+      "id": 930152,
+      "title": "Second Section Gray Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.84555055162063,
+      "longitude": -0.94654441659759,
+      "pixels": {
+        "11": {
+          "x": 669.49,
+          "y": 816.53
+        },
+        "13": {
+          "x": 2677.98,
+          "y": 3266.13
+        }
+      }
+    },
+    {
+      "id": 930185,
+      "title": "First Section Red Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.78673786029823,
+      "longitude": -0.81685999211464,
+      "pixels": {
+        "11": {
+          "x": 858.36,
+          "y": 902.19
+        },
+        "13": {
+          "x": 3433.45,
+          "y": 3608.78
+        }
+      }
+    },
+    {
+      "id": 930186,
+      "title": "Second Section Red Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.76230428372115,
+      "longitude": -0.83957053693399,
+      "pixels": {
+        "11": {
+          "x": 825.29,
+          "y": 937.78
+        },
+        "13": {
+          "x": 3301.15,
+          "y": 3751.12
+        }
+      }
+    },
+    {
+      "id": 930187,
+      "title": "Third Section Red Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.79608231827898,
+      "longitude": -0.84115898903002,
+      "pixels": {
+        "11": {
+          "x": 822.97,
+          "y": 888.58
+        },
+        "13": {
+          "x": 3291.89,
+          "y": 3554.34
+        }
+      }
+    },
+    {
+      "id": 930188,
+      "title": "Fourth Section Red Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.81384098060059,
+      "longitude": -0.83227928828398,
+      "pixels": {
+        "11": {
+          "x": 835.91,
+          "y": 862.72
+        },
+        "13": {
+          "x": 3343.62,
+          "y": 3450.87
+        }
+      }
+    },
+    {
+      "id": 930189,
+      "title": "Fifth Section Red Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.82633110704248,
+      "longitude": -0.82065362330522,
+      "pixels": {
+        "11": {
+          "x": 852.84,
+          "y": 844.53
+        },
+        "13": {
+          "x": 3411.35,
+          "y": 3378.11
+        }
+      }
+    },
+    {
+      "id": 930224,
+      "title": "First Section Green Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.64923994881826,
+      "longitude": -0.58946993196429,
+      "pixels": {
+        "11": {
+          "x": 1189.52,
+          "y": 1102.46
+        },
+        "13": {
+          "x": 4758.09,
+          "y": 4409.82
+        }
+      }
+    },
+    {
+      "id": 930225,
+      "title": "Second Section Green Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.65769222618641,
+      "longitude": -0.58117821405202,
+      "pixels": {
+        "11": {
+          "x": 1201.6,
+          "y": 1090.15
+        },
+        "13": {
+          "x": 4806.39,
+          "y": 4360.58
+        }
+      }
+    },
+    {
+      "id": 930226,
+      "title": "Third Section Green Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.6529079670602,
+      "longitude": -0.56782879868294,
+      "pixels": {
+        "11": {
+          "x": 1221.04,
+          "y": 1097.11
+        },
+        "13": {
+          "x": 4884.16,
+          "y": 4388.45
+        }
+      }
+    },
+    {
+      "id": 930227,
+      "title": "Fourth Section Green Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.63634369266259,
+      "longitude": -0.56885876694463,
+      "pixels": {
+        "11": {
+          "x": 1219.54,
+          "y": 1121.24
+        },
+        "13": {
+          "x": 4878.16,
+          "y": 4484.95
+        }
+      }
+    },
+    {
+      "id": 930228,
+      "title": "Fifth Section Green Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.63857515244764,
+      "longitude": -0.576326036842,
+      "pixels": {
+        "11": {
+          "x": 1208.66,
+          "y": 1117.99
+        },
+        "13": {
+          "x": 4834.66,
+          "y": 4471.95
+        }
+      }
+    },
+    {
+      "id": 930260,
+      "title": "First Section Yellow Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.9474514457075,
+      "longitude": -0.74406082307809,
+      "pixels": {
+        "11": {
+          "x": 964.38,
+          "y": 668.11
+        },
+        "13": {
+          "x": 3857.53,
+          "y": 2672.44
+        }
+      }
+    },
+    {
+      "id": 930261,
+      "title": "Second Section Yellow Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.93689569837031,
+      "longitude": -0.74491912996282,
+      "pixels": {
+        "11": {
+          "x": 963.13,
+          "y": 683.49
+        },
+        "13": {
+          "x": 3852.53,
+          "y": 2733.94
+        }
+      }
+    },
+    {
+      "id": 930262,
+      "title": "Third Section Yellow Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.91503228304815,
+      "longitude": -0.74549337368026,
+      "pixels": {
+        "11": {
+          "x": 962.3,
+          "y": 715.33
+        },
+        "13": {
+          "x": 3849.19,
+          "y": 2861.32
+        }
+      }
+    },
+    {
+      "id": 930263,
+      "title": "Fourth Section Yellow Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.88477223415428,
+      "longitude": -0.75600758355051,
+      "pixels": {
+        "11": {
+          "x": 946.98,
+          "y": 759.41
+        },
+        "13": {
+          "x": 3787.94,
+          "y": 3037.62
+        }
+      }
+    },
+    {
+      "id": 930264,
+      "title": "Fifth Section Yellow Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.8613301998689,
+      "longitude": -0.74069682199092,
+      "pixels": {
+        "11": {
+          "x": 969.28,
+          "y": 793.55
+        },
+        "13": {
+          "x": 3877.13,
+          "y": 3174.2
+        }
+      }
+    },
+    {
+      "id": 930309,
+      "title": "First Section Blue Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.82995984757083,
+      "longitude": -0.62493145101988,
+      "pixels": {
+        "11": {
+          "x": 1137.88,
+          "y": 839.24
+        },
+        "13": {
+          "x": 4551.51,
+          "y": 3356.96
+        }
+      }
+    },
+    {
+      "id": 930310,
+      "title": "Second Section Blue Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.83176210251693,
+      "longitude": -0.61265766256832,
+      "pixels": {
+        "11": {
+          "x": 1155.75,
+          "y": 836.62
+        },
+        "13": {
+          "x": 4623.01,
+          "y": 3346.46
+        }
+      }
+    },
+    {
+      "id": 930311,
+      "title": "Third Section Blue Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.8502995338747,
+      "longitude": -0.61076938742113,
+      "pixels": {
+        "11": {
+          "x": 1158.5,
+          "y": 809.62
+        },
+        "13": {
+          "x": 4634.01,
+          "y": 3238.46
+        }
+      }
+    },
+    {
+      "id": 930312,
+      "title": "Fourth Section Blue Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.85476223560956,
+      "longitude": -0.60244381063902,
+      "pixels": {
+        "11": {
+          "x": 1170.63,
+          "y": 803.12
+        },
+        "13": {
+          "x": 4682.51,
+          "y": 3212.46
+        }
+      }
+    },
+    {
+      "id": 930313,
+      "title": "Fifth Section Blue Key Cutter",
+      "category_id": 27068,
+      "category": "Key Cutter",
+      "icon": "key_cutter",
+      "latitude": 0.86171374143574,
+      "longitude": -0.61574756735357,
+      "pixels": {
+        "11": {
+          "x": 1151.25,
+          "y": 792.99
+        },
+        "13": {
+          "x": 4605.01,
+          "y": 3171.96
+        }
+      }
+    },
+    {
+      "id": 930156,
+      "title": "Music Station 01",
+      "category_id": 27069,
+      "category": "Music Station",
+      "icon": "radio_station",
+      "latitude": 0.75892415868927,
+      "longitude": -0.92905601900006,
+      "pixels": {
+        "11": {
+          "x": 694.96,
+          "y": 942.7
+        },
+        "13": {
+          "x": 2779.86,
+          "y": 3770.82
+        }
+      }
+    },
+    {
+      "id": 930179,
+      "title": "Music Station 03",
+      "category_id": 27069,
+      "category": "Music Station",
+      "icon": "radio_station",
+      "latitude": 0.70509203535575,
+      "longitude": -0.70671401194687,
+      "pixels": {
+        "11": {
+          "x": 1018.77,
+          "y": 1021.11
+        },
+        "13": {
+          "x": 4075.09,
+          "y": 4084.44
+        }
+      }
+    },
+    {
+      "id": 930182,
+      "title": "Music Station 06",
+      "category_id": 27069,
+      "category": "Music Station",
+      "icon": "radio_station",
+      "latitude": 0.6784593751804,
+      "longitude": -0.6420020475926,
+      "pixels": {
+        "11": {
+          "x": 1113.02,
+          "y": 1059.9
+        },
+        "13": {
+          "x": 4452.07,
+          "y": 4239.6
+        }
+      }
+    },
+    {
+      "id": 930230,
+      "title": "Music Station 02",
+      "category_id": 27069,
+      "category": "Music Station",
+      "icon": "radio_station",
+      "latitude": 0.49696072518859,
+      "longitude": -0.54293956275194,
+      "pixels": {
+        "11": {
+          "x": 1257.29,
+          "y": 1324.24
+        },
+        "13": {
+          "x": 5029.15,
+          "y": 5296.96
+        }
+      }
+    },
+    {
+      "id": 930267,
+      "title": "Music Station 05",
+      "category_id": 27069,
+      "category": "Music Station",
+      "icon": "radio_station",
+      "latitude": 0.85239538690925,
+      "longitude": -0.71220147653372,
+      "pixels": {
+        "11": {
+          "x": 1010.78,
+          "y": 806.56
+        },
+        "13": {
+          "x": 4043.13,
+          "y": 3226.25
+        }
+      }
+    },
+    {
+      "id": 930338,
+      "title": "Music Station 04",
+      "category_id": 27069,
+      "category": "Music Station",
+      "icon": "radio_station",
+      "latitude": 0.93967937257261,
+      "longitude": -0.62724794406012,
+      "pixels": {
+        "11": {
+          "x": 1134.5,
+          "y": 679.43
+        },
+        "13": {
+          "x": 4538.02,
+          "y": 2717.73
+        }
+      }
+    },
+    {
+      "id": 930360,
+      "title": "Music Station 07",
+      "category_id": 27069,
+      "category": "Music Station",
+      "icon": "radio_station",
+      "latitude": 0.94298735736099,
+      "longitude": -0.89409352251369,
+      "pixels": {
+        "11": {
+          "x": 745.88,
+          "y": 674.61
+        },
+        "13": {
+          "x": 2983.53,
+          "y": 2698.45
+        }
+      }
+    },
+    {
+      "id": 930134,
+      "title": "Firework Launcher",
+      "category_id": 27071,
+      "category": "Firework Launcher",
+      "icon": "firework_launcher",
+      "latitude": 0.83151332952605,
+      "longitude": -0.90844567838116,
+      "pixels": {
+        "11": {
+          "x": 724.98,
+          "y": 836.98
+        },
+        "13": {
+          "x": 2899.92,
+          "y": 3347.91
+        }
+      }
+    },
+    {
+      "id": 930157,
+      "title": "Firework Launcher",
+      "category_id": 27071,
+      "category": "Firework Launcher",
+      "icon": "firework_launcher",
+      "latitude": 0.82418652259237,
+      "longitude": -0.83446480056062,
+      "pixels": {
+        "11": {
+          "x": 832.72,
+          "y": 847.65
+        },
+        "13": {
+          "x": 3330.89,
+          "y": 3390.6
+        }
+      }
+    },
+    {
+      "id": 930165,
+      "title": "Firework Launcher",
+      "category_id": 27071,
+      "category": "Firework Launcher",
+      "icon": "firework_launcher",
+      "latitude": 0.79520116288265,
+      "longitude": -0.81444740295302,
+      "pixels": {
+        "11": {
+          "x": 861.88,
+          "y": 889.87
+        },
+        "13": {
+          "x": 3447.5,
+          "y": 3559.47
+        }
+      }
+    },
+    {
+      "id": 930203,
+      "title": "Firework Launcher",
+      "category_id": 27071,
+      "category": "Firework Launcher",
+      "icon": "firework_launcher",
+      "latitude": 0.65824164873258,
+      "longitude": -0.59352552126825,
+      "pixels": {
+        "11": {
+          "x": 1183.62,
+          "y": 1089.35
+        },
+        "13": {
+          "x": 4734.46,
+          "y": 4357.38
+        }
+      }
+    },
+    {
+      "id": 930232,
+      "title": "Firework Launcher",
+      "category_id": 27071,
+      "category": "Firework Launcher",
+      "icon": "firework_launcher",
+      "latitude": 0.52197254788524,
+      "longitude": -0.56273840131936,
+      "pixels": {
+        "11": {
+          "x": 1228.45,
+          "y": 1287.81
+        },
+        "13": {
+          "x": 4913.81,
+          "y": 5151.25
+        }
+      }
+    },
+    {
+      "id": 930247,
+      "title": "Firework Launcher",
+      "category_id": 27071,
+      "category": "Firework Launcher",
+      "icon": "firework_launcher",
+      "latitude": 0.95194191775613,
+      "longitude": -0.74944674968611,
+      "pixels": {
+        "11": {
+          "x": 956.54,
+          "y": 661.57
+        },
+        "13": {
+          "x": 3826.16,
+          "y": 2646.28
+        }
+      }
+    },
+    {
+      "id": 930280,
+      "title": "Firework Launcher",
+      "category_id": 27071,
+      "category": "Firework Launcher",
+      "icon": "firework_launcher",
+      "latitude": 0.83543864388764,
+      "longitude": -0.61815319456903,
+      "pixels": {
+        "11": {
+          "x": 1147.75,
+          "y": 831.26
+        },
+        "13": {
+          "x": 4591.0,
+          "y": 3325.04
+        }
+      }
+    },
+    {
+      "id": 930304,
+      "title": "Firework Launcher",
+      "category_id": 27071,
+      "category": "Firework Launcher",
+      "icon": "firework_launcher",
+      "latitude": 0.80919011062291,
+      "longitude": -0.67288663831346,
+      "pixels": {
+        "11": {
+          "x": 1068.04,
+          "y": 869.49
+        },
+        "13": {
+          "x": 4272.15,
+          "y": 3477.97
+        }
+      }
+    },
+    {
+      "id": 930161,
+      "title": "Red Tower",
+      "category_id": 27072,
+      "category": "Tower",
+      "icon": "tower",
+      "latitude": 0.79231001902671,
+      "longitude": -0.81852436065623,
+      "pixels": {
+        "11": {
+          "x": 855.94,
+          "y": 894.08
+        },
+        "13": {
+          "x": 3423.75,
+          "y": 3576.31
+        }
+      }
+    },
+    {
+      "id": 930196,
+      "title": "Green Tower",
+      "category_id": 27072,
+      "category": "Tower",
+      "icon": "tower",
+      "latitude": 0.65361427933465,
+      "longitude": -0.59338226799559,
+      "pixels": {
+        "11": {
+          "x": 1183.82,
+          "y": 1096.08
+        },
+        "13": {
+          "x": 4735.3,
+          "y": 4384.34
+        }
+      }
+    },
+    {
+      "id": 930244,
+      "title": "Yellow Tower",
+      "category_id": 27072,
+      "category": "Tower",
+      "icon": "tower",
+      "latitude": 0.94816826298813,
+      "longitude": -0.74900820884528,
+      "pixels": {
+        "11": {
+          "x": 957.18,
+          "y": 667.07
+        },
+        "13": {
+          "x": 3828.71,
+          "y": 2668.27
+        }
+      }
+    },
+    {
+      "id": 930276,
+      "title": "Blue Tower",
+      "category_id": 27072,
+      "category": "Tower",
+      "icon": "tower",
+      "latitude": 0.83303563935326,
+      "longitude": -0.62309576032169,
+      "pixels": {
+        "11": {
+          "x": 1140.55,
+          "y": 834.76
+        },
+        "13": {
+          "x": 4562.2,
+          "y": 3339.04
+        }
+      }
+    },
+    {
+      "id": 930314,
+      "title": "Black Tower",
+      "category_id": 27072,
+      "category": "Tower",
+      "icon": "tower",
+      "latitude": 0.86978672293255,
+      "longitude": -0.69959169577498,
+      "pixels": {
+        "11": {
+          "x": 1029.15,
+          "y": 781.23
+        },
+        "13": {
+          "x": 4116.58,
+          "y": 3124.93
+        }
+      }
+    },
+    {
+      "id": 930153,
+      "title": "Gray Key Holder",
+      "category_id": 27073,
+      "category": "Key Holder",
+      "icon": "key_holder",
+      "latitude": 0.8343375432824,
+      "longitude": -0.96718735498251,
+      "pixels": {
+        "11": {
+          "x": 639.43,
+          "y": 832.86
+        },
+        "13": {
+          "x": 2557.73,
+          "y": 3331.46
+        }
+      }
+    },
+    {
+      "id": 930190,
+      "title": "Red Key Holder",
+      "category_id": 27073,
+      "category": "Key Holder",
+      "icon": "key_holder",
+      "latitude": 0.82694942911839,
+      "longitude": -0.81533549996385,
+      "pixels": {
+        "11": {
+          "x": 860.58,
+          "y": 843.63
+        },
+        "13": {
+          "x": 3442.33,
+          "y": 3374.5
+        }
+      }
+    },
+    {
+      "id": 930207,
+      "title": "Green Key Holder",
+      "category_id": 27073,
+      "category": "Key Holder",
+      "icon": "key_holder",
+      "latitude": 0.64966388884301,
+      "longitude": -0.5702427939577,
+      "pixels": {
+        "11": {
+          "x": 1217.52,
+          "y": 1101.84
+        },
+        "13": {
+          "x": 4870.09,
+          "y": 4407.35
+        }
+      }
+    },
+    {
+      "id": 930265,
+      "title": "Yellow Key Holder",
+      "category_id": 27073,
+      "category": "Key Holder",
+      "icon": "key_holder",
+      "latitude": 0.85360630295401,
+      "longitude": -0.72387400704974,
+      "pixels": {
+        "11": {
+          "x": 993.78,
+          "y": 804.8
+        },
+        "13": {
+          "x": 3975.13,
+          "y": 3219.2
+        }
+      }
+    },
+    {
+      "id": 930284,
+      "title": "Blue Key Holder",
+      "category_id": 27073,
+      "category": "Key Holder",
+      "icon": "key_holder",
+      "latitude": 0.86544186397472,
+      "longitude": -0.62908047820667,
+      "pixels": {
+        "11": {
+          "x": 1131.84,
+          "y": 787.56
+        },
+        "13": {
+          "x": 4527.34,
+          "y": 3150.24
+        }
+      }
+    },
+    {
+      "id": 930334,
+      "title": "Black Key Holder",
+      "category_id": 27073,
+      "category": "Key Holder",
+      "icon": "key_holder",
+      "latitude": 1.0366484516406,
+      "longitude": -0.71608112373931,
+      "pixels": {
+        "11": {
+          "x": 1005.13,
+          "y": 538.19
+        },
+        "13": {
+          "x": 4020.53,
+          "y": 2152.76
+        }
+      }
+    },
+    {
+      "id": 930371,
+      "title": "Silver Key Holder",
+      "category_id": 27073,
+      "category": "Key Holder",
+      "icon": "key_holder",
+      "latitude": 0.84830864685448,
+      "longitude": -0.83023345680763,
+      "pixels": {
+        "11": {
+          "x": 838.88,
+          "y": 812.52
+        },
+        "13": {
+          "x": 3355.54,
+          "y": 3250.06
+        }
+      }
+    },
+    {
+      "id": 930175,
+      "title": "Train Station",
+      "category_id": 27075,
+      "category": "Train Station",
+      "icon": "train_station",
+      "latitude": 0.68716127120776,
+      "longitude": -0.77838953091862,
+      "pixels": {
+        "11": {
+          "x": 914.39,
+          "y": 1047.22
+        },
+        "13": {
+          "x": 3657.55,
+          "y": 4188.9
+        }
+      }
+    },
+    {
+      "id": 930208,
+      "title": "Train Station",
+      "category_id": 27075,
+      "category": "Train Station",
+      "icon": "train_station",
+      "latitude": 0.54103783871595,
+      "longitude": -0.63183270377797,
+      "pixels": {
+        "11": {
+          "x": 1127.83,
+          "y": 1260.04
+        },
+        "13": {
+          "x": 4511.31,
+          "y": 5040.18
+        }
+      }
+    },
+    {
+      "id": 930210,
+      "title": "Train Station",
+      "category_id": 27075,
+      "category": "Train Station",
+      "icon": "train_station",
+      "latitude": 0.57382756797166,
+      "longitude": -0.70641338825331,
+      "pixels": {
+        "11": {
+          "x": 1019.21,
+          "y": 1212.29
+        },
+        "13": {
+          "x": 4076.84,
+          "y": 4849.16
+        }
+      }
+    },
+    {
+      "id": 930285,
+      "title": "Train Station",
+      "category_id": 27075,
+      "category": "Train Station",
+      "icon": "train_station",
+      "latitude": 0.86228143594474,
+      "longitude": -0.62828878848552,
+      "pixels": {
+        "11": {
+          "x": 1132.99,
+          "y": 792.16
+        },
+        "13": {
+          "x": 4531.95,
+          "y": 3168.66
+        }
+      }
+    },
+    {
+      "id": 930286,
+      "title": "Train Station",
+      "category_id": 27075,
+      "category": "Train Station",
+      "icon": "train_station",
+      "latitude": 0.86052936973846,
+      "longitude": -0.7964470652897,
+      "pixels": {
+        "11": {
+          "x": 888.09,
+          "y": 794.72
+        },
+        "13": {
+          "x": 3552.36,
+          "y": 3178.86
+        }
+      }
+    },
+    {
+      "id": 930288,
+      "title": "Train Station",
+      "category_id": 27075,
+      "category": "Train Station",
+      "icon": "train_station",
+      "latitude": 0.68459665347086,
+      "longitude": -0.59215670044094,
+      "pixels": {
+        "11": {
+          "x": 1185.61,
+          "y": 1050.96
+        },
+        "13": {
+          "x": 4742.44,
+          "y": 4203.84
+        }
+      }
+    },
+    {
+      "id": 930352,
+      "title": "Train Station",
+      "category_id": 27075,
+      "category": "Train Station",
+      "icon": "train_station",
+      "latitude": 0.91699846336955,
+      "longitude": -0.67197259446209,
+      "pixels": {
+        "11": {
+          "x": 1069.37,
+          "y": 712.47
+        },
+        "13": {
+          "x": 4277.48,
+          "y": 2849.87
+        }
+      }
+    },
+    {
+      "id": 930206,
+      "title": "Lift Station",
+      "category_id": 27078,
+      "category": "Lift Station",
+      "icon": "lift_station",
+      "latitude": 0.64829068591924,
+      "longitude": -0.57256022254779,
+      "pixels": {
+        "11": {
+          "x": 1214.15,
+          "y": 1103.84
+        },
+        "13": {
+          "x": 4856.59,
+          "y": 4415.35
+        }
+      }
+    },
+    {
+      "id": 930240,
+      "title": "Lift Station",
+      "category_id": 27078,
+      "category": "Lift Station",
+      "icon": "lift_station",
+      "latitude": 0.51459362260994,
+      "longitude": -0.58502343310326,
+      "pixels": {
+        "11": {
+          "x": 1196.0,
+          "y": 1298.56
+        },
+        "13": {
+          "x": 4783.99,
+          "y": 5194.23
+        }
+      }
+    },
+    {
+      "id": 930241,
+      "title": "Lift Station",
+      "category_id": 27078,
+      "category": "Lift Station",
+      "icon": "lift_station",
+      "latitude": 0.81009277937348,
+      "longitude": -0.66239516288954,
+      "pixels": {
+        "11": {
+          "x": 1083.32,
+          "y": 868.18
+        },
+        "13": {
+          "x": 4333.27,
+          "y": 3472.71
+        }
+      }
+    },
+    {
+      "id": 930242,
+      "title": "Lift Station",
+      "category_id": 27078,
+      "category": "Lift Station",
+      "icon": "lift_station",
+      "latitude": 0.95177677703221,
+      "longitude": -0.73317962424508,
+      "pixels": {
+        "11": {
+          "x": 980.23,
+          "y": 661.81
+        },
+        "13": {
+          "x": 3920.92,
+          "y": 2647.24
+        }
+      }
+    },
+    {
+      "id": 930243,
+      "title": "Lift Station",
+      "category_id": 27078,
+      "category": "Lift Station",
+      "icon": "lift_station",
+      "latitude": 0.99119092633671,
+      "longitude": -0.84529758022421,
+      "pixels": {
+        "11": {
+          "x": 816.95,
+          "y": 604.4
+        },
+        "13": {
+          "x": 3267.78,
+          "y": 2417.61
+        }
+      }
+    },
+    {
+      "id": 930135,
+      "title": "Scanner",
+      "category_id": 27080,
+      "category": "Scanner",
+      "icon": "scanner",
+      "latitude": 0.82876983782086,
+      "longitude": -0.91053083600468,
+      "pixels": {
+        "11": {
+          "x": 721.94,
+          "y": 840.97
+        },
+        "13": {
+          "x": 2887.77,
+          "y": 3363.9
+        }
+      }
+    },
+    {
+      "id": 930163,
+      "title": "Scanner",
+      "category_id": 27080,
+      "category": "Scanner",
+      "icon": "scanner",
+      "latitude": 0.79102268159328,
+      "longitude": -0.81594944000159,
+      "pixels": {
+        "11": {
+          "x": 859.69,
+          "y": 895.95
+        },
+        "13": {
+          "x": 3438.75,
+          "y": 3583.81
+        }
+      }
+    },
+    {
+      "id": 930198,
+      "title": "Scanner",
+      "category_id": 27080,
+      "category": "Scanner",
+      "icon": "scanner",
+      "latitude": 0.65516704278323,
+      "longitude": -0.59099762442239,
+      "pixels": {
+        "11": {
+          "x": 1187.3,
+          "y": 1093.82
+        },
+        "13": {
+          "x": 4749.19,
+          "y": 4375.29
+        }
+      }
+    },
+    {
+      "id": 930235,
+      "title": "Scanner",
+      "category_id": 27080,
+      "category": "Scanner",
+      "icon": "scanner",
+      "latitude": 0.52244748651857,
+      "longitude": -0.55154035395609,
+      "pixels": {
+        "11": {
+          "x": 1244.76,
+          "y": 1287.12
+        },
+        "13": {
+          "x": 4979.04,
+          "y": 5148.48
+        }
+      }
+    },
+    {
+      "id": 930246,
+      "title": "Scanner",
+      "category_id": 27080,
+      "category": "Scanner",
+      "icon": "scanner",
+      "latitude": 0.94662352179527,
+      "longitude": -0.74669855799627,
+      "pixels": {
+        "11": {
+          "x": 960.54,
+          "y": 669.32
+        },
+        "13": {
+          "x": 3842.17,
+          "y": 2677.27
+        }
+      }
+    },
+    {
+      "id": 930278,
+      "title": "Scanner",
+      "category_id": 27080,
+      "category": "Scanner",
+      "icon": "scanner",
+      "latitude": 0.83397967702338,
+      "longitude": -0.62023267724567,
+      "pixels": {
+        "11": {
+          "x": 1144.72,
+          "y": 833.39
+        },
+        "13": {
+          "x": 4578.88,
+          "y": 3333.54
+        }
+      }
+    },
+    {
+      "id": 930368,
+      "title": "Scanner",
+      "category_id": 27080,
+      "category": "Scanner",
+      "icon": "scanner",
+      "latitude": 0.85409278871202,
+      "longitude": -0.80000683223864,
+      "pixels": {
+        "11": {
+          "x": 882.91,
+          "y": 804.09
+        },
+        "13": {
+          "x": 3531.62,
+          "y": 3216.36
+        }
+      }
+    },
+    {
+      "id": 930155,
+      "title": "Music Player",
+      "category_id": 27081,
+      "category": "Music Player",
+      "icon": "music_player",
+      "latitude": 0.76097186086945,
+      "longitude": -0.93078093125615,
+      "pixels": {
+        "11": {
+          "x": 692.45,
+          "y": 939.72
+        },
+        "13": {
+          "x": 2769.81,
+          "y": 3758.89
+        }
+      }
+    },
+    {
+      "id": 930180,
+      "title": "Music Player",
+      "category_id": 27081,
+      "category": "Music Player",
+      "icon": "music_player",
+      "latitude": 0.70586445299601,
+      "longitude": -0.70920310191266,
+      "pixels": {
+        "11": {
+          "x": 1015.15,
+          "y": 1019.98
+        },
+        "13": {
+          "x": 4060.59,
+          "y": 4079.94
+        }
+      }
+    },
+    {
+      "id": 930183,
+      "title": "Music Player",
+      "category_id": 27081,
+      "category": "Music Player",
+      "icon": "music_player",
+      "latitude": 0.67828772583525,
+      "longitude": -0.64457696824684,
+      "pixels": {
+        "11": {
+          "x": 1109.27,
+          "y": 1060.15
+        },
+        "13": {
+          "x": 4437.07,
+          "y": 4240.6
+        }
+      }
+    },
+    {
+      "id": 930231,
+      "title": "Music Player",
+      "category_id": 27081,
+      "category": "Music Player",
+      "icon": "music_player",
+      "latitude": 0.49498669331595,
+      "longitude": -0.54113711829521,
+      "pixels": {
+        "11": {
+          "x": 1259.91,
+          "y": 1327.11
+        },
+        "13": {
+          "x": 5039.65,
+          "y": 5308.46
+        }
+      }
+    },
+    {
+      "id": 930268,
+      "title": "Music Player",
+      "category_id": 27081,
+      "category": "Music Player",
+      "icon": "music_player",
+      "latitude": 0.85248120809855,
+      "longitude": -0.70928323312555,
+      "pixels": {
+        "11": {
+          "x": 1015.03,
+          "y": 806.44
+        },
+        "13": {
+          "x": 4060.13,
+          "y": 3225.75
+        }
+      }
+    },
+    {
+      "id": 930305,
+      "title": "Music Player",
+      "category_id": 27081,
+      "category": "Music Player",
+      "icon": "music_player",
+      "latitude": 0.81099237492515,
+      "longitude": -0.67820814099849,
+      "pixels": {
+        "11": {
+          "x": 1060.29,
+          "y": 866.87
+        },
+        "13": {
+          "x": 4241.15,
+          "y": 3467.47
+        }
+      }
+    },
+    {
+      "id": 930339,
+      "title": "Music Player",
+      "category_id": 27081,
+      "category": "Music Player",
+      "icon": "music_player",
+      "latitude": 0.936589881969,
+      "longitude": -0.62699045199565,
+      "pixels": {
+        "11": {
+          "x": 1134.88,
+          "y": 683.93
+        },
+        "13": {
+          "x": 4539.52,
+          "y": 2735.73
+        }
+      }
+    },
+    {
+      "id": 930361,
+      "title": "Music Player",
+      "category_id": 27081,
+      "category": "Music Player",
+      "icon": "music_player",
+      "latitude": 0.94418882405051,
+      "longitude": -0.89186192461258,
+      "pixels": {
+        "11": {
+          "x": 749.13,
+          "y": 672.86
+        },
+        "13": {
+          "x": 2996.53,
+          "y": 2691.45
+        }
+      }
+    },
+    {
+      "id": 930367,
+      "title": "Music Player",
+      "category_id": 27081,
+      "category": "Music Player",
+      "icon": "music_player",
+      "latitude": 0.85538689840125,
+      "longitude": -0.8023242608279,
+      "pixels": {
+        "11": {
+          "x": 879.53,
+          "y": 802.21
+        },
+        "13": {
+          "x": 3518.12,
+          "y": 3208.83
+        }
+      }
+    },
+    {
+      "id": 930154,
+      "title": "Flashlight",
+      "category_id": 27082,
+      "category": "Flashlight",
+      "icon": "flashlight",
+      "latitude": 0.83080054023894,
+      "longitude": -0.97096390527417,
+      "pixels": {
+        "11": {
+          "x": 633.93,
+          "y": 838.02
+        },
+        "13": {
+          "x": 2535.73,
+          "y": 3352.07
+        }
+      }
+    },
+    {
+      "id": 930162,
+      "title": "Flashlight",
+      "category_id": 27082,
+      "category": "Flashlight",
+      "icon": "flashlight",
+      "latitude": 0.79368583910532,
+      "longitude": -0.82092725371299,
+      "pixels": {
+        "11": {
+          "x": 852.44,
+          "y": 892.07
+        },
+        "13": {
+          "x": 3409.75,
+          "y": 3568.3
+        }
+      }
+    },
+    {
+      "id": 930197,
+      "title": "Flashlight",
+      "category_id": 27082,
+      "category": "Flashlight",
+      "icon": "flashlight",
+      "latitude": 0.65164821338732,
+      "longitude": -0.59151260855324,
+      "pixels": {
+        "11": {
+          "x": 1186.55,
+          "y": 1098.95
+        },
+        "13": {
+          "x": 4746.19,
+          "y": 4395.79
+        }
+      }
+    },
+    {
+      "id": 930245,
+      "title": "Flashlight",
+      "category_id": 27082,
+      "category": "Flashlight",
+      "icon": "flashlight",
+      "latitude": 0.95054589171848,
+      "longitude": -0.746784388686,
+      "pixels": {
+        "11": {
+          "x": 960.42,
+          "y": 663.6
+        },
+        "13": {
+          "x": 3841.67,
+          "y": 2654.41
+        }
+      }
+    },
+    {
+      "id": 930266,
+      "title": "Flashlight",
+      "category_id": 27082,
+      "category": "Flashlight",
+      "icon": "flashlight",
+      "latitude": 0.85305239259759,
+      "longitude": -0.71676602637825,
+      "pixels": {
+        "11": {
+          "x": 1004.13,
+          "y": 805.61
+        },
+        "13": {
+          "x": 4016.54,
+          "y": 3222.43
+        }
+      }
+    },
+    {
+      "id": 930269,
+      "title": "Flashlight",
+      "category_id": 27082,
+      "category": "Flashlight",
+      "icon": "flashlight",
+      "latitude": 0.82547332767064,
+      "longitude": -0.64015116097596,
+      "pixels": {
+        "11": {
+          "x": 1115.71,
+          "y": 845.78
+        },
+        "13": {
+          "x": 4462.85,
+          "y": 3383.1
+        }
+      }
+    },
+    {
+      "id": 930270,
+      "title": "Flashlight",
+      "category_id": 27082,
+      "category": "Flashlight",
+      "icon": "flashlight",
+      "latitude": 0.71594178188724,
+      "longitude": -0.60584028013307,
+      "pixels": {
+        "11": {
+          "x": 1165.68,
+          "y": 1005.31
+        },
+        "13": {
+          "x": 4662.72,
+          "y": 4021.23
+        }
+      }
+    },
+    {
+      "id": 930274,
+      "title": "Flashlight",
+      "category_id": 27082,
+      "category": "Flashlight",
+      "icon": "flashlight",
+      "latitude": 0.78365172189173,
+      "longitude": -0.78798891606829,
+      "pixels": {
+        "11": {
+          "x": 900.41,
+          "y": 906.69
+        },
+        "13": {
+          "x": 3601.63,
+          "y": 3626.76
+        }
+      }
+    },
+    {
+      "id": 930277,
+      "title": "Flashlight",
+      "category_id": 27082,
+      "category": "Flashlight",
+      "icon": "flashlight",
+      "latitude": 0.8362349838208,
+      "longitude": -0.62203512170615,
+      "pixels": {
+        "11": {
+          "x": 1142.1,
+          "y": 830.1
+        },
+        "13": {
+          "x": 4568.38,
+          "y": 3320.41
+        }
+      }
+    },
+    {
+      "id": 930307,
+      "title": "Green Flare Gun",
+      "category_id": 27083,
+      "category": "Flare Gun",
+      "icon": "flare_gun",
+      "latitude": 0.79666006057823,
+      "longitude": -0.69288518872875,
+      "pixels": {
+        "11": {
+          "x": 1038.91,
+          "y": 887.74
+        },
+        "13": {
+          "x": 4155.65,
+          "y": 3550.97
+        }
+      }
+    },
+    {
+      "id": 930317,
+      "title": "Red Flare Gun",
+      "category_id": 27083,
+      "category": "Flare Gun",
+      "icon": "flare_gun",
+      "latitude": 0.74609457320828,
+      "longitude": -0.67347357399947,
+      "pixels": {
+        "11": {
+          "x": 1067.18,
+          "y": 961.39
+        },
+        "13": {
+          "x": 4268.73,
+          "y": 3845.56
+        }
+      }
+    },
+    {
+      "id": 930354,
+      "title": "Blue Flare Gun",
+      "category_id": 27083,
+      "category": "Flare Gun",
+      "icon": "flare_gun",
+      "latitude": 0.90490209923368,
+      "longitude": -0.66681265663649,
+      "pixels": {
+        "11": {
+          "x": 1076.88,
+          "y": 730.09
+        },
+        "13": {
+          "x": 4307.53,
+          "y": 2920.34
+        }
+      }
+    },
+    {
+      "id": 930364,
+      "title": "Yellow Flare Gun",
+      "category_id": 27083,
+      "category": "Flare Gun",
+      "icon": "flare_gun",
+      "latitude": 0.87733096121491,
+      "longitude": -0.94223479089433,
+      "pixels": {
+        "11": {
+          "x": 675.77,
+          "y": 770.24
+        },
+        "13": {
+          "x": 2703.08,
+          "y": 3080.98
+        }
+      }
+    },
+    {
+      "id": 930169,
+      "title": "Yellow Backpack",
+      "category_id": 27084,
+      "category": "Backpack",
+      "icon": "backpack",
+      "latitude": 0.73685760533182,
+      "longitude": -0.83914518356647,
+      "pixels": {
+        "11": {
+          "x": 825.91,
+          "y": 974.84
+        },
+        "13": {
+          "x": 3303.62,
+          "y": 3899.38
+        }
+      }
+    },
+    {
+      "id": 930213,
+      "title": "Pink Backpack",
+      "category_id": 27084,
+      "category": "Backpack",
+      "icon": "backpack",
+      "latitude": 0.4977151739301,
+      "longitude": -0.65518319606724,
+      "pixels": {
+        "11": {
+          "x": 1093.82,
+          "y": 1323.14
+        },
+        "13": {
+          "x": 4375.28,
+          "y": 5292.56
+        }
+      }
+    },
+    {
+      "id": 930236,
+      "title": "Red Backpack",
+      "category_id": 27084,
+      "category": "Backpack",
+      "icon": "backpack",
+      "latitude": 0.46157441778816,
+      "longitude": -0.5238063856815,
+      "pixels": {
+        "11": {
+          "x": 1285.15,
+          "y": 1375.78
+        },
+        "13": {
+          "x": 5140.61,
+          "y": 5503.11
+        }
+      }
+    },
+    {
+      "id": 930294,
+      "title": "Green Backpack",
+      "category_id": 27084,
+      "category": "Backpack",
+      "icon": "backpack",
+      "latitude": 0.75113130718285,
+      "longitude": -0.70552084846275,
+      "pixels": {
+        "11": {
+          "x": 1020.51,
+          "y": 954.05
+        },
+        "13": {
+          "x": 4082.04,
+          "y": 3816.22
+        }
+      }
+    },
+    {
+      "id": 930348,
+      "title": "Orange Backpack",
+      "category_id": 27084,
+      "category": "Backpack",
+      "icon": "backpack",
+      "latitude": 0.94302601716556,
+      "longitude": -0.54879179558156,
+      "pixels": {
+        "11": {
+          "x": 1248.76,
+          "y": 674.56
+        },
+        "13": {
+          "x": 4995.06,
+          "y": 2698.23
+        }
+      }
+    },
+    {
+      "id": 930363,
+      "title": "Blue Backpack",
+      "category_id": 27084,
+      "category": "Backpack",
+      "icon": "backpack",
+      "latitude": 0.88603136837801,
+      "longitude": -0.85861989625855,
+      "pixels": {
+        "11": {
+          "x": 797.54,
+          "y": 757.57
+        },
+        "13": {
+          "x": 3190.18,
+          "y": 3030.29
+        }
+      }
+    },
+    {
+      "id": 930237,
+      "title": "Hip Pack",
+      "category_id": 27085,
+      "category": "Hip Pack",
+      "icon": "hip_pack",
+      "latitude": 0.45960037573813,
+      "longitude": -0.52595215289338,
+      "pixels": {
+        "11": {
+          "x": 1282.03,
+          "y": 1378.65
+        },
+        "13": {
+          "x": 5128.11,
+          "y": 5514.61
+        }
+      }
+    },
+    {
+      "id": 930297,
+      "title": "Hip Pack",
+      "category_id": 27085,
+      "category": "Hip Pack",
+      "icon": "hip_pack",
+      "latitude": 0.85585856148893,
+      "longitude": -0.76474506545026,
+      "pixels": {
+        "11": {
+          "x": 934.26,
+          "y": 801.52
+        },
+        "13": {
+          "x": 3737.04,
+          "y": 3206.08
+        }
+      }
+    },
+    {
+      "id": 930318,
+      "title": "Hip Pack",
+      "category_id": 27085,
+      "category": "Hip Pack",
+      "icon": "hip_pack",
+      "latitude": 0.73670197854088,
+      "longitude": -0.60835105392295,
+      "pixels": {
+        "11": {
+          "x": 1162.02,
+          "y": 975.07
+        },
+        "13": {
+          "x": 4648.1,
+          "y": 3900.28
+        }
+      }
+    },
+    {
+      "id": 930335,
+      "title": "Hip Pack",
+      "category_id": 27085,
+      "category": "Hip Pack",
+      "icon": "hip_pack",
+      "latitude": 0.82435975940405,
+      "longitude": -0.64292572147411,
+      "pixels": {
+        "11": {
+          "x": 1111.67,
+          "y": 847.4
+        },
+        "13": {
+          "x": 4446.69,
+          "y": 3389.59
+        }
+      }
+    },
+    {
+      "id": 930351,
+      "title": "Hip Pack",
+      "category_id": 27085,
+      "category": "Hip Pack",
+      "icon": "hip_pack",
+      "latitude": 0.98501360031437,
+      "longitude": -0.67579738809854,
+      "pixels": {
+        "11": {
+          "x": 1063.8,
+          "y": 613.4
+        },
+        "13": {
+          "x": 4255.19,
+          "y": 2453.6
+        }
+      }
+    },
+    {
+      "id": 930253,
+      "title": "Megaphone",
+      "category_id": 27086,
+      "category": "Megaphone",
+      "icon": "megaphone",
+      "latitude": 0.39198262560524,
+      "longitude": -0.55776293523044,
+      "pixels": {
+        "11": {
+          "x": 1235.7,
+          "y": 1477.13
+        },
+        "13": {
+          "x": 4942.8,
+          "y": 5908.52
+        }
+      }
+    },
+    {
+      "id": 930320,
+      "title": "Megaphone",
+      "category_id": 27086,
+      "category": "Megaphone",
+      "icon": "megaphone",
+      "latitude": 0.67614553803811,
+      "longitude": -0.52944206651884,
+      "pixels": {
+        "11": {
+          "x": 1276.94,
+          "y": 1063.27
+        },
+        "13": {
+          "x": 5107.78,
+          "y": 4253.08
+        }
+      }
+    },
+    {
+      "id": 930357,
+      "title": "Megaphone",
+      "category_id": 27086,
+      "category": "Megaphone",
+      "icon": "megaphone",
+      "latitude": 1.0024776456792,
+      "longitude": -0.80325088609246,
+      "pixels": {
+        "11": {
+          "x": 878.18,
+          "y": 587.96
+        },
+        "13": {
+          "x": 3512.72,
+          "y": 2351.85
+        }
+      }
+    },
+    {
+      "id": 930172,
+      "title": "Yellow Walkie-Talkie",
+      "category_id": 27087,
+      "category": "Walkie-Talkie",
+      "icon": "walkie_talkie",
+      "latitude": 0.76116170637042,
+      "longitude": -0.8006823062893,
+      "pixels": {
+        "11": {
+          "x": 881.92,
+          "y": 939.45
+        },
+        "13": {
+          "x": 3527.69,
+          "y": 3757.78
+        }
+      }
+    },
+    {
+      "id": 930173,
+      "title": "Blue Walkie-Talkie",
+      "category_id": 27087,
+      "category": "Walkie-Talkie",
+      "icon": "walkie_talkie",
+      "latitude": 0.76339310677368,
+      "longitude": -0.78034043312064,
+      "pixels": {
+        "11": {
+          "x": 911.55,
+          "y": 936.2
+        },
+        "13": {
+          "x": 3646.19,
+          "y": 3744.78
+        }
+      }
+    },
+    {
+      "id": 930300,
+      "title": "Yellow Walkie-Talkie",
+      "category_id": 27087,
+      "category": "Walkie-Talkie",
+      "icon": "walkie_talkie",
+      "latitude": 0.80689719541253,
+      "longitude": -0.64421981243001,
+      "pixels": {
+        "11": {
+          "x": 1109.79,
+          "y": 872.83
+        },
+        "13": {
+          "x": 4439.15,
+          "y": 3491.33
+        }
+      }
+    },
+    {
+      "id": 930301,
+      "title": "Blue Walkie-Talkie",
+      "category_id": 27087,
+      "category": "Walkie-Talkie",
+      "icon": "walkie_talkie",
+      "latitude": 0.80672555105632,
+      "longitude": -0.65752356914101,
+      "pixels": {
+        "11": {
+          "x": 1090.41,
+          "y": 873.08
+        },
+        "13": {
+          "x": 4361.65,
+          "y": 3492.33
+        }
+      }
+    },
+    {
+      "id": 930322,
+      "title": "Yellow Walkie-Talkie",
+      "category_id": 27087,
+      "category": "Walkie-Talkie",
+      "icon": "walkie_talkie",
+      "latitude": 0.64397521800554,
+      "longitude": -0.44809256770549,
+      "pixels": {
+        "11": {
+          "x": 1395.42,
+          "y": 1110.12
+        },
+        "13": {
+          "x": 5581.67,
+          "y": 4440.49
+        }
+      }
+    },
+    {
+      "id": 930324,
+      "title": "Blue Walkie-Talkie",
+      "category_id": 27087,
+      "category": "Walkie-Talkie",
+      "icon": "walkie_talkie",
+      "latitude": 0.64315441173611,
+      "longitude": -0.39552360787189,
+      "pixels": {
+        "11": {
+          "x": 1471.98,
+          "y": 1111.32
+        },
+        "13": {
+          "x": 5887.91,
+          "y": 4445.28
+        }
+      }
+    },
+    {
+      "id": 930345,
+      "title": "Yellow Walkie-Talkie",
+      "category_id": 27087,
+      "category": "Walkie-Talkie",
+      "icon": "walkie_talkie",
+      "latitude": 0.89759729400073,
+      "longitude": -0.59617008218831,
+      "pixels": {
+        "11": {
+          "x": 1179.76,
+          "y": 740.73
+        },
+        "13": {
+          "x": 4719.06,
+          "y": 2962.9
+        }
+      }
+    },
+    {
+      "id": 930346,
+      "title": "Blue Walkie-Talkie",
+      "category_id": 27087,
+      "category": "Walkie-Talkie",
+      "icon": "walkie_talkie",
+      "latitude": 0.9533954740934,
+      "longitude": -0.65010309219232,
+      "pixels": {
+        "11": {
+          "x": 1101.22,
+          "y": 659.45
+        },
+        "13": {
+          "x": 4404.88,
+          "y": 2637.81
+        }
+      }
+    },
+    {
+      "id": 930323,
+      "title": "Double Blob Holder",
+      "category_id": 27088,
+      "category": "Double Blob Holder",
+      "icon": "double_blob_holder",
+      "latitude": 0.68814485154057,
+      "longitude": -0.46669048694253,
+      "pixels": {
+        "11": {
+          "x": 1368.33,
+          "y": 1045.79
+        },
+        "13": {
+          "x": 5473.33,
+          "y": 4183.17
+        }
+      }
+    },
+    {
+      "id": 930176,
+      "title": "Clock",
+      "category_id": 27089,
+      "category": "Clock",
+      "icon": "clock",
+      "latitude": 0.68595972783798,
+      "longitude": -0.78087862088188,
+      "pixels": {
+        "11": {
+          "x": 910.76,
+          "y": 1048.97
+        },
+        "13": {
+          "x": 3643.05,
+          "y": 4195.9
+        }
+      }
+    },
+    {
+      "id": 930209,
+      "title": "Clock",
+      "category_id": 27089,
+      "category": "Clock",
+      "icon": "clock",
+      "latitude": 0.53897799368056,
+      "longitude": -0.63011609001094,
+      "pixels": {
+        "11": {
+          "x": 1130.33,
+          "y": 1263.04
+        },
+        "13": {
+          "x": 4521.31,
+          "y": 5052.18
+        }
+      }
+    },
+    {
+      "id": 930211,
+      "title": "Clock",
+      "category_id": 27089,
+      "category": "Clock",
+      "icon": "clock",
+      "latitude": 0.57125277587495,
+      "longitude": -0.70624172687636,
+      "pixels": {
+        "11": {
+          "x": 1019.46,
+          "y": 1216.04
+        },
+        "13": {
+          "x": 4077.84,
+          "y": 4864.16
+        }
+      }
+    },
+    {
+      "id": 930287,
+      "title": "Clock",
+      "category_id": 27089,
+      "category": "Clock",
+      "icon": "clock",
+      "latitude": 0.85795473862511,
+      "longitude": -0.7953312663395,
+      "pixels": {
+        "11": {
+          "x": 889.71,
+          "y": 798.47
+        },
+        "13": {
+          "x": 3558.86,
+          "y": 3193.86
+        }
+      }
+    },
+    {
+      "id": 930289,
+      "title": "Clock",
+      "category_id": 27089,
+      "category": "Clock",
+      "icon": "clock",
+      "latitude": 0.68296598652017,
+      "longitude": -0.59455995971823,
+      "pixels": {
+        "11": {
+          "x": 1182.11,
+          "y": 1053.34
+        },
+        "13": {
+          "x": 4728.44,
+          "y": 4213.34
+        }
+      }
+    },
+    {
+      "id": 930353,
+      "title": "Clock",
+      "category_id": 27089,
+      "category": "Clock",
+      "icon": "clock",
+      "latitude": 0.91433805180272,
+      "longitude": -0.67128594895422,
+      "pixels": {
+        "11": {
+          "x": 1070.37,
+          "y": 716.34
+        },
+        "13": {
+          "x": 4281.48,
+          "y": 2865.37
+        }
+      }
+    },
+    {
+      "id": 930194,
+      "title": "Map",
+      "category_id": 27090,
+      "category": "Map",
+      "icon": "map",
+      "latitude": 0.82418221908503,
+      "longitude": -0.80001175403646,
+      "pixels": {
+        "11": {
+          "x": 882.9,
+          "y": 847.66
+        },
+        "13": {
+          "x": 3531.59,
+          "y": 3390.62
+        }
+      }
+    },
+    {
+      "id": 930193,
+      "title": "Compass",
+      "category_id": 27091,
+      "category": "Compass",
+      "icon": "compass",
+      "latitude": 0.8221224951462,
+      "longitude": -0.79769432544759,
+      "pixels": {
+        "11": {
+          "x": 886.27,
+          "y": 850.66
+        },
+        "13": {
+          "x": 3545.09,
+          "y": 3402.62
+        }
+      }
+    },
+    {
+      "id": 930167,
+      "title": "Binoculars",
+      "category_id": 27092,
+      "category": "Binoculars",
+      "icon": "binoculars",
+      "latitude": 0.80060797192696,
+      "longitude": -0.81813812255746,
+      "pixels": {
+        "11": {
+          "x": 856.5,
+          "y": 881.99
+        },
+        "13": {
+          "x": 3426.0,
+          "y": 3527.97
+        }
+      }
+    },
+    {
+      "id": 930201,
+      "title": "Binoculars",
+      "category_id": 27092,
+      "category": "Binoculars",
+      "icon": "binoculars",
+      "latitude": 0.65156122841798,
+      "longitude": -0.59696244730625,
+      "pixels": {
+        "11": {
+          "x": 1178.61,
+          "y": 1099.07
+        },
+        "13": {
+          "x": 4714.44,
+          "y": 4396.3
+        }
+      }
+    },
+    {
+      "id": 930234,
+      "title": "Binoculars",
+      "category_id": 27092,
+      "category": "Binoculars",
+      "icon": "binoculars",
+      "latitude": 0.52658925018606,
+      "longitude": -0.54996927431694,
+      "pixels": {
+        "11": {
+          "x": 1247.05,
+          "y": 1281.09
+        },
+        "13": {
+          "x": 4988.2,
+          "y": 5124.35
+        }
+      }
+    },
+    {
+      "id": 930249,
+      "title": "Binoculars",
+      "category_id": 27092,
+      "category": "Binoculars",
+      "icon": "binoculars",
+      "latitude": 0.94595674588362,
+      "longitude": -0.75154378811717,
+      "pixels": {
+        "11": {
+          "x": 953.49,
+          "y": 670.29
+        },
+        "13": {
+          "x": 3813.94,
+          "y": 2681.15
+        }
+      }
+    },
+    {
+      "id": 930282,
+      "title": "Binoculars",
+      "category_id": 27092,
+      "category": "Binoculars",
+      "icon": "binoculars",
+      "latitude": 0.83914200483234,
+      "longitude": -0.6169241666808,
+      "pixels": {
+        "11": {
+          "x": 1149.54,
+          "y": 825.87
+        },
+        "13": {
+          "x": 4598.16,
+          "y": 3303.47
+        }
+      }
+    },
+    {
+      "id": 930299,
+      "title": "Binoculars",
+      "category_id": 27092,
+      "category": "Binoculars",
+      "icon": "binoculars",
+      "latitude": 0.82777487419182,
+      "longitude": -0.73883941972306,
+      "pixels": {
+        "11": {
+          "x": 971.99,
+          "y": 842.42
+        },
+        "13": {
+          "x": 3887.95,
+          "y": 3369.69
+        }
+      }
+    },
+    {
+      "id": 930306,
+      "title": "Binoculars",
+      "category_id": 27092,
+      "category": "Binoculars",
+      "icon": "binoculars",
+      "latitude": 0.81159312951478,
+      "longitude": -0.67477491345934,
+      "pixels": {
+        "11": {
+          "x": 1065.29,
+          "y": 865.99
+        },
+        "13": {
+          "x": 4261.15,
+          "y": 3463.97
+        }
+      }
+    },
+    {
+      "id": 930168,
+      "title": "Laser Pointer",
+      "category_id": 27093,
+      "category": "Laser Pointer",
+      "icon": "laser_pointer",
+      "latitude": 0.79949228175401,
+      "longitude": -0.81521987914928,
+      "pixels": {
+        "11": {
+          "x": 860.75,
+          "y": 883.62
+        },
+        "13": {
+          "x": 3443.0,
+          "y": 3534.47
+        }
+      }
+    },
+    {
+      "id": 930192,
+      "title": "Laser Pointers",
+      "category_id": 27093,
+      "category": "Laser Pointer",
+      "icon": "laser_pointer",
+      "latitude": 0.82100681090222,
+      "longitude": -0.79503357410488,
+      "pixels": {
+        "11": {
+          "x": 890.15,
+          "y": 852.28
+        },
+        "13": {
+          "x": 3560.59,
+          "y": 3409.12
+        }
+      }
+    },
+    {
+      "id": 930202,
+      "title": "Laser Pointer",
+      "category_id": 27093,
+      "category": "Laser Pointer",
+      "icon": "laser_pointer",
+      "latitude": 0.65464860317611,
+      "longitude": -0.59859395027149,
+      "pixels": {
+        "11": {
+          "x": 1176.23,
+          "y": 1094.58
+        },
+        "13": {
+          "x": 4704.94,
+          "y": 4378.31
+        }
+      }
+    },
+    {
+      "id": 930250,
+      "title": "Laser Pointer",
+      "category_id": 27093,
+      "category": "Laser Pointer",
+      "icon": "laser_pointer",
+      "latitude": 0.94989299228426,
+      "longitude": -0.75214460293276,
+      "pixels": {
+        "11": {
+          "x": 952.61,
+          "y": 664.55
+        },
+        "13": {
+          "x": 3810.44,
+          "y": 2658.22
+        }
+      }
+    },
+    {
+      "id": 930283,
+      "title": "Laser Pointer",
+      "category_id": 27093,
+      "category": "Laser Pointer",
+      "icon": "laser_pointer",
+      "latitude": 0.84181856142752,
+      "longitude": -0.61864078045031,
+      "pixels": {
+        "11": {
+          "x": 1147.04,
+          "y": 821.97
+        },
+        "13": {
+          "x": 4588.16,
+          "y": 3287.87
+        }
+      }
+    },
+    {
+      "id": 930159,
+      "title": "Whiteboards",
+      "category_id": 27094,
+      "category": "Whiteboard",
+      "icon": "whiteboard",
+      "latitude": 0.8375717336326,
+      "longitude": -0.83054817514085,
+      "pixels": {
+        "11": {
+          "x": 838.43,
+          "y": 828.15
+        },
+        "13": {
+          "x": 3353.71,
+          "y": 3312.62
+        }
+      }
+    },
+    {
+      "id": 930204,
+      "title": "Whiteboard",
+      "category_id": 27094,
+      "category": "Whiteboard",
+      "icon": "whiteboard",
+      "latitude": 0.63277388719797,
+      "longitude": -0.58209836483027,
+      "pixels": {
+        "11": {
+          "x": 1200.26,
+          "y": 1126.44
+        },
+        "13": {
+          "x": 4801.03,
+          "y": 4505.75
+        }
+      }
+    },
+    {
+      "id": 930229,
+      "title": "Coordinate Displayer",
+      "category_id": 27095,
+      "category": "Coordinate Displayer",
+      "icon": "coordinate_displayer",
+      "latitude": 0.63803760002958,
+      "longitude": -0.58212120021949,
+      "pixels": {
+        "11": {
+          "x": 1200.22,
+          "y": 1118.77
+        },
+        "13": {
+          "x": 4800.9,
+          "y": 4475.08
+        }
+      }
+    },
+    {
+      "id": 930138,
+      "title": "Gray Key",
+      "category_id": 27070,
+      "category": "Key",
+      "icon": "key",
+      "latitude": 0.83860025668133,
+      "longitude": -0.95654010772728,
+      "pixels": {
+        "11": {
+          "x": 654.94,
+          "y": 826.66
+        },
+        "13": {
+          "x": 2619.75,
+          "y": 3306.62
+        }
+      }
+    },
+    {
+      "id": 930164,
+      "title": "Red Key",
+      "category_id": 27070,
+      "category": "Key",
+      "icon": "key",
+      "latitude": 0.79623103181953,
+      "longitude": -0.81745147704964,
+      "pixels": {
+        "11": {
+          "x": 857.5,
+          "y": 888.37
+        },
+        "13": {
+          "x": 3430.0,
+          "y": 3553.47
+        }
+      }
+    },
+    {
+      "id": 930199,
+      "title": "Green Key",
+      "category_id": 27070,
+      "category": "Key",
+      "icon": "key",
+      "latitude": 0.65521698615156,
+      "longitude": -0.59591226964383,
+      "pixels": {
+        "11": {
+          "x": 1180.14,
+          "y": 1093.75
+        },
+        "13": {
+          "x": 4720.56,
+          "y": 4375.0
+        }
+      }
+    },
+    {
+      "id": 930251,
+      "title": "Yellow Key",
+      "category_id": 27070,
+      "category": "Key",
+      "icon": "key",
+      "latitude": 0.94834825186091,
+      "longitude": -0.7548053542755,
+      "pixels": {
+        "11": {
+          "x": 948.74,
+          "y": 666.8
+        },
+        "13": {
+          "x": 3794.94,
+          "y": 2667.22
+        }
+      }
+    },
+    {
+      "id": 930279,
+      "title": "Blue Key",
+      "category_id": 27070,
+      "category": "Key",
+      "icon": "key",
+      "latitude": 0.83834438811458,
+      "longitude": -0.61967830499785,
+      "pixels": {
+        "11": {
+          "x": 1145.53,
+          "y": 827.03
+        },
+        "13": {
+          "x": 4582.11,
+          "y": 3308.12
+        }
+      }
+    },
+    {
+      "id": 930315,
+      "title": "Black Key",
+      "category_id": 27070,
+      "category": "Key",
+      "icon": "key",
+      "latitude": 0.87360924783286,
+      "longitude": -0.69982354405073,
+      "pixels": {
+        "11": {
+          "x": 1028.81,
+          "y": 775.67
+        },
+        "13": {
+          "x": 4115.23,
+          "y": 3102.66
+        }
+      }
+    },
+    {
+      "id": 930366,
+      "title": "Silver Key",
+      "category_id": 27070,
+      "category": "Key",
+      "icon": "key",
+      "latitude": 0.84357316975755,
+      "longitude": -0.78542050825925,
+      "pixels": {
+        "11": {
+          "x": 904.15,
+          "y": 819.41
+        },
+        "13": {
+          "x": 3616.59,
+          "y": 3277.65
+        }
+      }
+    },
+    {
+      "id": 930160,
+      "title": "Radio Transmitter",
+      "category_id": 27074,
+      "category": "Radio Transmitter",
+      "icon": "radio_transmitter",
+      "latitude": 0.83456797936161,
+      "longitude": -0.83046234445237,
+      "pixels": {
+        "11": {
+          "x": 838.55,
+          "y": 832.53
+        },
+        "13": {
+          "x": 3354.21,
+          "y": 3330.12
+        }
+      }
+    },
+    {
+      "id": 930166,
+      "title": "Radio Transmitter",
+      "category_id": 27074,
+      "category": "Radio Transmitter",
+      "icon": "radio_transmitter",
+      "latitude": 0.79811912420199,
+      "longitude": -0.82028388976934,
+      "pixels": {
+        "11": {
+          "x": 853.38,
+          "y": 885.62
+        },
+        "13": {
+          "x": 3413.5,
+          "y": 3542.47
+        }
+      }
+    },
+    {
+      "id": 930200,
+      "title": "Radio Transmitter",
+      "category_id": 27074,
+      "category": "Radio Transmitter",
+      "icon": "radio_transmitter",
+      "latitude": 0.65046742444406,
+      "longitude": -0.59419492809815,
+      "pixels": {
+        "11": {
+          "x": 1182.64,
+          "y": 1100.67
+        },
+        "13": {
+          "x": 4730.56,
+          "y": 4402.67
+        }
+      }
+    },
+    {
+      "id": 930233,
+      "title": "Radio Transmitter",
+      "category_id": 27074,
+      "category": "Radio Transmitter",
+      "icon": "radio_transmitter",
+      "latitude": 0.52658925018606,
+      "longitude": -0.55411121154455,
+      "pixels": {
+        "11": {
+          "x": 1241.02,
+          "y": 1281.09
+        },
+        "13": {
+          "x": 4964.07,
+          "y": 5124.35
+        }
+      }
+    },
+    {
+      "id": 930248,
+      "title": "Radio Transmitter",
+      "category_id": 27074,
+      "category": "Radio Transmitter",
+      "icon": "radio_transmitter",
+      "latitude": 0.94414312166708,
+      "longitude": -0.74867963790842,
+      "pixels": {
+        "11": {
+          "x": 957.66,
+          "y": 672.93
+        },
+        "13": {
+          "x": 3830.63,
+          "y": 2691.72
+        }
+      }
+    },
+    {
+      "id": 930281,
+      "title": "Radio Transmitter",
+      "category_id": 27074,
+      "category": "Radio Transmitter",
+      "icon": "radio_transmitter",
+      "latitude": 0.83615245180206,
+      "longitude": -0.61557357946549,
+      "pixels": {
+        "11": {
+          "x": 1151.51,
+          "y": 830.22
+        },
+        "13": {
+          "x": 4606.02,
+          "y": 3320.89
+        }
+      }
+    },
+    {
+      "id": 930303,
+      "title": "Radio Transmitter",
+      "category_id": 27074,
+      "category": "Radio Transmitter",
+      "icon": "radio_transmitter",
+      "latitude": 0.80876099995689,
+      "longitude": -0.67631986585261,
+      "pixels": {
+        "11": {
+          "x": 1063.04,
+          "y": 870.12
+        },
+        "13": {
+          "x": 4252.15,
+          "y": 3480.47
+        }
+      }
+    },
+    {
+      "id": 930215,
+      "title": "Far Away Lights Puzzle Second Building",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.60336873566602,
+      "longitude": -0.50883791206755,
+      "pixels": {
+        "11": {
+          "x": 1306.95,
+          "y": 1169.26
+        },
+        "13": {
+          "x": 5227.8,
+          "y": 4677.06
+        }
+      }
+    },
+    {
+      "id": 930216,
+      "title": "Locked Box",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.81341302774446,
+      "longitude": -0.85798884849333,
+      "pixels": {
+        "11": {
+          "x": 798.46,
+          "y": 863.34
+        },
+        "13": {
+          "x": 3193.85,
+          "y": 3453.37
+        }
+      }
+    },
+    {
+      "id": 930217,
+      "title": "Pose Picture",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.6819140843218,
+      "longitude": -0.69005035282066,
+      "pixels": {
+        "11": {
+          "x": 1043.04,
+          "y": 1054.87
+        },
+        "13": {
+          "x": 4172.17,
+          "y": 4219.47
+        }
+      }
+    },
+    {
+      "id": 930218,
+      "title": "Pose Picture",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.65807255481731,
+      "longitude": -0.69720330076524,
+      "pixels": {
+        "11": {
+          "x": 1032.62,
+          "y": 1089.59
+        },
+        "13": {
+          "x": 4130.5,
+          "y": 4358.37
+        }
+      }
+    },
+    {
+      "id": 930219,
+      "title": "Pose Picture",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.64519878422416,
+      "longitude": -0.65866532163787,
+      "pixels": {
+        "11": {
+          "x": 1088.75,
+          "y": 1108.34
+        },
+        "13": {
+          "x": 4355.0,
+          "y": 4433.37
+        }
+      }
+    },
+    {
+      "id": 930220,
+      "title": "Pose Picture",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.61630480573551,
+      "longitude": -0.65297943271921,
+      "pixels": {
+        "11": {
+          "x": 1097.03,
+          "y": 1150.42
+        },
+        "13": {
+          "x": 4388.12,
+          "y": 4601.7
+        }
+      }
+    },
+    {
+      "id": 930221,
+      "title": "Pose Picture",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.60197189084586,
+      "longitude": -0.67581039585238,
+      "pixels": {
+        "11": {
+          "x": 1063.78,
+          "y": 1171.3
+        },
+        "13": {
+          "x": 4255.12,
+          "y": 4685.2
+        }
+      }
+    },
+    {
+      "id": 930223,
+      "title": "Second Switch",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.5185076670581,
+      "longitude": -0.75451314250856,
+      "pixels": {
+        "11": {
+          "x": 949.16,
+          "y": 1292.86
+        },
+        "13": {
+          "x": 3796.64,
+          "y": 5171.43
+        }
+      }
+    },
+    {
+      "id": 930259,
+      "title": "Multi-Light Puzzle Second Building",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.43915200890794,
+      "longitude": -0.68342952369832,
+      "pixels": {
+        "11": {
+          "x": 1052.68,
+          "y": 1408.43
+        },
+        "13": {
+          "x": 4210.73,
+          "y": 5633.73
+        }
+      }
+    },
+    {
+      "id": 930296,
+      "title": "Golf Tee",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.7442654367694,
+      "longitude": -0.72680685920554,
+      "pixels": {
+        "11": {
+          "x": 989.51,
+          "y": 964.05
+        },
+        "13": {
+          "x": 3958.04,
+          "y": 3856.22
+        }
+      }
+    },
+    {
+      "id": 930326,
+      "title": "Tower Switch",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.73579026894508,
+      "longitude": -0.42785497297351,
+      "pixels": {
+        "11": {
+          "x": 1424.89,
+          "y": 976.4
+        },
+        "13": {
+          "x": 5699.56,
+          "y": 3905.59
+        }
+      }
+    },
+    {
+      "id": 930327,
+      "title": "Tower Switch",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.71270365843705,
+      "longitude": -0.40133329023379,
+      "pixels": {
+        "11": {
+          "x": 1463.52,
+          "y": 1010.02
+        },
+        "13": {
+          "x": 5854.06,
+          "y": 4040.09
+        }
+      }
+    },
+    {
+      "id": 930333,
+      "title": "Camouflage Box Button",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.77716193694158,
+      "longitude": -0.52500484241688,
+      "pixels": {
+        "11": {
+          "x": 1283.41,
+          "y": 916.14
+        },
+        "13": {
+          "x": 5133.63,
+          "y": 3664.56
+        }
+      }
+    },
+    {
+      "id": 930337,
+      "title": "Musical Camouflage Box Button",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.82883718695599,
+      "longitude": -0.52920453501685,
+      "pixels": {
+        "11": {
+          "x": 1277.29,
+          "y": 840.88
+        },
+        "13": {
+          "x": 5109.16,
+          "y": 3363.51
+        }
+      }
+    },
+    {
+      "id": 930341,
+      "title": "Super Camouflage Box Switch",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.98143260999578,
+      "longitude": -0.5608865742164,
+      "pixels": {
+        "11": {
+          "x": 1231.15,
+          "y": 618.62
+        },
+        "13": {
+          "x": 4924.6,
+          "y": 2474.46
+        }
+      }
+    },
+    {
+      "id": 930343,
+      "title": "Brown Tower Button",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.54647482578362,
+      "longitude": -0.59705807184815,
+      "pixels": {
+        "11": {
+          "x": 1178.47,
+          "y": 1252.13
+        },
+        "13": {
+          "x": 4713.88,
+          "y": 5008.51
+        }
+      }
+    },
+    {
+      "id": 930356,
+      "title": "Double Cliff Puzzle Second Building",
+      "category_id": 27079,
+      "category": "Miscellaneous",
+      "icon": "miscellaneous",
+      "latitude": 0.95196042410585,
+      "longitude": -0.70884384536765,
+      "pixels": {
+        "11": {
+          "x": 1015.67,
+          "y": 661.54
+        },
+        "13": {
+          "x": 4062.69,
+          "y": 2646.17
+        }
+      }
+    }
+  ]
+}

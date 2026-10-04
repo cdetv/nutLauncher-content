@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "big-walk",
+  "name": "Big Walk",
+  "steamAppId": 1478500,
+  "exe": "Big Walk.exe",
+  "strategy": "bepinex-thunderstore",
+  "strategyOptions": {
+    "thunderstoreCommunity": "big-walk"
+  },
+  "packs": [
+    {
+      "id": "main",
+      "name": "Trail of Nuts",
+      "manifest": "packs/big-walk/main/pack.json"
+    }
+  ]
+}

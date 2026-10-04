@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "games": [
-    "valheim"
+    "valheim",
+    "big-walk"
   ]
 }

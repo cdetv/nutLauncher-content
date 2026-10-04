@@ -1,0 +1,430 @@
+{
+  "schema": 1,
+  "profileName": "Trail of Nuts",
+  "importedAt": "2026-10-04T16:21:57.0163689Z",
+  "source": "code:01a107ab-335b-5d3b-e084-2fb96ab9c818",
+  "mods": [
+    {
+      "id": "BepInEx-BepInExPack_IL2CPP",
+      "version": "6.0.755",
+      "enabled": true,
+      "size": 34367097,
+      "sha256": "a3ec977c7760c6045b742a9bf3e59c7b11baa80b023f402ebdbff07bad6b0d96",
+      "dependencies": [],
+      "pluginGuids": [],
+      "info": {
+        "name": "BepInExPack IL2CPP",
+        "author": "BepInEx",
+        "description": "BepInEx pack for IL2CPP x64 Unity games. Preconfigured and ready to use.",
+        "websiteUrl": "https://github.com/BepInEx/BepInEx",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/BepInEx/BepInExPack_IL2CPP/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/BepInEx-BepInExPack_IL2CPP-6.0.755.png"
+      }
+    },
+    {
+      "id": "glarmer-Big_Voice",
+      "version": "1.0.3",
+      "enabled": true,
+      "size": 118684,
+      "sha256": "82c8d2684daf749d0ff61c469b4d63d3b256f71165f65b72bbc593565bef8a8d",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "BigVoice"
+      ],
+      "info": {
+        "name": "Big Voice",
+        "author": "glarmer",
+        "description": "Configure and boost each player\u0027s voice volume individually with an in-game menu.",
+        "websiteUrl": "https://github.com/glarmer/Big_Voice/",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/glarmer/Big_Voice/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/glarmer-Big_Voice-1.0.3.png"
+      }
+    },
+    {
+      "id": "gugger-Core",
+      "version": "1.0.11",
+      "enabled": true,
+      "size": 120036,
+      "sha256": "f7ef5b64ed7e893ce40ad3035d7864adf86d9c0110964d7f3c6f399bc28604ca",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "com.smolmods.core"
+      ],
+      "info": {
+        "name": "Core",
+        "author": "gugger",
+        "description": "Shared plumbing for the smolMods family: adds the sMods settings category and the row API the other smolMods plugins register into. On its own it changes nothing - install a feature mod alongside it.",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/gugger/Core/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/gugger-Core-1.0.11.png"
+      }
+    },
+    {
+      "id": "gugger-ColorSelf",
+      "version": "1.0.11",
+      "enabled": true,
+      "size": 72600,
+      "sha256": "209b1f658d79d90954bd442131c3983df7445962f050cd03a518360d1a892321",
+      "dependencies": [
+        "gugger-Core"
+      ],
+      "pluginGuids": [
+        "com.smolmods.colorself"
+      ],
+      "info": {
+        "name": "ColorSelf",
+        "author": "gugger",
+        "description": "Pick your head, torso and legs colours from the game\u0027s own palette and keep them between walks, plus an optional torso-coloured HUD. Shiny colours appear only once you have earned the achievement.",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/gugger/ColorSelf/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/gugger-ColorSelf-1.0.11.png"
+      }
+    },
+    {
+      "id": "Ice_Box_Studio_BigWalk-BigWalkLocalizationAPI",
+      "version": "1.1.0",
+      "enabled": true,
+      "size": 136641,
+      "sha256": "646d6beb523fedc1944ace7b92a8a3287a9da83be0e6821920808cf5ed8ffa24",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "IceBoxStudio.BigWalk.LocalizationAPI"
+      ],
+      "info": {
+        "name": "BigWalkLocalizationAPI",
+        "author": "Ice_Box_Studio_BigWalk",
+        "description": "BigWalkLocalizationAPI is a shared localization API for Big Walk mods.",
+        "websiteUrl": "https://github.com/ibox233/IceBox_Mods_Issues",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/Ice_Box_Studio_BigWalk/BigWalkLocalizationAPI/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Ice_Box_Studio_BigWalk-BigWalkLocalizationAPI-1.1.0.png"
+      }
+    },
+    {
+      "id": "Ice_Box_Studio_BigWalk-ModSettingsMenu",
+      "version": "1.1.2",
+      "enabled": true,
+      "size": 68337,
+      "sha256": "5e8e0037c6f68bc6658d17483a69bd9fc1a235aeafabc9cafe13b77e802a807b",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP",
+        "Ice_Box_Studio_BigWalk-BigWalkLocalizationAPI"
+      ],
+      "pluginGuids": [
+        "IceBoxStudio.BigWalk.ModSettingsMenu"
+      ],
+      "info": {
+        "name": "ModSettingsMenu",
+        "author": "Ice_Box_Studio_BigWalk",
+        "description": "Adds a unified in-game mod configuration screen to the main and pause menus.",
+        "websiteUrl": "https://github.com/ibox233/IceBox_Mods_Issues",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/Ice_Box_Studio_BigWalk/ModSettingsMenu/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Ice_Box_Studio_BigWalk-ModSettingsMenu-1.1.2.png"
+      }
+    },
+    {
+      "id": "hsiddaz-QuickBelt",
+      "version": "1.0.1",
+      "enabled": true,
+      "size": 27934,
+      "sha256": "38453f407cafc5570776984195fe128440cdf5dab829d0886e88b88b6eba4870",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "com.zaddish.quickbelt"
+      ],
+      "info": {
+        "name": "QuickBelt",
+        "author": "hsiddaz",
+        "description": "Quickly grab items from your belt!",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/hsiddaz/QuickBelt/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/hsiddaz-QuickBelt-1.0.1.png"
+      }
+    },
+    {
+      "id": "glarmer-Big_Visuals",
+      "version": "1.0.1",
+      "enabled": true,
+      "size": 138939,
+      "sha256": "b2fd13e62b1c8ebd289e3960dc896a8bfec040d726f75700642bfb884d77b57b",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "Big_Visuals"
+      ],
+      "info": {
+        "name": "Big Visuals",
+        "author": "glarmer",
+        "description": "Improves graphics quality and allows for greater FOV values!",
+        "websiteUrl": "https://github.com/glarmer/Big_Visuals/",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/glarmer/Big_Visuals/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/glarmer-Big_Visuals-1.0.1.png"
+      }
+    },
+    {
+      "id": "SixSevenBrigade-Big_Person_View",
+      "version": "1.4.0",
+      "enabled": true,
+      "size": 165347,
+      "sha256": "f8d83543a4d8f947199f9175dc5e5e5032af8f57c66d2ac7320dc1ac94645c77",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "deck.bigwalk.thirdperson"
+      ],
+      "info": {
+        "name": "Big Person View",
+        "author": "SixSevenBrigade",
+        "description": "Walk around and actually see yourself. Put the camera behind you, in front of you looking back, off you entirely to fly it, or locked in mid-air while you walk around in front of it.",
+        "websiteUrl": "https://www.nexusmods.com/bigwalk/mods/9",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/SixSevenBrigade/Big_Person_View/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/SixSevenBrigade-Big_Person_View-1.4.0.png"
+      }
+    },
+    {
+      "id": "hsiddaz-BigYeet",
+      "version": "1.1.0",
+      "enabled": true,
+      "size": 51295,
+      "sha256": "134252b2f22d94e6894fb9ae39120ea819d91a6501cf0b4eb51aad985ba39a97",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "com.zaddish.bigyeet"
+      ],
+      "info": {
+        "name": "BigYeet",
+        "author": "hsiddaz",
+        "description": "YEET your friends!",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/hsiddaz/BigYeet/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/hsiddaz-BigYeet-1.1.0.png"
+      }
+    },
+    {
+      "id": "gugger-BigBack",
+      "version": "1.0.2",
+      "enabled": true,
+      "size": 121981,
+      "sha256": "277849174adf45e8219b0e3980d40ce5397fea9e9adde667b7018fbd658b5ed5",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP",
+        "gugger-Core"
+      ],
+      "pluginGuids": [
+        "com.smolmods.bigback"
+      ],
+      "info": {
+        "name": "BigBack",
+        "author": "gugger",
+        "description": "One \u0027Big Backpack\u0027 toggle lifts the small-items-only limit on both the backpack and belt slots - stash (almost) anything, big light bulbs included.",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/gugger/BigBack/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/gugger-BigBack-1.0.2.png"
+      }
+    },
+    {
+      "id": "gugger-ShareChangedEyeState",
+      "version": "1.0.11",
+      "enabled": true,
+      "size": 160554,
+      "sha256": "a29149c69dc03a4a3ffa0179eb3bd6869f459164b2a2f597b8ca1be995a38130",
+      "dependencies": [
+        "gugger-Core"
+      ],
+      "pluginGuids": [
+        "com.smolmods.eyestate"
+      ],
+      "info": {
+        "name": "ShareChangedEyeState",
+        "author": "gugger",
+        "description": "Pick your character\u0027s eye state - shared automatically with other players running the mod. Adds Eye state and Still animated to the sMods settings category.",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/gugger/ShareChangedEyeState/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/gugger-ShareChangedEyeState-1.0.11.png"
+      }
+    },
+    {
+      "id": "BayTurtleKing-Better_Trains",
+      "version": "1.0.1",
+      "enabled": true,
+      "size": 22001,
+      "sha256": "ac467f5c77225e50f51f3db06e1448d628a2e12975c94d5cf20fd4aa8cb3b01a",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "bayturtleking.bettertrains"
+      ],
+      "info": {
+        "name": "Better Trains",
+        "author": "BayTurtleKing",
+        "description": "(Host-only) Makes trains faster with a configurable speed",
+        "websiteUrl": "https://turtlewave.dev/projects",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/BayTurtleKing/Better_Trains/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/BayTurtleKing-Better_Trains-1.0.1.png"
+      }
+    },
+    {
+      "id": "AdamMady-Madys_MiniMap",
+      "version": "1.1.2",
+      "enabled": true,
+      "size": 7467039,
+      "sha256": "cac0a2d65362a99b561a24cb0af3b8e57a16351a4a8e90eefa833cdc4e263755",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "AdamMady.Minimap"
+      ],
+      "info": {
+        "name": "Madys MiniMap",
+        "author": "AdamMady",
+        "description": "Full map and configurable minimap for Big Walk.",
+        "websiteUrl": "https://discord.gg/5z3WvVhxCf",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/AdamMady/Madys_MiniMap/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/AdamMady-Madys_MiniMap-1.1.2.png"
+      }
+    },
+    {
+      "id": "Mhz-EnhancedControls",
+      "version": "1.0.1",
+      "enabled": true,
+      "size": 42626,
+      "sha256": "8b52499fb32c5c448a9ff823d8a48162f179d9d778349ba1d3ab2b9a1f221c4b",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "mhz.bigwalk.enhancedcontrols"
+      ],
+      "info": {
+        "name": "EnhancedControls",
+        "author": "Mhz",
+        "description": "Control and movement quality-of-life improvements for Big Walk. \u4E3A Big Walk \u63D0\u4F9B\u66F4\u987A\u624B\u7684\u64CD\u4F5C\u4E0E\u79FB\u52A8\u4F18\u5316\u3002",
+        "websiteUrl": "https://github.com/Masaicker/EnhancedControlsMod-BigWalk",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/Mhz/EnhancedControls/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Mhz-EnhancedControls-1.0.1.png"
+      }
+    },
+    {
+      "id": "jangles-Gourdwell",
+      "version": "1.0.16",
+      "enabled": true,
+      "size": 6776827,
+      "sha256": "644338a942c2e34a0e9e3dc359fe382905caa427b79125fed991bd5b4a57f2ae",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "BigWalk.Gourdwell"
+      ],
+      "info": {
+        "name": "Gourdwell",
+        "author": "jangles",
+        "description": "Every Reward Gourd becomes Maxwell the cat. Left-click while holding him to pet him: your hand strokes down his back and he purrs.",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/jangles/Gourdwell/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/jangles-Gourdwell-1.0.16.png"
+      }
+    },
+    {
+      "id": "Henssler-Big_Walkies",
+      "version": "1.1.32",
+      "enabled": true,
+      "size": 47356,
+      "sha256": "8180c4296d92fc38d0b6f3e7b0cd8a3c93dc10889f73013650baf0d51602987e",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "com.henssler.bigwalk.leash"
+      ],
+      "info": {
+        "name": "Big Walkies",
+        "author": "Henssler",
+        "description": "A collar and leash mod for Big Walk.",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/Henssler/Big_Walkies/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Henssler-Big_Walkies-1.1.32.png"
+      }
+    },
+    {
+      "id": "Thedarkspartann-Coastal_Carrack",
+      "version": "0.5.4",
+      "enabled": true,
+      "size": 201484,
+      "sha256": "fdcd69cdd362270e65672dd988e6a78c2bcc1bf884e5fc65038a191564e616a7",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "charl.bigwalk.coastalcarrack"
+      ],
+      "info": {
+        "name": "Coastal Carrack",
+        "author": "Thedarkspartann",
+        "description": "Adds three large boardable medieval sailing ships that follow a terrain-safe coastal route around Big Walk\u0027s island.",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/Thedarkspartann/Coastal_Carrack/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Thedarkspartann-Coastal_Carrack-0.5.4.png"
+      }
+    },
+    {
+      "id": "bagasek-SourceMovement",
+      "version": "4.1.1",
+      "enabled": true,
+      "size": 126476,
+      "sha256": "dd1f6d9bb3e3b6287868af6c50e8f14e0c598f9705b77d8c7eec631bb4bea334",
+      "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP"
+      ],
+      "pluginGuids": [
+        "codex.bigwalk.sourcemovement"
+      ],
+      "info": {
+        "name": "SourceMovement",
+        "author": "bagasek",
+        "description": "Source-style air strafing and momentum-preserving bunnyhops with native Big Walk terrain movement.",
+        "websiteUrl": "https://www.nexusmods.com/bigwalk/mods/16",
+        "thunderstoreUrl": "https://thunderstore.io/c/big-walk/p/bagasek/SourceMovement/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/bagasek-SourceMovement-4.1.1.png"
+      }
+    }
+  ],
+  "configs": [
+    {
+      "path": "BepInEx/config/BepInEx.cfg",
+      "sha256": "675853f38ac4ad2fd22fa5bde56cd102a13f66b61be63fc33d776b043ebd359c"
+    },
+    {
+      "path": "BepInEx/plugins/AdamMady-Madys_MiniMap/MapAssets/blips/locations.json",
+      "sha256": "a47d3f8f5e939685799a584b911cafa482f3215cf58d52022cb48825c867846b",
+      "owner": "AdamMady-Madys_MiniMap"
+    },
+    {
+      "path": "BepInEx/plugins/AdamMady-Madys_MiniMap/MapAssets/layout.json",
+      "sha256": "3c99640f9bc2464cbcaf024557883d1ba0c033806ae2e9443b26e27480e3420e",
+      "owner": "AdamMady-Madys_MiniMap"
+    },
+    {
+      "path": "BepInEx/plugins/bagasek-SourceMovement/LICENSE.txt",
+      "sha256": "7cd6b1b4ee7dd5a2bca1dccc19485d5c81b726764daa57d903aa613c874f5e4c",
+      "owner": "bagasek-SourceMovement"
+    },
+    {
+      "path": "BepInEx/plugins/Ice_Box_Studio_BigWalk-ModSettingsMenu/ModSettingsMenu.Localization.json",
+      "sha256": "0a651037c6a56ad37a9b70fbd4d54c69b11439da4276e1b62f6e7a7b5645607f",
+      "owner": "Ice_Box_Studio_BigWalk-ModSettingsMenu"
+    },
+    {
+      "path": "changelog.txt",
+      "sha256": "b737ff89611c8da5d6ef409a85a56e5de45b5b37561605d68d0417a6a5fb65f9"
+    },
+    {
+      "path": "doorstop_config.ini",
+      "sha256": "7daebb02054747faee66c875a778e0e8d54dad24dd460e1fb69aa31378d9ea8f"
+    }
+  ]
+}
