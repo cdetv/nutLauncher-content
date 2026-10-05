@@ -14,11 +14,6 @@
       "id": "main",
       "name": "Gnutty Gnomes",
       "manifest": "packs/burglin-gnomes/main/pack.json"
-    },
-    {
-      "id": "gnome-test",
-      "name": "test ignore",
-      "manifest": "packs/burglin-gnomes/gnome-test/pack.json"
     }
   ]
 }
