@@ -3,10 +3,10 @@
   "game": "burglin-gnomes",
   "pack": "gnome-test",
   "name": "test ignore",
-  "version": 1,
-  "publishedAt": "2026-10-05T21:02:49.7472915Z",
+  "version": 2,
+  "publishedAt": "2026-10-05T21:03:41.1711118Z",
   "required": false,
-  "minLauncherVersion": "9.0.0",
+  "minLauncherVersion": "0.4.0",
   "mods": [
     {
       "id": "BepInEx-BepInExPack",
@@ -99,14 +99,14 @@
     {
       "path": "BepInEx/config/BepInEx.cfg",
       "access": "editable",
-      "url": "https://raw.githubusercontent.com/cdetv/nutLauncher-content/5c08363595f457587e3ff2c04f9cceda834df1c9/packs/burglin-gnomes/gnome-test/config/BepInEx/config/BepInEx.cfg",
+      "url": "https://raw.githubusercontent.com/cdetv/nutLauncher-content/88258830e94aca714dc8921419ad6506785c146e/packs/burglin-gnomes/gnome-test/config/BepInEx/config/BepInEx.cfg",
       "sha256": "7c594bee79a4c41c5a4c9430036d2570f4b8cc6816e6e4a3e505880e70721202",
       "lockedSettings": []
     },
     {
       "path": "doorstop_config.ini",
       "access": "editable",
-      "url": "https://raw.githubusercontent.com/cdetv/nutLauncher-content/5c08363595f457587e3ff2c04f9cceda834df1c9/packs/burglin-gnomes/gnome-test/config/doorstop_config.ini",
+      "url": "https://raw.githubusercontent.com/cdetv/nutLauncher-content/88258830e94aca714dc8921419ad6506785c146e/packs/burglin-gnomes/gnome-test/config/doorstop_config.ini",
       "sha256": "4d5c6dfa0f771c6a5b1b0c559aca0bd0ece7d08b08fff894708dc3b73ce73cfc",
       "lockedSettings": []
     }
