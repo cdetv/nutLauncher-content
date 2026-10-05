@@ -1,0 +1,641 @@
+{
+  "schema": 1,
+  "game": "burglin-gnomes",
+  "pack": "main",
+  "name": "Gnutty Gnomes",
+  "version": 1,
+  "publishedAt": "2026-10-05T15:59:12.6692393Z",
+  "required": true,
+  "requiredVersion": 1,
+  "changelog": "Gnutty Gnomes pack for Burglin\u0027 Gnomes added",
+  "mods": [
+    {
+      "id": "BepInEx-BepInExPack",
+      "version": "5.4.2305",
+      "size": 669238,
+      "sha256": "f99b6302b6bdca5bab26f275c261cca448b29bbac34eaa5cbebb42c4246fb244",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/BepInEx/BepInExPack/5.4.2305/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/BepInEx-BepInExPack-5.4.2305.zip"
+        }
+      ],
+      "info": {
+        "name": "BepInExPack",
+        "author": "BepInEx",
+        "description": "BepInEx pack for Mono Unity games. Preconfigured and ready to use.",
+        "websiteUrl": "https://github.com/BepInEx/BepInEx",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/BepInEx/BepInExPack/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/BepInEx-BepInExPack-5.4.2305.png"
+      }
+    },
+    {
+      "id": "gnomerul-MoreGnomes",
+      "version": "1.0.0",
+      "size": 17883,
+      "sha256": "c429f93533aca6e49f8036a5761f2e88e4ef99c2f11db73f7b30fab33c31bf66",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/gnomerul/MoreGnomes/1.0.0/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/gnomerul-MoreGnomes-1.0.0.zip"
+        }
+      ],
+      "info": {
+        "name": "MoreGnomes",
+        "author": "gnomerul",
+        "description": "Raise the lobby player cap to 99.",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/gnomerul/MoreGnomes/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/gnomerul-MoreGnomes-1.0.0.png"
+      }
+    },
+    {
+      "id": "BurglinHub-Customize",
+      "version": "1.0.0",
+      "size": 143622,
+      "sha256": "9292a1ff998712de1d38a86b172273caec8ae6565f5a9c6d0a1df1cc7fcb7fb3",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/BurglinHub/Customize/1.0.0/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/BurglinHub-Customize-1.0.0.zip"
+        }
+      ],
+      "info": {
+        "name": "Customize",
+        "author": "BurglinHub",
+        "description": "Customize your gnome\u0027s body and clothing colors! Features a full color wheel, multiplayer sync, and a preset saving system.",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/BurglinHub/Customize/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/BurglinHub-Customize-1.0.0.png"
+      }
+    },
+    {
+      "id": "zombusa-RoundTimeIncreaser",
+      "version": "1.0.0",
+      "size": 50014,
+      "sha256": "f4a1f7da84927dcd98cc06b95ed5b990e094beacad6814fa7d1178bf493ee7ee",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/zombusa/RoundTimeIncreaser/1.0.0/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/zombusa-RoundTimeIncreaser-1.0.0.zip"
+        }
+      ],
+      "info": {
+        "name": "RoundTimeIncreaser",
+        "author": "zombusa",
+        "description": "mod that allow the user to add 5 minutes to the current Match timer by pressing f8",
+        "websiteUrl": "https://www.nexusmods.com/burglingnomes/mods/15",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/zombusa/RoundTimeIncreaser/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/zombusa-RoundTimeIncreaser-1.0.0.png"
+      }
+    },
+    {
+      "id": "BurglinHub-OptmizationMod",
+      "version": "1.0.2",
+      "size": 158138,
+      "sha256": "6b2ce6e2427dbe175d849a17073180740a833094931588c1d053e792d15d2dce",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/BurglinHub/OptmizationMod/1.0.2/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/BurglinHub-OptmizationMod-1.0.2.zip"
+        }
+      ],
+      "info": {
+        "name": "OptmizationMod",
+        "author": "BurglinHub",
+        "description": "This mod allows you to reduce the load on your video card from 90%\u002B- to 50%\u002B-",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/BurglinHub/OptmizationMod/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/BurglinHub-OptmizationMod-1.0.2.png"
+      }
+    },
+    {
+      "id": "Rosa_parks_My_Car-laser_pointer_pistol_and_shotgun",
+      "version": "1.0.1",
+      "size": 50355,
+      "sha256": "3c41944acf6b7d62266fe14607e23f32337673c72de7e420470b9ce3fb2c5c3a",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/Rosa_parks_My_Car/laser_pointer_pistol_and_shotgun/1.0.1/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/Rosa_parks_My_Car-laser_pointer_pistol_and_shotgun-1.0.1.zip"
+        }
+      ],
+      "info": {
+        "name": "laser pointer pistol and shotgun",
+        "author": "Rosa_parks_My_Car",
+        "description": "Adds a toggleable laser sight to weapons with accurate barrel centering.",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/Rosa_parks_My_Car/laser_pointer_pistol_and_shotgun/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Rosa_parks_My_Car-laser_pointer_pistol_and_shotgun-1.0.1.png"
+      }
+    },
+    {
+      "id": "BurglinHub-FunnyHats",
+      "version": "1.0.0",
+      "size": 129633,
+      "sha256": "2dd38bf97e1ffae9b004fef4e2d11e833e23f622ec9bb9a7e112e6ffd6cad078",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/BurglinHub/FunnyHats/1.0.0/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/BurglinHub-FunnyHats-1.0.0.zip"
+        }
+      ],
+      "info": {
+        "name": "FunnyHats",
+        "author": "BurglinHub",
+        "description": "Physically and visually scales player hat lengths. Features server-client sync and live config reloading (F5).",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/BurglinHub/FunnyHats/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/BurglinHub-FunnyHats-1.0.0.png"
+      }
+    },
+    {
+      "id": "Mattcy1_Coding-ItemAPI",
+      "version": "1.0.0",
+      "size": 30179,
+      "sha256": "f3ca4a992e7ff0240081093312823677fcdf22318f880326263492fe3d3b26a4",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/Mattcy1_Coding/ItemAPI/1.0.0/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/Mattcy1_Coding-ItemAPI-1.0.0.zip"
+        }
+      ],
+      "info": {
+        "name": "ItemAPI",
+        "author": "Mattcy1_Coding",
+        "description": "Allows for easy Custom Items Creating With Working visuals, crafting, wearable and hotbar items, spawning of item inside of cabinets.",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/Mattcy1_Coding/ItemAPI/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Mattcy1_Coding-ItemAPI-1.0.0.png"
+      }
+    },
+    {
+      "id": "Mattcy1_Coding-BombVest",
+      "version": "1.0.1",
+      "size": 537399,
+      "sha256": "1bae7fb1a935df0be14debe352f54b4602417b23f393f120f54761b356125e48",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack",
+        "Mattcy1_Coding-ItemAPI"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/Mattcy1_Coding/BombVest/1.0.1/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/Mattcy1_Coding-BombVest-1.0.1.zip"
+        }
+      ],
+      "info": {
+        "name": "BombVest",
+        "author": "Mattcy1_Coding",
+        "description": "Adds a new craftable item using ItemAPI. Once equipped, press X or your configured hotkey to detonate.",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/Mattcy1_Coding/BombVest/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Mattcy1_Coding-BombVest-1.0.1.png"
+      }
+    },
+    {
+      "id": "meseak-ThirdPerson",
+      "version": "1.0.0",
+      "size": 124798,
+      "sha256": "a40e76cca1f21cd48c2ef0652690fe5be87b7168843d762ec2eafcc8b6ad1460",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/meseak/ThirdPerson/1.0.0/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/meseak-ThirdPerson-1.0.0.zip"
+        }
+      ],
+      "info": {
+        "name": "ThirdPerson",
+        "author": "meseak",
+        "description": "A simple Burglin Gnomes mod that lets you play with a third-person camera instead of the default view.",
+        "websiteUrl": "https://www.nexusmods.com/burglingnomes/mods/5",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/meseak/ThirdPerson/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/meseak-ThirdPerson-1.0.0.png"
+      }
+    },
+    {
+      "id": "Mattcy1_Coding-DashMod",
+      "version": "1.0.0",
+      "size": 87564,
+      "sha256": "2230dbf82e4e90bbca394d3121aef6ff6ef6e0e06e52c6b5a033219b91b54c94",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/Mattcy1_Coding/DashMod/1.0.0/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/Mattcy1_Coding-DashMod-1.0.0.zip"
+        }
+      ],
+      "info": {
+        "name": "DashMod",
+        "author": "Mattcy1_Coding",
+        "description": "Pressing Z/W Allows you to dash foward using stamina (Can be adjusted in Config)",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/Mattcy1_Coding/DashMod/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Mattcy1_Coding-DashMod-1.0.0.png"
+      }
+    },
+    {
+      "id": "Joive-Swimming_Ring",
+      "version": "1.0.0",
+      "size": 7579494,
+      "sha256": "8349648c19c29ba4ca9f8cb34fc3e5d526fc1949db4439257da9f19064d3d5f1",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/Joive/Swimming_Ring/1.0.0/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/Joive-Swimming_Ring-1.0.0.zip"
+        }
+      ],
+      "info": {
+        "name": "Swimming Ring",
+        "author": "Joive",
+        "description": "Adds a craftable swimming ring equipment item.",
+        "websiteUrl": "https://ko-fi.com/joive",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/Joive/Swimming_Ring/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Joive-Swimming_Ring-1.0.0.png"
+      }
+    },
+    {
+      "id": "TeeTeeArrr-ControllerSupport",
+      "version": "1.7.97",
+      "size": 150301,
+      "sha256": "53f0cc5a4544d339e8be7b9c0e7169ce68f7c274d10f940e388ea13f2dfb54a3",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/TeeTeeArrr/ControllerSupport/1.7.97/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/TeeTeeArrr-ControllerSupport-1.7.97.zip"
+        }
+      ],
+      "info": {
+        "name": "ControllerSupport",
+        "author": "TeeTeeArrr",
+        "description": "Full controller support for Burglin\u0027 Gnomes \u2014 navigation, gameplay, UI, menus, settings, task list, hand range control, and native bug fixes. Equipment item moving still requires mouse and keyboard.",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/TeeTeeArrr/ControllerSupport/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/TeeTeeArrr-ControllerSupport-1.7.97.png"
+      }
+    },
+    {
+      "id": "TeamRose-JonathansTaskList",
+      "version": "0.1.47",
+      "size": 129379,
+      "sha256": "d75ba996d0e59e26f843ed0820b6f1125fe0aa446860219911ae4cdb19555bc1",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/TeamRose/JonathansTaskList/0.1.47/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/TeamRose-JonathansTaskList-0.1.47.zip"
+        }
+      ],
+      "info": {
+        "name": "JonathansTaskList",
+        "author": "TeamRose",
+        "description": "A Burglin\u0027 Gnomes quality-of-life mod that lets players keep current mission objectives visible in a task list.",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/TeamRose/JonathansTaskList/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/TeamRose-JonathansTaskList-0.1.47.png"
+      }
+    },
+    {
+      "id": "TeeTeeArrr-GloveRangeAdjust",
+      "version": "1.1.3",
+      "size": 118642,
+      "sha256": "a5c16c3709dde8829d95d58870733202a85c2380ca4a26a72395ec0646100590",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/TeeTeeArrr/GloveRangeAdjust/1.1.3/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/TeeTeeArrr-GloveRangeAdjust-1.1.3.zip"
+        }
+      ],
+      "info": {
+        "name": "GloveRangeAdjust",
+        "author": "TeeTeeArrr",
+        "description": "Adjust the levitation distance of Gnomium Gloves items with the mouse wheel or controller LB/RB while using the gloves.",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/TeeTeeArrr/GloveRangeAdjust/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/TeeTeeArrr-GloveRangeAdjust-1.1.3.png"
+      }
+    },
+    {
+      "id": "OdinPlus-GnomeRider",
+      "version": "1.0.0",
+      "size": 183922,
+      "sha256": "c0df29a0e9237d65ff4b12ea0fe4a0f4d73c266f50b32bc18b7af91226e6fea0",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/OdinPlus/GnomeRider/1.0.0/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/OdinPlus-GnomeRider-1.0.0.zip"
+        }
+      ],
+      "info": {
+        "name": "GnomeRider",
+        "author": "OdinPlus",
+        "description": "Tame dogs and ride them in Burglin\u0027 Gnomes.",
+        "websiteUrl": "https://discord.gg/jkcJCq2sK5",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/OdinPlus/GnomeRider/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-GnomeRider-1.0.0.png"
+      }
+    },
+    {
+      "id": "BurglinHub-FurnitureDeconstructor",
+      "version": "1.0.2",
+      "size": 127767,
+      "sha256": "37020dd4c6b8637936ccdd84e983043fc24d48bafa076a4d00ca968816a1f9cf",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/BurglinHub/FurnitureDeconstructor/1.0.2/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/BurglinHub-FurnitureDeconstructor-1.0.2.zip"
+        }
+      ],
+      "info": {
+        "name": "FurnitureDeconstructor",
+        "author": "BurglinHub",
+        "description": "Deconstruct placed furniture by holding F. Get a 70% refund on materials directly to your stockpile!",
+        "websiteUrl": "https://discord.gg/bPjcrJxBmP",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/BurglinHub/FurnitureDeconstructor/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/BurglinHub-FurnitureDeconstructor-1.0.2.png"
+      }
+    },
+    {
+      "id": "gnomesko-UltrawideMenuFix",
+      "version": "0.1.0",
+      "size": 8901,
+      "sha256": "dd4b8597253a358c0e837cf4be6306abb98114303e3d9fd7c4f9a515544106ba",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/gnomesko/UltrawideMenuFix/0.1.0/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/gnomesko-UltrawideMenuFix-0.1.0.zip"
+        }
+      ],
+      "info": {
+        "name": "UltrawideMenuFix",
+        "author": "gnomesko",
+        "description": "Fixes the settings menu overflowing on ultrawidescreens.",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/gnomesko/UltrawideMenuFix/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/gnomesko-UltrawideMenuFix-0.1.0.png"
+      }
+    },
+    {
+      "id": "TeeTeeArrr-HandsReequip",
+      "version": "1.0.0",
+      "size": 118015,
+      "sha256": "6be2db1fd2a132a5f4bb7ffdcfb49c80f751dc264da36756613eed2a5be4d9d1",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/TeeTeeArrr/HandsReequip/1.0.0/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/TeeTeeArrr-HandsReequip-1.0.0.zip"
+        }
+      ],
+      "info": {
+        "name": "HandsReequip",
+        "author": "TeeTeeArrr",
+        "description": "Automatically re-equips the previously selected item when you release Push (hands out). No more manually re-selecting your item after putting your hands down.",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/TeeTeeArrr/HandsReequip/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/TeeTeeArrr-HandsReequip-1.0.0.png"
+      }
+    },
+    {
+      "id": "5FDP-BurglaryBox",
+      "version": "1.8.0",
+      "size": 92192,
+      "sha256": "2513cc0ebcd921d54f349ac587c9c66fa18da8dfee1887d7f1cae3fd9e529e65",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/5FDP/BurglaryBox/1.8.0/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/5FDP-BurglaryBox-1.8.0.zip"
+        }
+      ],
+      "info": {
+        "name": "BurglaryBox",
+        "author": "5FDP",
+        "description": "A simple spawn menu",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/5FDP/BurglaryBox/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/5FDP-BurglaryBox-1.8.0.png"
+      }
+    },
+    {
+      "id": "gnomesko-MainMenuConfirm",
+      "version": "0.1.0",
+      "size": 10953,
+      "sha256": "34933e67e03aba45b769c1a2cc921623221b5bb8fae1ea4514369b5290ce1346",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/gnomesko/MainMenuConfirm/0.1.0/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-burglin-gnomes/gnomesko-MainMenuConfirm-0.1.0.zip"
+        }
+      ],
+      "info": {
+        "name": "MainMenuConfirm",
+        "author": "gnomesko",
+        "description": "Adds a confirmation modal to the in-game Main Menu and Quit buttons so a stray click can\u0027t drop you out of a run.",
+        "thunderstoreUrl": "https://thunderstore.io/c/burglin-gnomes/p/gnomesko/MainMenuConfirm/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/gnomesko-MainMenuConfirm-0.1.0.png"
+      }
+    }
+  ],
+  "configs": [
+    {
+      "path": "BepInEx/config/BepInEx.cfg",
+      "access": "editable",
+      "url": "https://raw.githubusercontent.com/cdetv/nutLauncher-content/d376a2695cedc69c571fc7c7016ab6d8192af7f2/packs/burglin-gnomes/main/config/BepInEx/config/BepInEx.cfg",
+      "sha256": "7c594bee79a4c41c5a4c9430036d2570f4b8cc6816e6e4a3e505880e70721202",
+      "lockedSettings": []
+    },
+    {
+      "path": "doorstop_config.ini",
+      "access": "editable",
+      "url": "https://raw.githubusercontent.com/cdetv/nutLauncher-content/d376a2695cedc69c571fc7c7016ab6d8192af7f2/packs/burglin-gnomes/main/config/doorstop_config.ini",
+      "sha256": "4d5c6dfa0f771c6a5b1b0c559aca0bd0ece7d08b08fff894708dc3b73ce73cfc",
+      "lockedSettings": []
+    }
+  ]
+}
