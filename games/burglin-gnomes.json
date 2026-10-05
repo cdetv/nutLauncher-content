@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "id": "burglin-gnomes",
+  "name": "Burglin\u0027 Gnomes",
+  "icon": "games/burglin-gnomes.png",
+  "steamAppId": 3844970,
+  "exe": "Gnomium.exe",
+  "strategy": "bepinex-thunderstore",
+  "strategyOptions": {
+    "thunderstoreCommunity": "burglin-gnomes"
+  },
+  "packs": [
+    {
+      "id": "main",
+      "name": "Gnutty Gnomes",
+      "manifest": "packs/burglin-gnomes/main/pack.json"
+    }
+  ]
+}
