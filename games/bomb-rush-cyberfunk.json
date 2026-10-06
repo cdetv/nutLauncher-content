@@ -13,6 +13,11 @@
       "id": "test1",
       "name": "test1",
       "manifest": "packs/bomb-rush-cyberfunk/test1/pack.json"
+    },
+    {
+      "id": "test2",
+      "name": "test2",
+      "manifest": "packs/bomb-rush-cyberfunk/test2/pack.json"
     }
   ]
 }
