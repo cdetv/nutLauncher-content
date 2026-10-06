@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "profileName": "Order Of The Nut",
-  "importedAt": "2026-10-04T22:14:44.9123168Z",
-  "source": "code:01a108fa-dbbb-6eb9-c10a-af1e4677562c",
+  "importedAt": "2026-10-06T18:32:46.5385906Z",
+  "source": "code:01a1127c-1af1-ae1a-c3ce-930d8d155524",
   "mods": [
     {
       "id": "denikson-BepInExPack_Valheim",
@@ -189,10 +189,10 @@
     },
     {
       "id": "shudnal-ExtraSlots",
-      "version": "1.2.16",
+      "version": "1.2.17",
       "enabled": true,
-      "size": 263216,
-      "sha256": "f7548977f013fb466709cc186fce4a12163ab37fa134846b885e80c4a3c6a0ff",
+      "size": 265241,
+      "sha256": "2154b8ed7ca18ab7c019fd75fb7ca5551d266f0331ef6e1fb8ac83c5ff081b3f",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-YamlDotNet",
@@ -207,7 +207,7 @@
         "description": "More inventory slots dedicated for equipment, food, ammo and misc items. Extra utility slots. Quick slots. Custom slots API. Player inventory resize. Gamepad friendly. Slot obtaining progression.",
         "websiteUrl": "https://github.com/shudnal/ExtraSlots",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/shudnal/ExtraSlots/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/shudnal-ExtraSlots-1.2.16.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/shudnal-ExtraSlots-1.2.17.png"
       }
     },
     {
@@ -341,10 +341,10 @@
     },
     {
       "id": "OdinPlus-OdinHorse",
-      "version": "1.8.2",
+      "version": "1.8.6",
       "enabled": true,
-      "size": 11897442,
-      "sha256": "c85edcd67b03b6b45d912bb9389d6bf6dbed86ed75491adf9bcc3c0b143c20e3",
+      "size": 12452498,
+      "sha256": "caa7c89971046eb1adbf4154794884b4d4e5bf827b48df1378091f3bc31f39d1",
       "dependencies": [],
       "pluginGuids": [
         "Raelaziel.OdinHorse"
@@ -355,7 +355,7 @@
         "description": "Horse mount and new items! You can tame it, You can ride it, You can attach the Horse Cart, You can breed it, Add armor to your horse!",
         "websiteUrl": "https://discord.gg/jkcJCq2sK5",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/OdinPlus/OdinHorse/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-OdinHorse-1.8.2.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-OdinHorse-1.8.6.png"
       }
     },
     {
@@ -653,10 +653,10 @@
     },
     {
       "id": "zolantris-ValheimRAFT",
-      "version": "5.0.8",
+      "version": "5.0.9",
       "enabled": true,
-      "size": 52560062,
-      "sha256": "595e3feee331809ec3c7e3c0b071d7f1937a552fe690f1fda062e81b7c2e6d13",
+      "size": 52564154,
+      "sha256": "7e66a4793e07ee99dd110664ba4d6cc930a6dfd615c884218e6cdba6962edddd",
       "dependencies": [
         "ValheimModding-Jotunn"
       ],
@@ -672,7 +672,7 @@
         "description": "ValheimRAFT - supports valheim 1.0.0 Deep North. A vehicles mod for valheim. Build a ship, build a land vehicle. Explore valheim!",
         "websiteUrl": "https://github.com/zolantris/ValheimMods/tree/main/src/ValheimRAFT",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/zolantris/ValheimRAFT/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/zolantris-ValheimRAFT-5.0.8.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/zolantris-ValheimRAFT-5.0.9.png"
       }
     },
     {
@@ -905,10 +905,10 @@
     },
     {
       "id": "Searica-More_Vanilla_Build_Prefabs",
-      "version": "1.5.0",
+      "version": "1.5.1",
       "enabled": true,
-      "size": 534097,
-      "sha256": "e75227d44eacf21fa64c98aa58fbc9e35f102c05aa700e980c9e0755ea0e1635",
+      "size": 534425,
+      "sha256": "b76d2b98fdac35948ce68cb0eee33146f344612df1de0027309bb56d53c5496f",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-Jotunn"
@@ -922,7 +922,7 @@
         "description": "Adds almost everything in the vanilla game to the hammer for building in survival mode. Every piece can be customized and enabled/disabled. Comes with a default configuration for ease of use. Uses Jotunn to sync configs if installed on server.",
         "websiteUrl": "https://discord.gg/sFmGTBYN6n",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Searica/More_Vanilla_Build_Prefabs/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Searica-More_Vanilla_Build_Prefabs-1.5.0.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Searica-More_Vanilla_Build_Prefabs-1.5.1.png"
       }
     },
     {
@@ -950,10 +950,10 @@
     },
     {
       "id": "JereKuusela-Upgrade_World",
-      "version": "1.83.0",
+      "version": "1.84.0",
       "enabled": true,
-      "size": 224570,
-      "sha256": "7a8cd7f408972fb39f6d1429b2b14700f99c4727a4de4ca0f67b7754e6ab8e41",
+      "size": 228389,
+      "sha256": "32c5d1c21add20e2cc869f5191ecfd638150538723db3a1798f07272b2b97ac5",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "JereKuusela-Server_devcommands"
@@ -967,7 +967,7 @@
         "description": "A tool which can add new content to already explored areas.",
         "websiteUrl": "https://discord.gg/VFRJcPwUdm",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/JereKuusela/Upgrade_World/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/JereKuusela-Upgrade_World-1.83.0.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/JereKuusela-Upgrade_World-1.84.0.png"
       }
     },
     {
