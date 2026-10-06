@@ -3,8 +3,8 @@
   "game": "bomb-rush-cyberfunk",
   "pack": "test2",
   "name": "test2",
-  "version": 1,
-  "publishedAt": "2026-10-06T01:18:44.975753Z",
+  "version": 2,
+  "publishedAt": "2026-10-06T01:21:25.333885Z",
   "required": false,
   "changelog": "ghost-pack fix test",
   "mods": [
@@ -65,20 +65,50 @@
         "thunderstoreUrl": "https://thunderstore.io/c/bomb-rush-cyberfunk/p/NotNet/SlopCrew/",
         "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/NotNet-SlopCrew-2.2.1.png"
       }
+    },
+    {
+      "id": "SoftGoat-CrewBoom",
+      "version": "3.2.8",
+      "size": 138470,
+      "sha256": "f074629b04fb4aff1c3ede4265fab08fae9286d072f7aadee1858bf60915692f",
+      "required": true,
+      "defaultEnabled": true,
+      "configAccess": "editable",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "sources": [
+        {
+          "type": "thunderstore",
+          "url": "https://thunderstore.io/package/download/SoftGoat/CrewBoom/3.2.8/"
+        },
+        {
+          "type": "mirror",
+          "url": "https://github.com/cdetv/nutLauncher-content/releases/download/mirror-bomb-rush-cyberfunk/SoftGoat-CrewBoom-3.2.8.zip"
+        }
+      ],
+      "info": {
+        "name": "CrewBoom",
+        "author": "SoftGoat",
+        "description": "Plugin for loading custom characters (replacements and additional characters)",
+        "websiteUrl": "https://github.com/crew-boom/CrewBoom",
+        "thunderstoreUrl": "https://thunderstore.io/c/bomb-rush-cyberfunk/p/SoftGoat/CrewBoom/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/SoftGoat-CrewBoom-3.2.8.png"
+      }
     }
   ],
   "configs": [
     {
       "path": "BepInEx/config/BepInEx.cfg",
       "access": "editable",
-      "url": "https://raw.githubusercontent.com/cdetv/nutLauncher-content/e08a7602117f7281f754999ab8843cebaf88c0bb/packs/bomb-rush-cyberfunk/test2/config/BepInEx/config/BepInEx.cfg",
+      "url": "https://raw.githubusercontent.com/cdetv/nutLauncher-content/32919f92d107d3e4a2466efdd468c78257b339f5/packs/bomb-rush-cyberfunk/test2/config/BepInEx/config/BepInEx.cfg",
       "sha256": "7c594bee79a4c41c5a4c9430036d2570f4b8cc6816e6e4a3e505880e70721202",
       "lockedSettings": []
     },
     {
       "path": "doorstop_config.ini",
       "access": "editable",
-      "url": "https://raw.githubusercontent.com/cdetv/nutLauncher-content/e08a7602117f7281f754999ab8843cebaf88c0bb/packs/bomb-rush-cyberfunk/test2/config/doorstop_config.ini",
+      "url": "https://raw.githubusercontent.com/cdetv/nutLauncher-content/32919f92d107d3e4a2466efdd468c78257b339f5/packs/bomb-rush-cyberfunk/test2/config/doorstop_config.ini",
       "sha256": "4d5c6dfa0f771c6a5b1b0c559aca0bd0ece7d08b08fff894708dc3b73ce73cfc",
       "lockedSettings": []
     }
