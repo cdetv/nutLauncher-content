@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "bomb-rush-cyberfunk",
+  "name": "Bomb Rush Cyberfunk",
+  "steamAppId": 1353230,
+  "exe": "Bomb Rush Cyberfunk.exe",
+  "strategy": "bepinex-thunderstore",
+  "strategyOptions": {
+    "thunderstoreCommunity": "bomb-rush-cyberfunk"
+  },
+  "packs": [
+    {
+      "id": "test1",
+      "name": "test1",
+      "manifest": "packs/bomb-rush-cyberfunk/test1/pack.json"
+    }
+  ]
+}
