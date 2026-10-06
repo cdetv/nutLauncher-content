@@ -8,11 +8,5 @@
   "strategyOptions": {
     "thunderstoreCommunity": "bomb-rush-cyberfunk"
   },
-  "packs": [
-    {
-      "id": "test1",
-      "name": "test1",
-      "manifest": "packs/bomb-rush-cyberfunk/test1/pack.json"
-    }
-  ]
+  "packs": []
 }
