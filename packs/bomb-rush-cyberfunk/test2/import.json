@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "profileName": "BombNutTest2",
-  "importedAt": "2026-10-06T01:17:31.962125Z",
-  "source": "code:01a10ec9-7139-b6ad-56ac-9fd854b13f41",
+  "importedAt": "2026-10-06T01:21:08.4608379Z",
+  "source": "code:01a10ecc-c97e-adfc-277b-b98ba23e4916",
   "mods": [
     {
       "id": "BepInEx-BepInExPack",
@@ -40,6 +40,27 @@
         "websiteUrl": "https://github.com/SlopCrew/SlopCrew",
         "thunderstoreUrl": "https://thunderstore.io/c/bomb-rush-cyberfunk/p/NotNet/SlopCrew/",
         "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/NotNet-SlopCrew-2.2.1.png"
+      }
+    },
+    {
+      "id": "SoftGoat-CrewBoom",
+      "version": "3.2.8",
+      "enabled": true,
+      "size": 138470,
+      "sha256": "f074629b04fb4aff1c3ede4265fab08fae9286d072f7aadee1858bf60915692f",
+      "dependencies": [
+        "BepInEx-BepInExPack"
+      ],
+      "pluginGuids": [
+        "CrewBoom"
+      ],
+      "info": {
+        "name": "CrewBoom",
+        "author": "SoftGoat",
+        "description": "Plugin for loading custom characters (replacements and additional characters)",
+        "websiteUrl": "https://github.com/crew-boom/CrewBoom",
+        "thunderstoreUrl": "https://thunderstore.io/c/bomb-rush-cyberfunk/p/SoftGoat/CrewBoom/",
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/SoftGoat-CrewBoom-3.2.8.png"
       }
     }
   ],
