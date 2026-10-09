@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "profileName": "Order Of The Nut",
-  "importedAt": "2026-10-06T18:32:46.5385906Z",
-  "source": "code:01a1127c-1af1-ae1a-c3ce-930d8d155524",
+  "importedAt": "2026-10-09T00:55:22.2695874Z",
+  "source": "code:01a11e28-0489-8e48-6e4c-985ec58b9597",
   "mods": [
     {
       "id": "denikson-BepInExPack_Valheim",
@@ -233,10 +233,10 @@
     },
     {
       "id": "Vapok-AdventureBackpacks",
-      "version": "2.2.9",
+      "version": "2.2.11",
       "enabled": true,
-      "size": 48746795,
-      "sha256": "eba3556d357627cbc3687eb6f04b2238de816f6d6855aae3b5553641466f0394",
+      "size": 48747346,
+      "sha256": "f06f48184da37cde6d5d0973a2ee9c6a2e4db82efeb17bb50de5f229cb350403",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-Jotunn",
@@ -251,7 +251,7 @@
         "description": "A Valheim Mod to add a catalogue of Adventuring Backpacks to the Game. These packs will grow and become more useful as the game progresses.",
         "websiteUrl": "https://github.com/Vapok/AdventureBackpacks",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Vapok/AdventureBackpacks/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Vapok-AdventureBackpacks-2.2.9.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Vapok-AdventureBackpacks-2.2.11.png"
       }
     },
     {
@@ -341,10 +341,10 @@
     },
     {
       "id": "OdinPlus-OdinHorse",
-      "version": "1.8.6",
+      "version": "1.8.7",
       "enabled": true,
-      "size": 12452498,
-      "sha256": "caa7c89971046eb1adbf4154794884b4d4e5bf827b48df1378091f3bc31f39d1",
+      "size": 12452551,
+      "sha256": "fae736d0e8a5a61d5336f98eb32b25320b2b0ffa786204d055f0b42508bce436",
       "dependencies": [],
       "pluginGuids": [
         "Raelaziel.OdinHorse"
@@ -355,7 +355,7 @@
         "description": "Horse mount and new items! You can tame it, You can ride it, You can attach the Horse Cart, You can breed it, Add armor to your horse!",
         "websiteUrl": "https://discord.gg/jkcJCq2sK5",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/OdinPlus/OdinHorse/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-OdinHorse-1.8.6.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-OdinHorse-1.8.7.png"
       }
     },
     {
@@ -634,10 +634,10 @@
     },
     {
       "id": "OdinPlus-PotionPlus",
-      "version": "4.3.8",
+      "version": "4.3.9",
       "enabled": true,
-      "size": 5886408,
-      "sha256": "cd474dcefc07efad2930e674f653cb697041a09498a55ddb84f52375eafed9c0",
+      "size": 5881861,
+      "sha256": "af4df8199a670b3928030af0212b8866e91a7e58914cab71c309ca30f49ec2d8",
       "dependencies": [],
       "pluginGuids": [
         "com.odinplus.potionsplus"
@@ -648,7 +648,7 @@
         "description": "Adds several potions to the game, now with improved skills, new potions, new config options, and server sync!!",
         "websiteUrl": "https://discord.gg/jkcJCq2sK5",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/OdinPlus/PotionPlus/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-PotionPlus-4.3.8.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-PotionPlus-4.3.9.png"
       }
     },
     {
@@ -719,10 +719,10 @@
     },
     {
       "id": "warpalicious-More_World_Locations_AIO",
-      "version": "5.1.8",
+      "version": "5.1.9",
       "enabled": true,
-      "size": 272202570,
-      "sha256": "110ccf2b3598f207b95ece6c76b43681ebb156ddbbbe4ccc5586c9f2153d4c5a",
+      "size": 272202705,
+      "sha256": "d54130ccb2eacb541b5aba0e2938596af0127e59ffc2a4154d672b8269c7b27b",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-JsonDotNET",
@@ -738,7 +738,7 @@
         "description": "Adds 190 new POI locations including dungeons, traders, ports and much more to enhance Valheim\u0027s world exploration.",
         "websiteUrl": "https://discord.gg/3aaru2VyHJ",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/warpalicious/More_World_Locations_AIO/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/warpalicious-More_World_Locations_AIO-5.1.8.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/warpalicious-More_World_Locations_AIO-5.1.9.png"
       }
     },
     {
@@ -867,10 +867,10 @@
     },
     {
       "id": "Balrond-balrond_constructions",
-      "version": "1.4.5",
+      "version": "1.5.0",
       "enabled": true,
-      "size": 40415804,
-      "sha256": "d88f6b49c8dcdfd4ba9ea09974afcde02fe7d84a08d21c950928cd40159f1686",
+      "size": 40420380,
+      "sha256": "d7dd5a4da8773993e7b0df0de3442f7716c5f4eebaa414a3942cf40a9248817a",
       "dependencies": [],
       "pluginGuids": [
         "balrond.astafaraios.BalrondConstructions"
@@ -881,7 +881,7 @@
         "description": "A growing set of over 300 construction pieces of both vanilla types and new",
         "websiteUrl": "https://discord.gg/Jfp8T5N7Pv",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Balrond/balrond_constructions/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Balrond-balrond_constructions-1.4.5.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Balrond-balrond_constructions-1.5.0.png"
       }
     },
     {
@@ -905,10 +905,10 @@
     },
     {
       "id": "Searica-More_Vanilla_Build_Prefabs",
-      "version": "1.5.1",
+      "version": "1.5.2",
       "enabled": true,
-      "size": 534425,
-      "sha256": "b76d2b98fdac35948ce68cb0eee33146f344612df1de0027309bb56d53c5496f",
+      "size": 535218,
+      "sha256": "897ad08cf5a67cb90ed919e5bcb026fdeb90c0de660cc1008bd7ae7f8bc94074",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-Jotunn"
@@ -922,7 +922,7 @@
         "description": "Adds almost everything in the vanilla game to the hammer for building in survival mode. Every piece can be customized and enabled/disabled. Comes with a default configuration for ease of use. Uses Jotunn to sync configs if installed on server.",
         "websiteUrl": "https://discord.gg/sFmGTBYN6n",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Searica/More_Vanilla_Build_Prefabs/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Searica-More_Vanilla_Build_Prefabs-1.5.1.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Searica-More_Vanilla_Build_Prefabs-1.5.2.png"
       }
     },
     {
