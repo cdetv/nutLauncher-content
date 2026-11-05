@@ -11,6 +11,10 @@
   "vapok_mod_item_backpack_plains_description": "Rendkívül tartós loxbőrből készült kalandorhátizsák.",
   "vapok_mod_item_backpack_mistlands": "Felfedező Lidérchátizsákja",
   "vapok_mod_item_backpack_mistlands_description": "Finoman megmunkált, misztikus hátizsák saját Tárolódobozzal. Senki sem tudja pontosan, hogyan működik.",
+  "vapok_mod_item_backpack_ashlands": "Hamuvédő Hátizsák",
+  "vapok_mod_item_backpack_ashlands_description": "A lángfém bordák és a szenes csontok távol tartják a hőséget a hátadtól. Nem a lángokat, csak a hőséget.",
+  "vapok_mod_item_backpack_deepnorth": "Fagyba Zárt Tarisznya",
+  "vapok_mod_item_backpack_deepnorth_description": "Jávorszarvasbőr egy fagymag körül. Nehéz, meleg, és mintha tudná, mikor készülsz összeroskadni.",
   "vapok_mod_item_rugged_backpack": "Régi Strapabíró Hátizsák",
   "vapok_mod_item_rugged_backpack_description": "Strapabíró hátizsák csatokkal és finom bőrpántokkal.",
   "vapok_mod_item_arctic_backpack": "Régi Sarkvidéki Hátizsák",
@@ -30,5 +34,12 @@
   "vapok_mod_se_frost_resistance": "Fagyállóság",
   "vapok_mod_se_wet_resistance": "Vízállóság",
   "vapok_mod_yard_sale_blocked": "Nem sikerült kiüríteni a hátizsákot; a tárgy eltávolítása blokkolva volt. A hátizsák nem mozdult el.",
-  "item_friendlyskeletonwand_spectralshroud_backpack": "Kísérteties Tároló Szemfedő"
+  "item_friendlyskeletonwand_spectralshroud_backpack": "Kísérteties Tároló Szemfedő",
+  "vapok_mod_backpack": "Hátizsák",
+  "vapok_mod_open_backpack": "Hátizsák kinyitása",
+  "vapok_mod_close_backpack": "Hátizsák bezárása",
+  "vapok_mod_switch_container": "Tároló váltása",
+  "vapok_mod_drop_backpack": "Hátizsák eldobása",
+  "vapok_mod_quickdrop_backpack": "Hátizsák gyors eldobása",
+  "vapok_mod_quickdrop": "Gyors eldobás"
 }

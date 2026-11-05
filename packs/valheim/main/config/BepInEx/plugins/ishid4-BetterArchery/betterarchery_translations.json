@@ -2,6 +2,9 @@
   "mod_betterarchery_test": "Loaded",
   "mod_betterarchery_tombstone_space_error": "Not enough space in inventory, Items Dropped:",
 
+  "mod_betterarchery_welcome_topic": "Welcome to BetterArchery",
+  "mod_betterarchery_welcome_text": "Thank you for using Better Archery! Don't forget to adjust the config to suit your taste!",
+
   "mod_betterarchery_quiver_equipped_error": "You can't drop the quiver while equipped.",
   "mod_betterarchery_quiver_wrong_item_error": "You can not put this inside of the quiver.",
   "mod_betterarchery_quiver_transfer_chest_error": "Unequip the item.",

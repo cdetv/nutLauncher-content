@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "profileName": "Order Of The Nut",
-  "importedAt": "2026-10-09T00:55:22.2695874Z",
-  "source": "code:01a11e28-0489-8e48-6e4c-985ec58b9597",
+  "importedAt": "2026-11-05T23:06:14.5326616Z",
+  "source": "code:01a1adea-33c7-7145-6057-c8c3786c90d2",
   "mods": [
     {
       "id": "denikson-BepInExPack_Valheim",
-      "version": "5.4.2351",
+      "version": "5.4.2360",
       "enabled": true,
-      "size": 702924,
-      "sha256": "bce631497976a93977ceb08e166712e6c31d15244956f89f17df092a9b62e29f",
+      "size": 726409,
+      "sha256": "6bca77b1016acfe0ffaebb6534c84b12ae8d12e5a96abbf59ec6e4526204fc6f",
       "dependencies": [],
       "pluginGuids": [],
       "info": {
@@ -18,7 +18,7 @@
         "description": "BepInEx pack for Valheim. Preconfigured with the correct entry point for mods and preferred defaults for the community.",
         "websiteUrl": "https://github.com/AzumattDev/BepInEx",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/denikson-BepInExPack_Valheim-5.4.2351.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/denikson-BepInExPack_Valheim-5.4.2360.png"
       }
     },
     {
@@ -44,10 +44,10 @@
     },
     {
       "id": "Advize-PlantEverything",
-      "version": "1.21.3",
+      "version": "1.21.4",
       "enabled": true,
-      "size": 292475,
-      "sha256": "a731227548d4bb0c669da8faf3b4d17f02ea2696b6fac85fcee9cfc3cfd32446",
+      "size": 292608,
+      "sha256": "4fc80476bcaf124fd80a82996a8a97f70c1395517f49923d9f5a693f9c2b89ed",
       "dependencies": [
         "denikson-BepInExPack_Valheim"
       ],
@@ -60,7 +60,7 @@
         "description": "Allows your cultivator to plant berry bushes, thistle, dandelions, mushrooms, previously unavailable tree types, and other decorative flora. Includes many other miscellaneous features (see description). Highly configurable with localization support.",
         "websiteUrl": "https://www.nexusmods.com/valheim/mods/1042",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Advize/PlantEverything/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Advize-PlantEverything-1.21.3.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Advize-PlantEverything-1.21.4.png"
       }
     },
     {
@@ -84,10 +84,10 @@
     },
     {
       "id": "RandyKnapp-EpicLoot",
-      "version": "0.14.13",
+      "version": "0.15.6",
       "enabled": true,
-      "size": 32706066,
-      "sha256": "8fd19132c46527471092ac732b71651e11862f2c0b784fc907b387b6ace3bb4f",
+      "size": 34227153,
+      "sha256": "d0a952a3a111fae7d40f3ca4d2c508ec82825f1b9b6f91f6c862f2f54336d96d",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-JsonDotNET",
@@ -102,15 +102,15 @@
         "description": "Adds loot drops, magic items, and enchanting to Valheim.",
         "websiteUrl": "https://discord.gg/ZNhYeavv3C",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/RandyKnapp-EpicLoot-0.14.13.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/RandyKnapp-EpicLoot-0.15.6.png"
       }
     },
     {
       "id": "Therzie-Warfare",
-      "version": "1.9.4",
+      "version": "1.9.6",
       "enabled": true,
-      "size": 182194145,
-      "sha256": "2aed973693b5aa654bd88682925714e48fc33170a8b733817a5bb9c7ea8b10f5",
+      "size": 182189745,
+      "sha256": "e9d3f58379aee81a1680d9161c740ea31d8bc9921f94a29440b74a39b0db5045",
       "dependencies": [
         "denikson-BepInExPack_Valheim"
       ],
@@ -123,15 +123,15 @@
         "description": "Fills the weapon and shields gap in vanilla Valheim and with MANY new weapons and unique extras!",
         "websiteUrl": "https://discord.gg/AEqkrq2z4u",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Therzie/Warfare/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Therzie-Warfare-1.9.4.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Therzie-Warfare-1.9.6.png"
       }
     },
     {
       "id": "JereKuusela-Server_devcommands",
-      "version": "1.115.0",
+      "version": "1.116.0",
       "enabled": true,
-      "size": 313458,
-      "sha256": "b2752c18342bc9cabf4734e3480cd2cc4aa9faa8955ba503d4f7cefcfa3e4b33",
+      "size": 318016,
+      "sha256": "3782b6d83922af5e40473e884beca0ac3fcc41c89848a2ae68773a0868f5fb97",
       "dependencies": [
         "denikson-BepInExPack_Valheim"
       ],
@@ -144,7 +144,7 @@
         "description": "Enables devcommands and utilities for server admins.",
         "websiteUrl": "https://discord.gg/VFRJcPwUdm",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/JereKuusela/Server_devcommands/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/JereKuusela-Server_devcommands-1.115.0.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/JereKuusela-Server_devcommands-1.116.0.png"
       }
     },
     {
@@ -168,10 +168,10 @@
     },
     {
       "id": "shudnal-ConditionalConfigSync",
-      "version": "1.0.10",
+      "version": "1.0.11",
       "enabled": true,
-      "size": 254476,
-      "sha256": "cfea461ac34a953b8c25fc50155143148cf313d892896d3f4c6b5b2135eed369",
+      "size": 254611,
+      "sha256": "19146ae5a25cc3c7bddf47a6d17e4b8fb2c6c29c97360abd93664ba7a4433a62",
       "dependencies": [
         "denikson-BepInExPack_Valheim"
       ],
@@ -184,15 +184,15 @@
         "description": "Shared config synchronization and server policy library for Valheim mods. Installed as a dependency and compatible with Jotunn and ServerSync.",
         "websiteUrl": "https://github.com/shudnal/ConditionalConfigSync",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/shudnal/ConditionalConfigSync/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/shudnal-ConditionalConfigSync-1.0.10.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/shudnal-ConditionalConfigSync-1.0.11.png"
       }
     },
     {
       "id": "shudnal-ExtraSlots",
-      "version": "1.2.17",
+      "version": "1.2.24",
       "enabled": true,
-      "size": 265241,
-      "sha256": "2154b8ed7ca18ab7c019fd75fb7ca5551d266f0331ef6e1fb8ac83c5ff081b3f",
+      "size": 276687,
+      "sha256": "21733780a939150356b35752fa5c211f1e6920ead59b5ecd480d35cd9fd8404c",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-YamlDotNet",
@@ -207,15 +207,15 @@
         "description": "More inventory slots dedicated for equipment, food, ammo and misc items. Extra utility slots. Quick slots. Custom slots API. Player inventory resize. Gamepad friendly. Slot obtaining progression.",
         "websiteUrl": "https://github.com/shudnal/ExtraSlots",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/shudnal/ExtraSlots/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/shudnal-ExtraSlots-1.2.17.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/shudnal-ExtraSlots-1.2.24.png"
       }
     },
     {
       "id": "Advize-PlantEasily",
-      "version": "2.3.0",
+      "version": "2.3.1",
       "enabled": true,
-      "size": 193662,
-      "sha256": "1afe2daffc249ff4dc10dcf659f158d8546070822cb3229be780eee9edc287fe",
+      "size": 194035,
+      "sha256": "33642b3ff193e220fbe9301ecd0a2a150bf60c551f0fa06cfc03d96bcdc6ffe0",
       "dependencies": [
         "denikson-BepInExPack_Valheim"
       ],
@@ -228,15 +228,15 @@
         "description": "Allows you to plant evenly spaced crops, either one at a time or in any amount of rows and columns, with grid snapping features and invalid crop placement prevention. Harvest in bulk and optionally auto replant crops. Configurable and supports gamepad.",
         "websiteUrl": "https://www.nexusmods.com/valheim/mods/2350",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Advize/PlantEasily/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Advize-PlantEasily-2.3.0.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Advize-PlantEasily-2.3.1.png"
       }
     },
     {
       "id": "Vapok-AdventureBackpacks",
-      "version": "2.2.11",
+      "version": "2.4.6",
       "enabled": true,
-      "size": 48747346,
-      "sha256": "f06f48184da37cde6d5d0973a2ee9c6a2e4db82efeb17bb50de5f229cb350403",
+      "size": 11851343,
+      "sha256": "7b8dfd18c5263f4f14cd41d34c4b5f2846bcdf18819ee7b7c26f26e10616a840",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-Jotunn",
@@ -251,15 +251,15 @@
         "description": "A Valheim Mod to add a catalogue of Adventuring Backpacks to the Game. These packs will grow and become more useful as the game progresses.",
         "websiteUrl": "https://github.com/Vapok/AdventureBackpacks",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Vapok/AdventureBackpacks/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Vapok-AdventureBackpacks-2.2.11.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Vapok-AdventureBackpacks-2.4.6.png"
       }
     },
     {
       "id": "OdinPlus-OdinArchitect",
-      "version": "1.8.0",
+      "version": "1.9.4",
       "enabled": true,
-      "size": 19425210,
-      "sha256": "84af9707fff5ebb0929b5e873a7b15fd611ea22f2a281cd66fbb9a6f9c7431c2",
+      "size": 21442739,
+      "sha256": "1641f82aeeb7e68def49b82312ada850cb3c724dacf4f75b164b471f1503a4ee",
       "dependencies": [
         "ValheimModding-Jotunn"
       ],
@@ -272,15 +272,15 @@
         "description": "Odin Architect is a mod that will allow you to build more with more structures and on a larger scale. You will find here not only larger counterparts of basic buildings but also completely new ones",
         "websiteUrl": "https://discord.gg/jkcJCq2sK5",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/OdinPlus/OdinArchitect/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-OdinArchitect-1.8.0.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-OdinArchitect-1.9.4.png"
       }
     },
     {
       "id": "ishid4-BetterArchery",
-      "version": "2.0.2",
+      "version": "2.0.5",
       "enabled": true,
-      "size": 1500631,
-      "sha256": "98db90a14e12a62358513cfa0ae27db590da3b22b8bfc2798d97018c1321887e",
+      "size": 1502586,
+      "sha256": "509f3959d40beb8b39e74c901cde4442593af2ae6ac74ae1656e5111435bccaa",
       "dependencies": [
         "denikson-BepInExPack_Valheim"
       ],
@@ -292,15 +292,15 @@
         "author": "ishid4",
         "description": "Adds many features and changes to bow gameplay.",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/ishid4/BetterArchery/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/ishid4-BetterArchery-2.0.2.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/ishid4-BetterArchery-2.0.5.png"
       }
     },
     {
       "id": "Therzie-Monstrum",
-      "version": "1.6.0",
+      "version": "1.6.1",
       "enabled": true,
-      "size": 122064578,
-      "sha256": "02e222e74109f67d4c6d89b8ef9db0e5c345d1414daeb976f3d164792a62a5f1",
+      "size": 122060699,
+      "sha256": "b0fa3ea82f127987f824926c8ff6386ec37c7f279b8ff8e2209cb606f885900a",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "Therzie-Warfare"
@@ -314,15 +314,15 @@
         "description": "Adds new monsters and mini-bosses to fight and tame for original Valheim up till Mistlands.",
         "websiteUrl": "https://discord.gg/AEqkrq2z4u",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Therzie/Monstrum/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Therzie-Monstrum-1.6.0.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Therzie-Monstrum-1.6.1.png"
       }
     },
     {
       "id": "Therzie-Armory",
-      "version": "1.4.2",
+      "version": "1.4.3",
       "enabled": true,
-      "size": 45941985,
-      "sha256": "812cbcfdae7909708f8955297ac7c23665e28f5783a5d3bdc3fdd0f28660331d",
+      "size": 45947416,
+      "sha256": "9ec143709c7d01193c9cec69cabeffc853b35ee1777413cfb8c048427937cf3d",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "Therzie-Warfare"
@@ -336,15 +336,15 @@
         "description": "Adds the Armory forge that offers new variants of original armors that upgrade to the next biome.",
         "websiteUrl": "https://discord.gg/AEqkrq2z4u",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Therzie/Armory/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Therzie-Armory-1.4.2.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Therzie-Armory-1.4.3.png"
       }
     },
     {
       "id": "OdinPlus-OdinHorse",
-      "version": "1.8.7",
+      "version": "1.9.5",
       "enabled": true,
-      "size": 12452551,
-      "sha256": "fae736d0e8a5a61d5336f98eb32b25320b2b0ffa786204d055f0b42508bce436",
+      "size": 15374385,
+      "sha256": "c4de5bb74692c5bd5cadd9ec7100e5f17072ee7d02829b328f333bad2996f46f",
       "dependencies": [],
       "pluginGuids": [
         "Raelaziel.OdinHorse"
@@ -355,7 +355,7 @@
         "description": "Horse mount and new items! You can tame it, You can ride it, You can attach the Horse Cart, You can breed it, Add armor to your horse!",
         "websiteUrl": "https://discord.gg/jkcJCq2sK5",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/OdinPlus/OdinHorse/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-OdinHorse-1.8.7.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-OdinHorse-1.9.5.png"
       }
     },
     {
@@ -382,10 +382,10 @@
     },
     {
       "id": "RustyMods-Seasonality",
-      "version": "3.8.3",
+      "version": "3.8.7",
       "enabled": true,
-      "size": 9085676,
-      "sha256": "1debf424c58b35a5d2bca16ac77f6b5f351b42669a2cca9d026d01f6cfce7c0a",
+      "size": 9056216,
+      "sha256": "74186204cd17793e1cd2a151148ff89dac0b6ef1e3007b2186e9e717019aa010",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-YamlDotNet"
@@ -399,15 +399,15 @@
         "description": "Dynamic seasons by altering textures and colors, providing an immersive environmental experience that changes with time.",
         "websiteUrl": "https://github.com/RustyMods/Seasonality",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/RustyMods/Seasonality/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/RustyMods-Seasonality-3.8.3.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/RustyMods-Seasonality-3.8.7.png"
       }
     },
     {
       "id": "OdinPlus-OdinsKingdom",
-      "version": "1.6.2",
+      "version": "1.6.3",
       "enabled": true,
-      "size": 16994229,
-      "sha256": "c1f73e57c03fbe1c7f1757f8f976346e0d1729ba797968787dfd264b3578824e",
+      "size": 14386074,
+      "sha256": "88498f38882c0328528338f13d8ffbbc699456ece4914abbfac18882735007ac",
       "dependencies": [],
       "pluginGuids": [
         "odinplus.plugins.odinskingdom"
@@ -418,7 +418,7 @@
         "description": "A custom piece mod by the OdinPlus team, this mod adds several castle construction pieces with a custom build tool.",
         "websiteUrl": "https://discord.gg/jkcJCq2sK5",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/OdinPlus/OdinsKingdom/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-OdinsKingdom-1.6.2.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-OdinsKingdom-1.6.3.png"
       }
     },
     {
@@ -443,10 +443,10 @@
     },
     {
       "id": "Therzie-Wizardry",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "enabled": true,
-      "size": 106786217,
-      "sha256": "61d6220379864134021a2a234eaf82a88335914e37f247905a196d7a18337e1f",
+      "size": 106785072,
+      "sha256": "a8117b7bfcc2b38dff0c3bf22d1f87db25e136f413b0367571e07e671d4de39f",
       "dependencies": [
         "denikson-BepInExPack_Valheim"
       ],
@@ -459,15 +459,15 @@
         "description": "Fills the magical gap in vanilla Valheim with MANY unique extras!",
         "websiteUrl": "https://discord.gg/AEqkrq2z4u",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Therzie/Wizardry/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Therzie-Wizardry-1.2.2.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Therzie-Wizardry-1.2.3.png"
       }
     },
     {
       "id": "MidnightMods-ValheimArmory",
-      "version": "1.35.0",
+      "version": "1.38.0",
       "enabled": true,
-      "size": 28838538,
-      "sha256": "1e2f7671523077b84cda2352b0fe7dc6b17ff737848cfd4dbebbe289dc07a433",
+      "size": 29337078,
+      "sha256": "1468a2d5782213d343d3fcec493483455c69d4e9bbd6412ef3aad31c6ca6c9a2",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-Jotunn"
@@ -481,15 +481,15 @@
         "description": "ValheimArmory aims to create a more diverse selection of weapons to make all playstyles feel fully supported at each level.",
         "websiteUrl": "https://discord.gg/Dmr9PQTy9m",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/MidnightMods/ValheimArmory/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/MidnightMods-ValheimArmory-1.35.0.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/MidnightMods-ValheimArmory-1.38.0.png"
       }
     },
     {
       "id": "southsil-SouthsilArmor",
-      "version": "3.2.0",
+      "version": "3.2.2",
       "enabled": true,
-      "size": 94133477,
-      "sha256": "e1a5875cda71fa4325b8da472ea70281ccd6abd728618a0624e9bf27f8240316",
+      "size": 94585805,
+      "sha256": "5a7ff7629a6115afc92c857b3daf2e46b403b4984619da1e2a440d59b0b8f4de",
       "dependencies": [
         "denikson-BepInExPack_Valheim"
       ],
@@ -501,7 +501,7 @@
         "author": "southsil",
         "description": "Adds over 30 entirely new armor sets, spread across all biomes!",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/southsil/SouthsilArmor/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/southsil-SouthsilArmor-3.2.0.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/southsil-SouthsilArmor-3.2.2.png"
       }
     },
     {
@@ -527,14 +527,15 @@
     },
     {
       "id": "GoldenJude-Judes_Equipment",
-      "version": "3.0.0",
+      "version": "3.0.1",
       "enabled": true,
-      "size": 9529704,
-      "sha256": "8a3fc89ce5db1695e42f77a675a14e3dbe462abcd61341f2ee1d7d73846ac0fb",
+      "size": 9530261,
+      "sha256": "cb1f1f740bb471db7a4cb9e7d829f7a0263bd4587914e63b1fad5a2c0552b690",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "GoldenJude-Blacksmiths_tools",
-        "ValheimModding-YamlDotNet"
+        "ValheimModding-YamlDotNet",
+        "ValheimModding-Jotunn"
       ],
       "pluginGuids": [
         "GoldenJude_JudesEquipment"
@@ -545,7 +546,7 @@
         "description": "Adds 9 new armor sets and 2 backpacks for increasing carry weight",
         "websiteUrl": "https://github.com/OrianaVenture/JudesEquipment",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/GoldenJude/Judes_Equipment/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/GoldenJude-Judes_Equipment-3.0.0.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/GoldenJude-Judes_Equipment-3.0.1.png"
       }
     },
     {
@@ -613,10 +614,10 @@
     },
     {
       "id": "ComfyMods-SearsCatalog",
-      "version": "1.9.0",
+      "version": "1.10.0",
       "enabled": true,
-      "size": 46118,
-      "sha256": "55175369926a19d0f6f4a718f67e264575057e6387d17d61d4ee30a0ab0d01fd",
+      "size": 54099,
+      "sha256": "772da7c0cee718bc0807296ebb3649270dcc3ee33d8667cdcb97d90a4c7831c4",
       "dependencies": [
         "denikson-BepInExPack_Valheim"
       ],
@@ -629,15 +630,15 @@
         "description": "Resize and reposition the build panel in-game.",
         "websiteUrl": "https://github.com/redseiko/ComfyMods/tree/main/SearsCatalog",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/ComfyMods/SearsCatalog/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/ComfyMods-SearsCatalog-1.9.0.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/ComfyMods-SearsCatalog-1.10.0.png"
       }
     },
     {
       "id": "OdinPlus-PotionPlus",
-      "version": "4.3.9",
+      "version": "4.4.0",
       "enabled": true,
-      "size": 5881861,
-      "sha256": "af4df8199a670b3928030af0212b8866e91a7e58914cab71c309ca30f49ec2d8",
+      "size": 5881941,
+      "sha256": "544d8f1d8c0eed5f122b3383c53e19dfab72b5486679300b07ece05e87150549",
       "dependencies": [],
       "pluginGuids": [
         "com.odinplus.potionsplus"
@@ -648,15 +649,15 @@
         "description": "Adds several potions to the game, now with improved skills, new potions, new config options, and server sync!!",
         "websiteUrl": "https://discord.gg/jkcJCq2sK5",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/OdinPlus/PotionPlus/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-PotionPlus-4.3.9.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-PotionPlus-4.4.0.png"
       }
     },
     {
       "id": "zolantris-ValheimRAFT",
-      "version": "5.0.9",
+      "version": "5.1.3",
       "enabled": true,
-      "size": 52564154,
-      "sha256": "7e66a4793e07ee99dd110664ba4d6cc930a6dfd615c884218e6cdba6962edddd",
+      "size": 52587706,
+      "sha256": "89aba707e9401c865d47ae7e5236e2ecce3c7ffbb1ff684f329075d6f97ee17f",
       "dependencies": [
         "ValheimModding-Jotunn"
       ],
@@ -672,7 +673,7 @@
         "description": "ValheimRAFT - supports valheim 1.0.0 Deep North. A vehicles mod for valheim. Build a ship, build a land vehicle. Explore valheim!",
         "websiteUrl": "https://github.com/zolantris/ValheimMods/tree/main/src/ValheimRAFT",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/zolantris/ValheimRAFT/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/zolantris-ValheimRAFT-5.0.9.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/zolantris-ValheimRAFT-5.1.3.png"
       }
     },
     {
@@ -719,10 +720,10 @@
     },
     {
       "id": "warpalicious-More_World_Locations_AIO",
-      "version": "5.1.9",
+      "version": "5.2.3",
       "enabled": true,
-      "size": 272202705,
-      "sha256": "d54130ccb2eacb541b5aba0e2938596af0127e59ffc2a4154d672b8269c7b27b",
+      "size": 272218412,
+      "sha256": "999c6706fd0c8f794d8ba08eaae4a08880c8b5f606ea2b2889c3ad1589cb64b5",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-JsonDotNET",
@@ -738,7 +739,7 @@
         "description": "Adds 190 new POI locations including dungeons, traders, ports and much more to enhance Valheim\u0027s world exploration.",
         "websiteUrl": "https://discord.gg/3aaru2VyHJ",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/warpalicious/More_World_Locations_AIO/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/warpalicious-More_World_Locations_AIO-5.1.9.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/warpalicious-More_World_Locations_AIO-5.2.3.png"
       }
     },
     {
@@ -805,10 +806,10 @@
     },
     {
       "id": "Xutz-ValheimCuisine",
-      "version": "2.3.2",
+      "version": "2.3.4",
       "enabled": true,
-      "size": 98748411,
-      "sha256": "0edca12820c94fc83d429109cd4cffd5a0d29c1100e718ff87a665c83b726ccb",
+      "size": 99010770,
+      "sha256": "defa45b7b56ce66f85289ca8be40bfbdab98ff95cbb5c34a79052f2b351ffd9c",
       "dependencies": [
         "denikson-BepInExPack_Valheim"
       ],
@@ -821,7 +822,7 @@
         "description": "Adds more than 300 food recipes inspired on cultural nordic delicacies, with norse mythology references to fit the game.",
         "websiteUrl": "https://www.nexusmods.com/valheim/mods/2155?tab=description",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Xutz/ValheimCuisine/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Xutz-ValheimCuisine-2.3.2.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Xutz-ValheimCuisine-2.3.4.png"
       }
     },
     {
@@ -867,10 +868,10 @@
     },
     {
       "id": "Balrond-balrond_constructions",
-      "version": "1.5.0",
+      "version": "1.5.2",
       "enabled": true,
-      "size": 40420380,
-      "sha256": "d7dd5a4da8773993e7b0df0de3442f7716c5f4eebaa414a3942cf40a9248817a",
+      "size": 40462532,
+      "sha256": "264cdb3ecbc50534e3660077f869b164c2eab222540d763a0e49cc5c8d1cefa1",
       "dependencies": [],
       "pluginGuids": [
         "balrond.astafaraios.BalrondConstructions"
@@ -881,15 +882,15 @@
         "description": "A growing set of over 300 construction pieces of both vanilla types and new",
         "websiteUrl": "https://discord.gg/Jfp8T5N7Pv",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Balrond/balrond_constructions/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Balrond-balrond_constructions-1.5.0.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Balrond-balrond_constructions-1.5.2.png"
       }
     },
     {
       "id": "OdinPlus-OdinsFoodBarrels",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "enabled": true,
-      "size": 5292355,
-      "sha256": "24fbf2401dd9d95322ac2b83169c4519341583cd3a8ac6a84cedb95d7cceb5d4",
+      "size": 5293787,
+      "sha256": "85114040d6f3ee50e999846f04dbb785acc681193e84bac55c1cc401b4a950d7",
       "dependencies": [],
       "pluginGuids": [
         "gravebear.odinsfoodbarrels"
@@ -900,15 +901,15 @@
         "description": "ModWish from OdinPlus Community - buildable dynamic storage containers for seeds, fruits, and vegetables!",
         "websiteUrl": "https://discord.gg/mbkPcvu9ax",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/OdinPlus/OdinsFoodBarrels/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-OdinsFoodBarrels-1.4.0.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/OdinPlus-OdinsFoodBarrels-1.4.1.png"
       }
     },
     {
       "id": "Searica-More_Vanilla_Build_Prefabs",
-      "version": "1.5.2",
+      "version": "1.7.2",
       "enabled": true,
-      "size": 535218,
-      "sha256": "897ad08cf5a67cb90ed919e5bcb026fdeb90c0de660cc1008bd7ae7f8bc94074",
+      "size": 553908,
+      "sha256": "de33c92776883056e05d97e9cad7e52392fbff268edd5b78b744c3ad4dff94b7",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-Jotunn"
@@ -922,7 +923,7 @@
         "description": "Adds almost everything in the vanilla game to the hammer for building in survival mode. Every piece can be customized and enabled/disabled. Comes with a default configuration for ease of use. Uses Jotunn to sync configs if installed on server.",
         "websiteUrl": "https://discord.gg/sFmGTBYN6n",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/Searica/More_Vanilla_Build_Prefabs/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Searica-More_Vanilla_Build_Prefabs-1.5.2.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/Searica-More_Vanilla_Build_Prefabs-1.7.2.png"
       }
     },
     {
@@ -950,10 +951,10 @@
     },
     {
       "id": "JereKuusela-Upgrade_World",
-      "version": "1.84.0",
+      "version": "1.87.0",
       "enabled": true,
-      "size": 228389,
-      "sha256": "32c5d1c21add20e2cc869f5191ecfd638150538723db3a1798f07272b2b97ac5",
+      "size": 238363,
+      "sha256": "48469359a4a5b31a27cd8f09f1bd1273c76d19e3ec0c104f318164e9a7263fd8",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "JereKuusela-Server_devcommands"
@@ -967,15 +968,15 @@
         "description": "A tool which can add new content to already explored areas.",
         "websiteUrl": "https://discord.gg/VFRJcPwUdm",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/JereKuusela/Upgrade_World/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/JereKuusela-Upgrade_World-1.84.0.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/JereKuusela-Upgrade_World-1.87.0.png"
       }
     },
     {
       "id": "AWLGaming-BoneAppetit",
-      "version": "3.3.18",
+      "version": "3.3.22",
       "enabled": true,
-      "size": 15521430,
-      "sha256": "d1d82c01ee1dbd2941d66ec9739ee5bbe1e2c2b95091b22db3230f2c30dda190",
+      "size": 15523220,
+      "sha256": "65e668a0d6669b513f543f68650bdb4d8a71fd4e31873f16bddf091b50ad9a7b",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "ValheimModding-Jotunn"
@@ -989,15 +990,15 @@
         "description": "BoneAppetit foods and cooking stations, maintained for Valheim by AWL Gaming.",
         "websiteUrl": "https://github.com/AWL-Gaming/BoneAppetit",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/AWLGaming/BoneAppetit/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/AWLGaming-BoneAppetit-3.3.18.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/AWLGaming-BoneAppetit-3.3.22.png"
       }
     },
     {
       "id": "shudnal-LongshipUpgrades",
-      "version": "1.0.23",
+      "version": "1.0.24",
       "enabled": true,
-      "size": 1220158,
-      "sha256": "2bfe2aaf6327b9f7e107cc8a9278aaeadf32faf9b5d1e872b999a2aaeb1eae5a",
+      "size": 1220881,
+      "sha256": "b4aee2f70cf33ad2df5fe227f0293f9edab60ccf7bef0f588aa63cbe2973eba2",
       "dependencies": [
         "denikson-BepInExPack_Valheim",
         "shudnal-ConditionalConfigSync",
@@ -1012,7 +1013,7 @@
         "description": "Upgrade your vanilla Longship piece by piece with lantern, changeable sails, tent, shields, extended storage and more.",
         "websiteUrl": "https://github.com/shudnal/LongshipUpgrades",
         "thunderstoreUrl": "https://thunderstore.io/c/valheim/p/shudnal/LongshipUpgrades/",
-        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/shudnal-LongshipUpgrades-1.0.23.png"
+        "iconUrl": "https://ccdn.thunderstore.io/live/repository/icons/shudnal-LongshipUpgrades-1.0.24.png"
       }
     }
   ],
@@ -1045,7 +1046,7 @@
     },
     {
       "path": "BepInEx/config/BalrondConstructions-translation/German.json",
-      "sha256": "a3ee72abdb0af5517dd9b3e7fbf2f040c882034e19711733b5f1cb7a25768383"
+      "sha256": "87241478454e9380d4181a61c126836b73043543d4877bda0a642b7f685bf12d"
     },
     {
       "path": "BepInEx/config/BalrondConstructions-translation/Russian.json",
@@ -1061,7 +1062,7 @@
     },
     {
       "path": "BepInEx/config/BepInEx.cfg",
-      "sha256": "973c6f57fbdc00e22bb61d2d08e274a366a1003a69b4520d038e1cb6f130d0ba"
+      "sha256": "3d460196bb8f993fc71048efc6d1bbc21b5364eefac778df61955138c83cc677"
     },
     {
       "path": "BepInEx/config/binds.yaml",
@@ -2188,6 +2189,10 @@
       "sha256": "3410163bd6994421aa6da49325e97ab1083e6eb280e0bc8fe95e8b388579dba3"
     },
     {
+      "path": "BepInEx/config/TherzieTranslations/Monstrum/Monstrum.English-LatestUpToDate.yml.old",
+      "sha256": "3410163bd6994421aa6da49325e97ab1083e6eb280e0bc8fe95e8b388579dba3"
+    },
+    {
       "path": "BepInEx/config/TherzieTranslations/Monstrum/Monstrum.French.yml",
       "sha256": "bc53cef6dbd026120972c3da08de74a090bc3cbce761381faedf1bc97e7738af"
     },
@@ -2240,6 +2245,10 @@
       "sha256": "7759a0546b2a000f7370d9607060fcf185125b803631996f3ff5da60e9753bdf"
     },
     {
+      "path": "BepInEx/config/TherzieTranslations/Warfare/Warfare.English-LatestUpToDate.yml.old",
+      "sha256": "7759a0546b2a000f7370d9607060fcf185125b803631996f3ff5da60e9753bdf"
+    },
+    {
       "path": "BepInEx/config/TherzieTranslations/Warfare/Warfare.French.yml",
       "sha256": "782f82f16337f6e086fbfe20045296ff69abdddf664d6736b3c25236be00bdf6"
     },
@@ -2289,7 +2298,7 @@
     },
     {
       "path": "BepInEx/config/TherzieTranslations/Wizardry/Wizardry.English-LatestUpToDate.yml",
-      "sha256": "a6a2e10e75bd5045bf4b41a41e16d456181fdba4effa462c172c4123f315425b"
+      "sha256": "e86c72fcd9b4b3820e946dc62cc7a795ae95dfbf8ebd2148d2feda45ab94a018"
     },
     {
       "path": "BepInEx/config/TherzieTranslations/Wizardry/Wizardry.French.yml",
@@ -2629,37 +2638,37 @@
     },
     {
       "path": "BepInEx/plugins/ishid4-BetterArchery/betterarchery_translations.json",
-      "sha256": "451f929ff955df8c85f619dde76e56093ca8d455f789264f4fdbe4329dfb196b",
+      "sha256": "bcd0c6e2ea95d4454ad33fe1237759d1023f817ff909566706a73fdac212197a",
       "owner": "ishid4-BetterArchery"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Chinese/big.json",
-      "sha256": "d4cfb9a8a37f924f8379ee3169d5cb1aaeca573da3797a9570b6468540ca3bd8",
+      "sha256": "1453c8f93ca378794779ba47dc3b9edb45dfbd5a89e85887433f4f4341f353bf",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Chinese/decors.json",
-      "sha256": "4ac4d709875be001207db8fad4cd4c875c01a70a808832ba10c3a95d18aa3f02",
+      "sha256": "9c79ed3ad05c41a235858fd29e2c6d29a4d2e1cdcb847e5c30f42b2c8219815a",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Chinese/doors.json",
-      "sha256": "1f8c57d99d4c6f94beadc3343d18367d9f238e83ed089328a2abdeea919009a1",
+      "sha256": "13624daa1136f4d3c89b6a59160682f342b4825e6ed7d5dd54f9376d00ac1184",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Chinese/dvergr.json",
-      "sha256": "2683a1c4fb1865387816b477d2b666c7fe229170b9f8542db772717c2fe792c1",
+      "sha256": "c3435df74779d940d28d01a1726ddccc9083bbaf5d27f8cb76948e4a1a32f46b",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Chinese/misc.json",
-      "sha256": "88c815bfc4fe54ae0dfb2f1247ec225d802bdc772e7bd42963cd2b6fd681a486",
+      "sha256": "503d5e3b056d71872293ae83cceee834f3d6a5b6cd5d5665866a1eb5c7c0fab4",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Chinese/pieces.json",
-      "sha256": "2fabc86f4fbfa5c91e42f6cd61faf91a1f16a2857a8627db150faa3ddcb9734a",
+      "sha256": "573c212ad9863925afedbe6f16fb41223d50462c25b7f53a8f9840af7387ca65",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
@@ -2669,32 +2678,32 @@
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/English/big.json",
-      "sha256": "e211e6ad2d41a4d7f19d0295edb42a4a2c966ee940a038164d4550b6f59ccd3e",
+      "sha256": "624a562325eb797606af2480d45508650ad49f1e43bbb0fc70d88c92fa9c40f4",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/English/decors.json",
-      "sha256": "5c1e6ae7833613af206152c50f51a7dbeeeef4e5a2b18b18d62a63b4dae75910",
+      "sha256": "d8cc7e1e9876527a73399eebee6be9fd4a8ab699076042156f3ee480e69705a2",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/English/doors.json",
-      "sha256": "f89ccbd95ac652660d1d69e5fcc1ebd10c37c210fd33503f6c4d631f0cdeee18",
+      "sha256": "0ef1f5ae09b45dd899d92f241df6e98240d0efa5ba33d51940d4bbb19a474fbb",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/English/dvergr.json",
-      "sha256": "2113e2068f97f80cdadcea3b52a81d0ca071ab08b75a8fe71d0c5403ec4cbd4f",
+      "sha256": "eb7c8149b625acc27c4b01be23500f488248bf95330fdccd230ae7540a7577f6",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/English/misc.json",
-      "sha256": "8a11c9df73e61be1a5ee61381422a9825824af00f9e38974a05c354277635726",
+      "sha256": "83d8f666248aade5b8e3289dd1ca47cb0b95fece8c1302df7e8cf045a6987f07",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/English/pieces.json",
-      "sha256": "104f11d864ed3e595d6ef696f4de6f7030feed73e25f414e338a71c9b9f74a0d",
+      "sha256": "fa4c39de5bc4ab0edb9eca20921980ac633d488b02a3cf27389c8343cd25748e",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
@@ -2704,277 +2713,277 @@
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/French/big.json",
-      "sha256": "bc7c390d39969eef2cadee5e0fa7d262f5f2b6d341261ddb8f888a7f8dcb9007",
+      "sha256": "8727fcf0dd4b6af2eb52d44c23fbe6d8f6a461f76daa081d8740715e3a599497",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/French/decors.json",
-      "sha256": "9f8a53864a5733681d7b804c1555c2f0203b28dd3d2dd65487c92bc0f0be6dd8",
+      "sha256": "b44750b3bf796cc8a910fbdfd3cc35a9bc8efb6eff790ec7771d7b8e4a51e2e9",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/French/doors.json",
-      "sha256": "c5e5b5a5e1452a27b1b79cd5f260aeb165e1a69818ee2bf16b7ab0eab36f19f2",
+      "sha256": "aedca38f1bd4c0ed29844b2f12a6d7f88f288ddad1f69f7a04caf28639ee8b53",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/French/dvergr.json",
-      "sha256": "8e059bfeca63b3569262198b76e200c22a32ffe54bb53b60bed84758661d57a9",
+      "sha256": "7361a50196bf0b8a62300ca1951a6f52972d5079c0c222bf779817f04496877c",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/French/misc.json",
-      "sha256": "b438713847afe996e05bcfe6653903e179effdbd0fce0200285a04bab4dcdc3e",
+      "sha256": "0a2124137148e1dc721a6f70e9cd707acae27147a9491bc16cad51acf6f8fc0b",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/French/pieces.json",
-      "sha256": "ca261a539282b2d5f181c19c547b85c938e13abc22daf0271051afa9dbbdcb56",
+      "sha256": "147304f7ba8fceba3dbcb7b30b19a7f35db8077a7f80c44c8a2e5e37e7ca86cb",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/German/big.json",
-      "sha256": "38d860b77807ad43b5960bb8c3ce3a043f1f5d921730c08fc180c9bcf8314dc8",
+      "sha256": "dfc2c1c232ca8d5ab2185d3dd81e79f64fdeceb04d38cbd547bd50ff10e8330f",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/German/decors.json",
-      "sha256": "b34fc67309b3e48b97f11eb89edca7d99b850c7a048c2abd6f9700b1850cfd24",
+      "sha256": "661f58231fdd7ff7d3148fa71e4d36b8dfa5101e024931f06a04b9de432fb54d",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/German/doors.json",
-      "sha256": "6e46815e747efd64e2fd286abea5626705dc456263137df6d78f0e9a00a65ade",
+      "sha256": "1e59a927a76bf210e751d9f02738a83d492860bc979ce89731703799d3e503cb",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/German/dvergr.json",
-      "sha256": "310a236c041a2ace6c2fc4da06608bb3d4f164b8e158dcf73ab648a5d1896e1e",
+      "sha256": "374fb894ae3c5c8e12418c90e86bba633ac5456ba0b68d6a8f2a85306b8b08f2",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/German/misc.json",
-      "sha256": "16f47d1d19a9e879427f16939f4a82af3a079ed71ec8acdf3bf29948c4cfab8d",
+      "sha256": "f6a3808b50bd6eeaa319f19902bbbea003743eefba044101bae9576593bc9f03",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/German/pieces.json",
-      "sha256": "5258db6736dfeddaa92cbf8b73bd27db2e1faa5f5db6bfe084e7e5af5eb97cec",
+      "sha256": "a2a8026f4a47abac1cad007f24a1554db63c1b33073d73877ea62ca7de7fc91e",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Italian/big.json",
-      "sha256": "f4ffd0317d08c01a049a824d1f4dd0b97d11aa3424cacebf4ee449deb5d84d5d",
+      "sha256": "dcd416a42c7c79f28a994a51d14270c464e2a9174bfcca6747c572de5327bf55",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Italian/decors.json",
-      "sha256": "674726a71c154b450534cc0fd4e77625981bc3cd4825e9908c8dc3f9791a2859",
+      "sha256": "a8e99321b483a705cd1cc787a5ce377857b03fc5a7dea3aad605f0d0e3005684",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Italian/doors.json",
-      "sha256": "2166accb2da075a78b90934b009c566ded1e6c962e93eeaafcf228d7fb3e2a78",
+      "sha256": "c99520d53cf31a22f7d7b03c820136dacaa0ee7a44f7728921069c34f87d1633",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Italian/dvergr.json",
-      "sha256": "82be3bda0089228876fbabca29ffaeb124572aa1f118d51716c1232483f37d7c",
+      "sha256": "ccde825bb6fddd24281488c00f19371fb5c850456ddd95198798c074af261675",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Italian/misc.json",
-      "sha256": "55ca91f819db513d018c5a5d2a91f2e4055d67870e92c6e17f74273dc3f08b67",
+      "sha256": "4062c258f5f72890817a380708b8c16c177e78c33464b5c8cfce2f11b4e74ff2",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Italian/pieces.json",
-      "sha256": "ddb1a14923f0933edbb61fcbb21be90cf1cc1350f31425eef5eb7925d7632588",
+      "sha256": "04799c81fea985a30457deab37b6f7f8edcd29aaa0ff3de5a1f6de58ae319dcc",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Japanese/big.json",
-      "sha256": "c748f5609d4012b86dbdc9ae87711b8370c466b8924a6a12834f265edac6d468",
+      "sha256": "6817cea4b79ff2ce8599dc54e5463c03cfa3deef749a9fc32fbf80c74e3c351e",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Japanese/decors.json",
-      "sha256": "f712c2ca15ba3f52c83d56b1abe2b1803c3be4eba053d3e0dc5295cf8c6bc25b",
+      "sha256": "b4b53bb539a69b693184f7b9f8de36398b3a715983c4120361947529e8c4f040",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Japanese/doors.json",
-      "sha256": "78a9cae4b86df680f641b31d5bdddee9dda8d1cbc4f8bf6ab194b32bb8f8e3d2",
+      "sha256": "25014039b0c9ccf7cc35e6a04e8465f7a67caa5fb95a3ab92754d314c08ca23f",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Japanese/dvergr.json",
-      "sha256": "a271cb74d3167ce0c15bf56f061e8562176e499495d5aa5e163eb8f20ac8553a",
+      "sha256": "202a4e77e87630b783b7169fdc34c7b5bb8de0c47afa4c92d05ce3c9b5ac7f15",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Japanese/misc.json",
-      "sha256": "25797384f0d65883c10c50cef072259b637b5141d5d17c957e931bfbe172f428",
+      "sha256": "c5470b39f4b8ad0183d47f228abca7fed1b45c3264e1e7984bc0ef13d0e04a43",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Japanese/pieces.json",
-      "sha256": "6ea5783060ebf008c1cde4ee3541868068ceeb3c9a0511f975d44ca67be23195",
+      "sha256": "576bd648fdba194825eab4d6149c451f18e867c01808ea9f3f3cd6352f5ea39e",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Korean/big.json",
-      "sha256": "8df75fcfc2c561c84ad7bff019973b77302979ff9d1eeb9cdc2c0264fa510e99",
+      "sha256": "679625eef1cff720b56f071d823a0c709b37874a69b4a20907e9eb444f86dd0b",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Korean/decors.json",
-      "sha256": "a2c46fdbb0b85841682871eff20f8f548b7ef0906b1bd22d4a6cc1d31332e0fa",
+      "sha256": "7daf2ed45fdc1029e88e9103f37e091269328ef404c81cc477f71b30e849b095",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Korean/doors.json",
-      "sha256": "7e2ff22678ef56e85a1e1cfc8d03860a17300f86578fb345434f2adbab21ac53",
+      "sha256": "f4fa0628b44830a9bc8a36193e6fab00d6c19b0cc43ae005d98dd20811b34401",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Korean/dvergr.json",
-      "sha256": "ad6f0e70ec9c2405a140b85c169eb9a532e9a77712e40abd566088f7e7405784",
+      "sha256": "49dbc530053e8227a62570c7c266a2ec3f3872c36882252c7357959343c1f8a1",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Korean/misc.json",
-      "sha256": "0e42a208880275680990a4b38f610fa443ec817ce915f69cb329d01b9cd4748d",
+      "sha256": "5716238dc9a0a28b5523baf8e3eadd15d127d5fb661b8bbe199bf4da22340bb6",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Korean/pieces.json",
-      "sha256": "a5af53bcdf01cbbacbbd258f4ca5c4c5661df571645ce3a9c747b1621dd44dd8",
+      "sha256": "9ae48abffb8589a00adef561726821a143f28b89d5741f2d58237ffe1fa8397f",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Polish/big.json",
-      "sha256": "c98f430fdf8191f475796dcbfbb0358c5ab2cccdae735d4b73913636785ee105",
+      "sha256": "3c82cd1271a576c3965b144e2ece445b6fd6d8ba541ff16d066d8142ce706630",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Polish/decors.json",
-      "sha256": "dcc5934eddf60c0fa4725b34afe7d20bba0cb59fb9e4f50160467970b728df08",
+      "sha256": "d99af73434e7160e52d8f46a6b3f524f657e82e29aff80fc42c236200407b9f9",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Polish/doors.json",
-      "sha256": "1e5e52113211fbd792b88cb33ed1b05460d23c9f408abc7401893c665d65b400",
+      "sha256": "81bc95b357d1a4a200951d7f9ddf74ce79fb48c5c5e641ef5543d7b6af1df3ff",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Polish/dvergr.json",
-      "sha256": "15597d38fea803ee70372228490d41ce7e5eb303213915c7f23661abd6b395d6",
+      "sha256": "b891f7c2899e91eb2b7577d00ed3c60627cc1cc5673032c7224472f769a8fb35",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Polish/misc.json",
-      "sha256": "3d382ebf2cd4b54d419db427117f04ee8c0de0205bce688962c3d693a5940f6d",
+      "sha256": "631d10bcc9e64ba182dcc4e49b00f5b6e27c548a79e8aa9732ac1ce91852d382",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Polish/pieces.json",
-      "sha256": "c5787d75741f7866b23b0ff6140f3a5ee29ab180fbc6b2d6c79711530ffba730",
+      "sha256": "7261bc0041e0c0b2fe767a2f01353272e675f034dd99b2698840da9f0c0a61ee",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Portuguese_Brazilian/big.json",
-      "sha256": "ee3f94fdcaea30d9285430a4f50519396098f40f0e606f6b9b91290ed5218d48",
+      "sha256": "ab9b724a91c4d48ccd4c6127994f475555cd3bebac47286557d8ef5e7f4a32fe",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Portuguese_Brazilian/decors.json",
-      "sha256": "2ae9adc8ddd21e55662a9298f138213f4d0e38cb17769d757f9309bcf8236725",
+      "sha256": "7a6614c9dad0ab6716e1144f709dac74ce69da74eb97c15bf910d898531f08e8",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Portuguese_Brazilian/doors.json",
-      "sha256": "4f872313b3cd4178139e02b7ed887768aeec75d900e795c6271a41bb1d85c308",
+      "sha256": "4d99f4f2ccaa03c4cdc79b7988b188f32d5b31e79eb07a4ef0ee88d04d0f4567",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Portuguese_Brazilian/dvergr.json",
-      "sha256": "4bb7288651fd68e73a94da2f88c24965b67d39fb79f8eac7700d9f0b771530da",
+      "sha256": "328b2854a035b6d154c915f7c439664de9f9c7db5cd67b827e942204bd38becd",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Portuguese_Brazilian/misc.json",
-      "sha256": "1ebf56b6b874c123efc1196fe6f9c775efa61866d1c2de730cdb66efa63d0aea",
+      "sha256": "075ecf37b4121cee49bd5776593c3a94162e2eca10e3abaf1a21dc75941aa7b2",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Portuguese_Brazilian/pieces.json",
-      "sha256": "44e9d163e3cc4a2f2a9d56caedc4f0c510187b0b53d819f1a68d1ed13538d651",
+      "sha256": "943051cf804886e8190eea78390c3e51d2628b866128f654ed5f042753448833",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Russian/big.json",
-      "sha256": "f05fac72b765f661e90e94939d5980ac81d54d600a82e4494bf91210c33fde0c",
+      "sha256": "473b0b5924d7a8d8efee94febbd68dc83a794cfecc52333491d66816eeba2427",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Russian/decors.json",
-      "sha256": "53d668e27fbdb790d7fc0ebf9dc23e6183d762cb6b3ec5a4baa9436bda7b1975",
+      "sha256": "3385f9c5b6f1b9716f675915fda3e8c86dbac42bc2dce774a2e1e97fb53e6e26",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Russian/doors.json",
-      "sha256": "82333daf6730042648ec0690d2c3348dda5275f2665258bbcbcb4ddc78923bf1",
+      "sha256": "d0a355bff95abfdb750a3d6697698d5fd3d227cbe0f01a9b68d2353c592f4b8e",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Russian/dvergr.json",
-      "sha256": "7cc0d59e5c33f8b487348d392612c9e77d854f711f1f9f546b9e108f978b833a",
+      "sha256": "e43270e4fca25b465f07863a9ed4b8a54c2de8aa8de337baddd50c93747a5b1e",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Russian/misc.json",
-      "sha256": "a4a422e1c7891332c7e38239d074b8755ad1b92a8f0648aa2a20480d6c5ed41f",
+      "sha256": "6c40dc6a723d2e83f4e3c4a8c90c7f0c8aa3866dc7676b73b4c8073e58d32c60",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Russian/pieces.json",
-      "sha256": "233da5dfe77abf275e6bddc3189de70b4dbb526da68a7c869cc4b3b686d1d3cb",
+      "sha256": "b637aecd1f28f143ebc45b93100bf18886238cb7fb862d9d04a900508e540d1f",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Spanish/big.json",
-      "sha256": "63ccaa6cc221df99b34d7c463630b85e231eaa22fdba1081b6500182bf01709d",
+      "sha256": "55f681761238b9078c68590493387e2606f4c546ea2a2f93583f3fb2753507f0",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Spanish/decors.json",
-      "sha256": "57945caba21d2f603245e8018bb88d2c6ef52147c07c94aaf6987ca48d3c68fe",
+      "sha256": "a65cf08585da51b6e73672c982ce505088a3ff6ed765c3df2d1d6ddb949949d0",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Spanish/doors.json",
-      "sha256": "a6e3314055e2c8067c8af0d38d4654c658e8472f4fc542b6d6ab45d2650bc9b5",
+      "sha256": "1595b9d46884dc97b3cdb9c562f0a26ea6808ee6f7492ddf0d3090dea01f84e4",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Spanish/dvergr.json",
-      "sha256": "0626c82fbfd3e8d647beb9235d5d24e4619dfd7349a419075ffd1dfd0a8d307c",
+      "sha256": "475719546681a4b673193d0148f84a0a2b5524185cdb4df3d18a4f626fa48fe1",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Spanish/misc.json",
-      "sha256": "a743cca58d8d09e5630bd0346f57674c91000fc8729e000b46f031fb75fcfe91",
+      "sha256": "bc332bf3fcf8cb477d4a518811d8e0136834d5d89d9d7b3da0ccd645e80f736c",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/OdinPlus-OdinArchitect/OdinArchitect/Assets/Translations/Spanish/pieces.json",
-      "sha256": "7385dc6dedab47be7ca45fb47dcd0ae8d5995e65f66f965d38f10bfa1539c950",
+      "sha256": "58aabeabe6e75fcea2e1eb5614a475c22974310b0d610c3d16c58a4d1c746486",
       "owner": "OdinPlus-OdinArchitect"
     },
     {
       "path": "BepInEx/plugins/shudnal-ExtraSlots/Extra Slots.English.json",
-      "sha256": "a2e86529773d9857a2c0c30b21863a1db965d7a3707ab5f56a17f4e31173227c",
+      "sha256": "03072ba32732216dde14316a7fdcfd08aefa0211b77861fb528f1052880f1ccb",
       "owner": "shudnal-ExtraSlots"
     },
     {
@@ -2989,177 +2998,177 @@
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Abenaki.json",
-      "sha256": "395a9f5863be6c4aa43ab5b47c08e91669084f4db4d81324500a0b5f772405aa",
+      "sha256": "83d19d153ddc3ab046cb358ace227be94193e02954899d0a946f269108f112ef",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Bulgarian.json",
-      "sha256": "82db3dde2c87f01310cd4ec59d2b7bac0e8e87dbc5d60bc091c75cb276860c07",
+      "sha256": "42f690974989eb5ccb0aacdb00b590745b61e635851c279e92afa8d4b7ac5e57",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Chinese.json",
-      "sha256": "cb4e0d585fd5f5113685e3b3fb2a335d778cab515b03712745bccd576147e0fb",
+      "sha256": "7de6b4456d640db0f9e57a4f127ce2d4c858119ee1e3a013b6f703f41e3bd897",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Chinese_Trad.json",
-      "sha256": "31dc97fa33cee77fd5fd4f127d7ffe261e9fff29c0aa7ec5e8e0499263f0654d",
+      "sha256": "8013273e0e2a2c7a5e2491f449db26d23b456162276ec50522203bd6c6d3ea4e",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Croatian.json",
-      "sha256": "2a662e88212202a3ddfc5e223ebb7b7922eb3b87e4cd49b7b343242c3cc9f237",
+      "sha256": "8a9ef126edd42a8860a6da40351a379e43bd5ac3561151ea2ad6c301f5fe9d1a",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Czech.json",
-      "sha256": "7eb26950475b6b3026486e3561c08a3935c3a3c14f91d2c7d15b79789ef08686",
+      "sha256": "ac57ca72b6d14695af3c1496ab9de426668ff2dd8c04d06010808ad200b76d89",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Danish.json",
-      "sha256": "b358d9aa2aaea9b420770234aa69c517f7313b149f5d05c93d9ec5d88a5f491b",
+      "sha256": "752ba6bb0dff9cb4889280265a5eef23a26bdf527587f02547b989213b14a178",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Dutch.json",
-      "sha256": "4f7bf0813e1005480aea0b6d7182c9428dc2f859b790cc8559fd907021b00177",
+      "sha256": "cbe17fe126c882ba646d5a2868a918a5d29669b53be8ad7c862ec00b44f6d88b",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.English.json",
-      "sha256": "634aee59ba5393ce2527dbfb96df4d2d88c5948cbd35526d3d7e440faccd6fd9",
+      "sha256": "9cd6e995c3a1a3b403b19b064023d841fa1b553bf8ea7ba53890fb61da7e632e",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Finnish.json",
-      "sha256": "5f66e5347471e58ac831f1911448204c7d6f1516f1550cc4069ab1321a35a04c",
+      "sha256": "2762ccbfa206b9d60c672b96a7070bb4c73666cd5ba1b16519385b13ec1d2f04",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.French.json",
-      "sha256": "f6619e6de4d94ff622c2b26f9fa82ee40d2498e1bbf6b55f2562e8571c542560",
+      "sha256": "352828e05f2ba1944a9333fc40aea415fb37b831cfe3deb9468301935359aac3",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Georgian.json",
-      "sha256": "be1e816b516c14ce3139d7b071e2106bfdd01c453489fe96cd31f71dfe7c7b26",
+      "sha256": "bf37bc60267efad5085e89ecf17908bc995d4ae0e1742e1a0e23365014b1dd99",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.German.json",
-      "sha256": "fbe5a8ae62310ee364d45a7bef84d1d1ec6284e64851e2c7b069ac59a8ec9277",
+      "sha256": "0b9879b9d6164ffbea0f3d1759f6ef18568ae95aaac40d6228579cb4fb74e6ac",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Greek.json",
-      "sha256": "fc8df57854c6607df6769db31ec64fc6d642ca0b59108a0f313e81cc4a66613b",
+      "sha256": "c4346beb68246a0ab62293cb23fa68b6e668d19fb80ab5dd3aafe15370b77e47",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Hindi.json",
-      "sha256": "86a3dea0730e69e917ad81b23fc39f1cd4c570d5518a91dd5a7883c44969aedc",
+      "sha256": "ae261256c8ce0c895a3f4e53e9c659a9ad70139c888466eb05fe1e8353b18cab",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Hungarian.json",
-      "sha256": "e53137bf26d23a2242024709d1893bfce6ee15b815ad0e0af51348f33de9d08a",
+      "sha256": "8191b18df76aeb456d9a029a1a4352e27ac455d769d8b614ae43f54a6e828938",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Icelandic.json",
-      "sha256": "7fa986f117287e90d29eb6bdec31542f7c0f7cacec7042f9b40941daf08756e0",
+      "sha256": "120fbd1d93f810618eb629aa873cc3637d27c3a9aea932843dc26155a5c01d86",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Italian.json",
-      "sha256": "320a5b955bf03c1376128889d1426633d764647886ff32d93c919534d569b229",
+      "sha256": "0dfb838ae1dd7af450408a15c1bfe04ea03f64e6e1798f10b2e67b47345415aa",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Japanese.json",
-      "sha256": "8b00fbc824fe48a7c61662da0d8249d1c54cfbf2ca0e29d09875c632cf987dc7",
+      "sha256": "c3340d0872915b84146cf398d255837458ad55f5f5b6c96b61f3c1d8f21ff7d5",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Korean.json",
-      "sha256": "6504e89444f96690744f934a37b2a8b68304ca5118f9b8ba3be6884f9775b136",
+      "sha256": "9062e5e88aea4508e4b282cc73c18cb64902a04e6cd4a09e86b13aaf1394970d",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Lithuanian.json",
-      "sha256": "90b6c283a83a50d9ef5f186144059a9f7b9e80be70da390905a813f15bf925c7",
+      "sha256": "2c3bd025eec077d80242cb4e31404fd18d3ae0a88615ecf30f46d8cca4d543b6",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Macedonian.json",
-      "sha256": "32569e0a4cf6a1d826f75fbfbb2a965efefe8edef1e9592d1f9e15ebdf4f1d42",
+      "sha256": "994241cd3191bf60bd0452cfd89ca9c17f899f8cb517e211f6979fce5fadd41a",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Norwegian.json",
-      "sha256": "7286d573390c4762d7c5fa7877df7fdde9ecbe00c4c484f3b84632968513f7fa",
+      "sha256": "6f8f0299c963e5f33f9b43716b116de409b59dd011ca426d690e654f4b84ab77",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Polish.json",
-      "sha256": "af2eadf36c66281c4f60c06e206c23fb9872cc33248b39ce751bcada26955c02",
+      "sha256": "f86d4040339e6cdc8b695cc2f717a64ff9712a457dee07717592ea88405b7de0",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Portuguese_Brazilian.json",
-      "sha256": "657307da69c04946205bd80b419f9de2669a7d0ff0fc8d9279994c41102dcde4",
+      "sha256": "8bb51d27b9632a8b7e49ee5f7f92bc919ddb8ad6c371ccb1a6c0d605ab687b98",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Portuguese_European.json",
-      "sha256": "71a6c191f7323920823ad19ae879304ad8c0adabb52ff8af88efedb943d90d14",
+      "sha256": "3c5223517e17f2681418bb5ba0dd84548ceb0861117a804fdcaafde62b8159db",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Romanian.json",
-      "sha256": "5054cf3c95818f3f55fa167e77f3958f9142a322b0c948b5dce8b3d5459e89d1",
+      "sha256": "f2bb1d478daa46cc7aae534965ec462b332d66d574668087cbbdd369c17d8afe",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Russian.json",
-      "sha256": "9aecc92f5b3cf84bc430b31b90320fc6aa579d1e93e8ed9d495b104c97949142",
+      "sha256": "50aca6f2417086b4949813254b1dad90df44fbea8dbf63879f6883f1873b16e8",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Serbian.json",
-      "sha256": "79e658ee2399b1dba7e465e2e04515aaaebdc52f866946bc291b4ad88c5cb886",
+      "sha256": "a515910f859bebee351258cabc2aaedd11039aa4cdd698cddeb7dccaa0eac490",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Slovak.json",
-      "sha256": "3e07da3d3b508cfc6a656ff85c8bd69c5bb488ce5d837e087919562380dce206",
+      "sha256": "f3b4368b6ace04c678f2989f0f721b207df488c44808cc9afc24afdb8fdb4ca4",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Spanish.json",
-      "sha256": "ebdf6e1312c24c5ff0b7458768b1c6a326fe54c0218f44880ab657eca706da96",
+      "sha256": "671a0d2bdb7b365520475e3a365c2a5b3aa287b563409b85d23ac946f3913b63",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Swedish.json",
-      "sha256": "0e9a5c22fcb98b2e0110890f6179897c362f8ac0b57e85ff0d13470ef9c65175",
+      "sha256": "0240931fbcb0490034515cce42dedc3ea9591ead1cb8a044ecaa9f8664dd244c",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Thai.json",
-      "sha256": "cfc335914e9d807859f55366fb821fdd9ea67f6cece07af8f591f798a1907cdc",
+      "sha256": "b25692146047c906b836939d9661690e47f80acc72ad3099f8b6a08ad47ba9a9",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Turkish.json",
-      "sha256": "80e21351fcab055dfeca7a30f8dee61f0fd413c07db32a4acac880fd072bfa9a",
+      "sha256": "ced192bc5f410dc7f1769ec4e4f9207acdb8d70b00e68a77df94e56e00f56fd1",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
       "path": "BepInEx/plugins/Vapok-AdventureBackpacks/Translations/AdventureBackpacks.Ukrainian.json",
-      "sha256": "e5a0ba61c4756e32af1b6b05c6ab54d3e36e29ba8f6de4a452d3f5f41e1eed84",
+      "sha256": "3d97f341302a6134e7873a38a37986fd3b8f1fca864537aea76308233d4cfa15",
       "owner": "Vapok-AdventureBackpacks"
     },
     {
@@ -3169,7 +3178,7 @@
     },
     {
       "path": "BepInEx/plugins/zolantris-ValheimRAFT/Assets/Translations/English/valheimraft.json",
-      "sha256": "6921e6379a0990a418c2ff51ed40265afe7d799a7fb630d120e1c73e1fe7cf71",
+      "sha256": "5fdb4a577eda4a0081e89d50dc13be001da4a11c1a909b88e50e1471303293f6",
       "owner": "zolantris-ValheimRAFT"
     },
     {
@@ -3184,7 +3193,7 @@
     },
     {
       "path": "changelog.txt",
-      "sha256": "74b3aa44b1a1609aa0e14baa202214f95ce9c8a87e227249dacacfce62e2cd0a"
+      "sha256": "92e0ca9df8cf3d1a59b95de24666a604a9fd7cedb94098650496df4092b5afc6"
     },
     {
       "path": "doorstop_config.ini",

@@ -11,6 +11,10 @@
   "vapok_mod_item_backpack_plains_description": "Erittäin kestävästä loxinnahasta valmistettu seikkailijan reppu.",
   "vapok_mod_item_backpack_mistlands": "Tutkimusmatkailijan Virvaliekkireppu",
   "vapok_mod_item_backpack_mistlands_description": "Hienosti valmistettu, mystinen reppu omalla Säilytyslaatikollaan. Kukaan ei oikein tiedä, miten se toimii.",
+  "vapok_mod_item_backpack_ashlands": "Kipinäkilven reppu",
+  "vapok_mod_item_backpack_ashlands_description": "Liekilliset metallituet ja hiiltynyt luu pitävät kuumuuden poissa selästäsi. Eivät liekkejä, vain kuumuuden.",
+  "vapok_mod_item_backpack_deepnorth": "Huurresidonut selkälaukku",
+  "vapok_mod_item_backpack_deepnorth_description": "Hirventaljaa huurresydämen päällä. Raskas, lämmin ja tuntuu tietävän, milloin olet kaatumaisillasi.",
   "vapok_mod_item_rugged_backpack": "Vanha Kestävä Reppu",
   "vapok_mod_item_rugged_backpack_description": "Kestävä reppu soljilla ja hienoilla nahkahihnoilla.",
   "vapok_mod_item_arctic_backpack": "Vanha Arktinen Reppu",
@@ -30,5 +34,12 @@
   "vapok_mod_se_frost_resistance": "Pakkasenkestävyys",
   "vapok_mod_se_wet_resistance": "Vedenkestävyys",
   "vapok_mod_yard_sale_blocked": "Reppua ei voitu tyhjentää; esineen poisto estettiin. Reppua ei siirretty.",
-  "item_friendlyskeletonwand_spectralshroud_backpack": "Aavemainen Säilytyshuntu"
+  "item_friendlyskeletonwand_spectralshroud_backpack": "Aavemainen Säilytyshuntu",
+  "vapok_mod_backpack": "Reppu",
+  "vapok_mod_open_backpack": "Avaa reppu",
+  "vapok_mod_close_backpack": "Sulje reppu",
+  "vapok_mod_switch_container": "Vaihda säiliötä",
+  "vapok_mod_drop_backpack": "Pudota reppu",
+  "vapok_mod_quickdrop_backpack": "Pikapudota reppu",
+  "vapok_mod_quickdrop": "Pikapudotus"
 }

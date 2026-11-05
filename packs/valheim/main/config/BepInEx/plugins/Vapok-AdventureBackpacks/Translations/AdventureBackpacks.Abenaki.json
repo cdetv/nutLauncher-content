@@ -11,6 +11,10 @@
   "vapok_mod_item_backpack_plains_description": "Wlipowôgan môdawa olôwio Lox asisikw.",
   "vapok_mod_item_backpack_mistlands": "Wadokw Wisppack",
   "vapok_mod_item_backpack_mistlands_description": "Manitouio môdawa waji wlimôgwi. Mozôkôzo awani awdoka.",
+  "vapok_mod_item_backpack_ashlands": "Pkwôhamôgan Môdawa",
+  "vapok_mod_item_backpack_ashlands_description": "Skweda-bik okwabi alakwsiskwak kizi kizi-kassi kzalôbak. Ôda skweda, pasgwa kzalôba.",
+  "vapok_mod_item_backpack_deepnorth": "Tekwtegwa Môdawa",
+  "vapok_mod_item_backpack_deepnorth_description": "Moz-olagaskw weskawôgan pboni-wikw. Pkikwôgan, kzalôba, kizi wawôldam ta-ani kd-akwôbi.",
   "vapok_mod_item_rugged_backpack": "Nzi Môlôgan Môdawa",
   "vapok_mod_item_rugged_backpack_description": "Ziboji môdawa nskawa aloka wlôgwak.",
   "vapok_mod_item_arctic_backpack": "Nzi Wabikw Môdawa",
@@ -30,5 +34,12 @@
   "vapok_mod_se_frost_resistance": "Wabikw Wlipos",
   "vapok_mod_se_wet_resistance": "Nebiz Wlipos",
   "vapok_mod_yard_sale_blocked": "Oda kizi pakina môdawa. Môdawa oda wjôsa.",
-  "item_friendlyskeletonwand_spectralshroud_backpack": "Chibai Agwôbik Môdawa"
+  "item_friendlyskeletonwand_spectralshroud_backpack": "Chibai Agwôbik Môdawa",
+  "vapok_mod_backpack": "Môdawa",
+  "vapok_mod_open_backpack": "Tônhô Môdawa",
+  "vapok_mod_close_backpack": "Kôbhodô Môdawa",
+  "vapok_mod_switch_container": "Alikw Wadokôgan",
+  "vapok_mod_drop_backpack": "Peni Môdawa",
+  "vapok_mod_quickdrop_backpack": "Nzi Peni Môdawa",
+  "vapok_mod_quickdrop": "Nzi Peni"
 }

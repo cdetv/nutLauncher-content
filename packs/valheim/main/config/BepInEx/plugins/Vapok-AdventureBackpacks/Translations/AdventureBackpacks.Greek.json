@@ -11,6 +11,10 @@
   "vapok_mod_item_backpack_plains_description": "Ένα σακίδιο περιπέτειας φτιαγμένο από εξαιρετικά ανθεκτικό δέρμα λοξ.",
   "vapok_mod_item_backpack_mistlands": "Σακίδιο Φωτεινού Πνεύματος Εξερευνητή",
   "vapok_mod_item_backpack_mistlands_description": "Ένα περίτεχνα κατασκευασμένο, μυστικιστικό σακίδιο με δικό του Μαγικό Κιβώτιο. Κανείς δεν ξέρει ακριβώς πώς λειτουργεί.",
+  "vapok_mod_item_backpack_ashlands": "Σακίδιο Σταχτοφύλακα",
+  "vapok_mod_item_backpack_ashlands_description": "Νευρώσεις από φλογομέταλλο και απανθρακωμένα οστά κρατούν τη ζέστη μακριά από την πλάτη σου. Όχι τις φλόγες, μόνο τη ζέστη.",
+  "vapok_mod_item_backpack_deepnorth": "Παγοδεμένος Σάκος",
+  "vapok_mod_item_backpack_deepnorth_description": "Δέρμα άλκης πάνω από πυρήνα παγετού. Βαρύ, ζεστό, και μοιάζει να ξέρει πότε πρόκειται να καταρρεύσεις.",
   "vapok_mod_item_rugged_backpack": "Παλιό Ανθεκτικό Σακίδιο",
   "vapok_mod_item_rugged_backpack_description": "Ένα στιβαρό σακίδιο, εξοπλισμένο με πόρπες και λεπτά δερμάτινα λουριά.",
   "vapok_mod_item_arctic_backpack": "Παλιό Αρκτικό Σακίδιο",
@@ -30,5 +34,12 @@
   "vapok_mod_se_frost_resistance": "Αντίσταση στον Παγετό",
   "vapok_mod_se_wet_resistance": "Αντίσταση στο Νερό",
   "vapok_mod_yard_sale_blocked": "Δεν ήταν δυνατό το άδειασμα του σακιδίου. Η αφαίρεση αντικειμένου εμποδίστηκε. Το σακίδιο δεν μετακινήθηκε.",
-  "item_friendlyskeletonwand_spectralshroud_backpack": "Φασματικό Σάβανο Αποθήκευσης"
+  "item_friendlyskeletonwand_spectralshroud_backpack": "Φασματικό Σάβανο Αποθήκευσης",
+  "vapok_mod_backpack": "Σακίδιο",
+  "vapok_mod_open_backpack": "Άνοιγμα σακιδίου",
+  "vapok_mod_close_backpack": "Κλείσιμο σακιδίου",
+  "vapok_mod_switch_container": "Εναλλαγή δοχείου",
+  "vapok_mod_drop_backpack": "Ρίψη σακιδίου",
+  "vapok_mod_quickdrop_backpack": "Γρήγορη ρίψη σακιδίου",
+  "vapok_mod_quickdrop": "Γρήγορη ρίψη"
 }

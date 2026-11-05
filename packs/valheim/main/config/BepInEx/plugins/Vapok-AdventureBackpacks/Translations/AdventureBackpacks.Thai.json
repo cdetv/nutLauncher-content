@@ -11,6 +11,10 @@
   "vapok_mod_item_backpack_plains_description": "เป้สะพายหลังสำหรับนักผจญภัย ทำจากหนังล็อกซ์ที่ทนทานเป็นพิเศษ",
   "vapok_mod_item_backpack_mistlands": "เป้วิสป์ของนักสำรวจ",
   "vapok_mod_item_backpack_mistlands_description": "เป้สะพายหลังลึกลับที่ประณีต มาพร้อมกล่องเก็บของไร้ก้น ไม่มีใครรู้แน่ชัดว่ามันทำงานอย่างไร",
+  "vapok_mod_item_backpack_ashlands": "เป้เกราะเถ้าถ่าน",
+  "vapok_mod_item_backpack_ashlands_description": "โครงโลหะเพลิงและกระดูกไหม้เกรียมช่วยกันความร้อนออกจากแผ่นหลัง ไม่ใช่เปลวไฟ แค่ความร้อนเท่านั้น",
+  "vapok_mod_item_backpack_deepnorth": "ย่ามผนึกเหมันต์",
+  "vapok_mod_item_backpack_deepnorth_description": "หนังมูสคลุมแกนน้ำแข็ง หนัก อบอุ่น และดูเหมือนจะรู้ว่าคุณกำลังจะล้มลงเมื่อใด",
   "vapok_mod_item_rugged_backpack": "เป้สะพายหลังสุดแกร่งรุ่นเก่า",
   "vapok_mod_item_rugged_backpack_description": "เป้สะพายหลังที่ทนทาน พร้อมหัวเข็มขัดและสายหนังชั้นดี",
   "vapok_mod_item_arctic_backpack": "เป้อาร์กติกรุ่นเก่า",
@@ -30,5 +34,12 @@
   "vapok_mod_se_frost_resistance": "ต้านทานความเย็นจัด",
   "vapok_mod_se_wet_resistance": "ต้านทานน้ำ",
   "vapok_mod_yard_sale_blocked": "ไม่สามารถนำของออกจากเป้ได้ การย้ายไอเท็มถูกระงับ เป้ไม่ได้ถูกย้าย",
-  "item_friendlyskeletonwand_spectralshroud_backpack": "ผ้าคลุมวิญญาณแห่งการเก็บของ"
+  "item_friendlyskeletonwand_spectralshroud_backpack": "ผ้าคลุมวิญญาณแห่งการเก็บของ",
+  "vapok_mod_backpack": "กระเป๋าสะพายหลัง",
+  "vapok_mod_open_backpack": "เปิดกระเป๋าสะพายหลัง",
+  "vapok_mod_close_backpack": "ปิดกระเป๋าสะพายหลัง",
+  "vapok_mod_switch_container": "สลับที่เก็บของ",
+  "vapok_mod_drop_backpack": "ทิ้งกระเป๋าสะพายหลัง",
+  "vapok_mod_quickdrop_backpack": "ทิ้งกระเป๋าสะพายหลังด่วน",
+  "vapok_mod_quickdrop": "ทิ้งด่วน"
 }

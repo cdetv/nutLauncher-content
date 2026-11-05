@@ -11,6 +11,10 @@
   "vapok_mod_item_backpack_plains_description": "Приключенска раница, изработена от изключително здрава кожа на локс.",
   "vapok_mod_item_backpack_mistlands": "Блуждаеща Раница на Изследователя",
   "vapok_mod_item_backpack_mistlands_description": "Изящно изработена мистична раница със собствена Кутия за Безкрайно Съхранение. Никой не е съвсем сигурен как работи.",
+  "vapok_mod_item_backpack_ashlands": "Пепелозащитна раница",
+  "vapok_mod_item_backpack_ashlands_description": "Ребра от огнеметал и овъглени кости пазят гърба от жегата. Не от пламъците, само от жегата.",
+  "vapok_mod_item_backpack_deepnorth": "Мразовит ранец",
+  "vapok_mod_item_backpack_deepnorth_description": "Лосова кожа над мразовито ядро. Тежка, топла и сякаш знае кога сте напът да паднете.",
   "vapok_mod_item_rugged_backpack": "Стара Здрава Раница",
   "vapok_mod_item_rugged_backpack_description": "Здрава раница с катарами и фини кожени каишки.",
   "vapok_mod_item_arctic_backpack": "Стара Арктическа Раница",
@@ -30,5 +34,12 @@
   "vapok_mod_se_frost_resistance": "Устойчивост на Мраз",
   "vapok_mod_se_wet_resistance": "Водоустойчивост",
   "vapok_mod_yard_sale_blocked": "Раницата не можа да се изпразни; премахването на предмети бе блокирано. Раницата не бе преместена.",
-  "item_friendlyskeletonwand_spectralshroud_backpack": "Призрачен Покров за Съхранение"
+  "item_friendlyskeletonwand_spectralshroud_backpack": "Призрачен Покров за Съхранение",
+  "vapok_mod_backpack": "Раница",
+  "vapok_mod_open_backpack": "Отвори раницата",
+  "vapok_mod_close_backpack": "Затвори раницата",
+  "vapok_mod_switch_container": "Смени контейнера",
+  "vapok_mod_drop_backpack": "Пусни раницата",
+  "vapok_mod_quickdrop_backpack": "Бързо пускане на раница",
+  "vapok_mod_quickdrop": "Бързо пускане"
 }

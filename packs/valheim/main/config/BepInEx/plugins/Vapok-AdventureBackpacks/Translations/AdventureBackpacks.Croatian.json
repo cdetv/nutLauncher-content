@@ -11,6 +11,10 @@
   "vapok_mod_item_backpack_plains_description": "Pustolovni ruksak izrađen od izuzetno izdržljive loxove kože.",
   "vapok_mod_item_backpack_mistlands": "Istraživački Ruksak s Plamičkom",
   "vapok_mod_item_backpack_mistlands_description": "Fino izrađen, mističan ruksak s vlastitom Kutijom za Pohranu. Nitko nije sasvim siguran kako radi.",
+  "vapok_mod_item_backpack_ashlands": "Pepeloštitni ruksak",
+  "vapok_mod_item_backpack_ashlands_description": "Rebra od plamenog metala i pougljenjene kosti drže vrućinu dalje od tvojih leđa. Ne plamen, samo vrućinu.",
+  "vapok_mod_item_backpack_deepnorth": "Mrazom vezana torba",
+  "vapok_mod_item_backpack_deepnorth_description": "Losova koža preko smrznute jezgre. Teška, topla i čini se da zna kada si pred padom.",
   "vapok_mod_item_rugged_backpack": "Stari Izdržljivi Ruksak",
   "vapok_mod_item_rugged_backpack_description": "Čvrst ruksak, opremljen kopčama i finim kožnim remenima.",
   "vapok_mod_item_arctic_backpack": "Stari Arktički Ruksak",
@@ -30,5 +34,12 @@
   "vapok_mod_se_frost_resistance": "Otpornost na Mraz",
   "vapok_mod_se_wet_resistance": "Otpornost na Vodu",
   "vapok_mod_yard_sale_blocked": "Nije moguće isprazniti ruksak; uklanjanje predmeta je blokirano. Ruksak nije pomaknut.",
-  "item_friendlyskeletonwand_spectralshroud_backpack": "Sablasni Pokrov Pohrane"
+  "item_friendlyskeletonwand_spectralshroud_backpack": "Sablasni Pokrov Pohrane",
+  "vapok_mod_backpack": "Ruksak",
+  "vapok_mod_open_backpack": "Otvori ruksak",
+  "vapok_mod_close_backpack": "Zatvori ruksak",
+  "vapok_mod_switch_container": "Promijeni spremnik",
+  "vapok_mod_drop_backpack": "Ispusti ruksak",
+  "vapok_mod_quickdrop_backpack": "Brzo ispusti ruksak",
+  "vapok_mod_quickdrop": "Brzo ispuštanje"
 }

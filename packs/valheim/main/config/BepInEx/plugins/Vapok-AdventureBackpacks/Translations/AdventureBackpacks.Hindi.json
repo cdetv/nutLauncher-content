@@ -11,6 +11,10 @@
   "vapok_mod_item_backpack_plains_description": "अत्यधिक टिकाऊ लॉक्स चमड़े से बना एक साहसिक बैकपैक।",
   "vapok_mod_item_backpack_mistlands": "खोजकर्ता विस्प-पैक",
   "vapok_mod_item_backpack_mistlands_description": "एक बारीक नक्काशीदार रहस्यमयी बैकपैक, जो अपनी अनंत संदूक के साथ आता है। यह कैसे काम करता है, कोई नहीं जानता।",
+  "vapok_mod_item_backpack_ashlands": "राख-रक्षक थैला",
+  "vapok_mod_item_backpack_ashlands_description": "ज्वाला-धातु की पسلियां और जली हुई हड्डियां आपकी पीठ से गर्मी दूर रखती हैं। लपटें नहीं, केवल गर्मी।",
+  "vapok_mod_item_backpack_deepnorth": "हिमबद्ध थैला",
+  "vapok_mod_item_backpack_deepnorth_description": "हिम-क्रोड के ऊपर मूस की खाल। भारी, गर्म, और ऐसा लगता है कि यह जानता है कि आप कब गिरने वाले हैं।",
   "vapok_mod_item_rugged_backpack": "पुराना मजबूत बैकपैक",
   "vapok_mod_item_rugged_backpack_description": "बकल और चमड़े के पट्टों से सुसज्जित एक मजबूत बैकपैक।",
   "vapok_mod_item_arctic_backpack": "पुराना आर्कटिक बैकपैक",
@@ -30,5 +34,12 @@
   "vapok_mod_se_frost_resistance": "पाला प्रतिरोध",
   "vapok_mod_se_wet_resistance": "जल प्रतिरोध",
   "vapok_mod_yard_sale_blocked": "बैकपैक खाली नहीं किया जा सका; वस्तु निष्कासन अवरुद्ध था। बैकपैक स्थानांतरित नहीं हुआ।",
-  "item_friendlyskeletonwand_spectralshroud_backpack": "अलौकिक संधारण कफ़न"
+  "item_friendlyskeletonwand_spectralshroud_backpack": "अलौकिक संधारण कफ़न",
+  "vapok_mod_backpack": "बैकपैक",
+  "vapok_mod_open_backpack": "बैकपैक खोलें",
+  "vapok_mod_close_backpack": "बैकपैक बंद करें",
+  "vapok_mod_switch_container": "कंटेनर बदलें",
+  "vapok_mod_drop_backpack": "बैकपैक गिराएं",
+  "vapok_mod_quickdrop_backpack": "बैकपैक तुरंत गिराएं",
+  "vapok_mod_quickdrop": "तुरंत गिराएं"
 }

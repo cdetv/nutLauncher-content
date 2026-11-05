@@ -11,6 +11,10 @@
   "vapok_mod_item_backpack_plains_description": "Un rucsac de aventură confecționat din piele extrem de rezistentă de lox.",
   "vapok_mod_item_backpack_mistlands": "Rucsac cu Licurici al Exploratorului",
   "vapok_mod_item_backpack_mistlands_description": "Un rucsac mistic, meșteșugit cu finețe. Prevăzut cu propria Cutie de Păstrare. Nimeni nu știe exact cum funcționează.",
+  "vapok_mod_item_backpack_ashlands": "Rucsac Apărător de Cenușă",
+  "vapok_mod_item_backpack_ashlands_description": "Tijele din metal de foc și osul carbonizat țin căldura departe de spate. Nu flăcările, doar căldura.",
+  "vapok_mod_item_backpack_deepnorth": "Raniță Înghețată",
+  "vapok_mod_item_backpack_deepnorth_description": "Piele de elan peste un nucleu de îngheț. Grea, călduroasă și pare să știe când ești pe cale să cedezi.",
   "vapok_mod_item_rugged_backpack": "Vechi Rucsac Robust",
   "vapok_mod_item_rugged_backpack_description": "Un rucsac robust, prevăzut cu catarame și curele fine din piele.",
   "vapok_mod_item_arctic_backpack": "Vechi Rucsac Arctic",
@@ -30,5 +34,12 @@
   "vapok_mod_se_frost_resistance": "Rezistență la Îngheț",
   "vapok_mod_se_wet_resistance": "Rezistență la Apă",
   "vapok_mod_yard_sale_blocked": "Rucsacul nu a putut fi golit; îndepărtarea obiectelor a fost blocată. Rucsacul nu a fost mutat.",
-  "item_friendlyskeletonwand_spectralshroud_backpack": "Giulgiu Spectral de Păstrare"
+  "item_friendlyskeletonwand_spectralshroud_backpack": "Giulgiu Spectral de Păstrare",
+  "vapok_mod_backpack": "Rucsac",
+  "vapok_mod_open_backpack": "Deschide rucsacul",
+  "vapok_mod_close_backpack": "Închide rucsacul",
+  "vapok_mod_switch_container": "Comută recipientul",
+  "vapok_mod_drop_backpack": "Aruncă rucsacul",
+  "vapok_mod_quickdrop_backpack": "Aruncare rapidă rucsac",
+  "vapok_mod_quickdrop": "Aruncare rapidă"
 }

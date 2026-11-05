@@ -11,6 +11,10 @@
   "vapok_mod_item_backpack_plains_description": "Ævintýrabakpoki gerður úr einstaklega slitsterku loxleðri.",
   "vapok_mod_item_backpack_mistlands": "Hræringabakpoki Landkönnuðarins",
   "vapok_mod_item_backpack_mistlands_description": "Vandaður, dulrænn bakpoki búinn eigin töfrahylki. Enginn veit nákvæmlega hvernig hann virkar.",
+  "vapok_mod_item_backpack_ashlands": "Öskuvarnarbakpoki",
+  "vapok_mod_item_backpack_ashlands_description": "Rif úr logamálmi og kulnuð bein halda hitanum frá bakinu. Ekki logunum, aðeins hitanum.",
+  "vapok_mod_item_backpack_deepnorth": "Frostdreginn malur",
+  "vapok_mod_item_backpack_deepnorth_description": "Elgshúð yfir frostkjarna. Þungur, hlýr og virðist vita hvenær þú ert að því kominn að falla.",
   "vapok_mod_item_rugged_backpack": "Gamall Harðgerður Bakpoki",
   "vapok_mod_item_rugged_backpack_description": "Harðgerður bakpoki með sylgjum og fínum leðurólum.",
   "vapok_mod_item_arctic_backpack": "Gamall Norðurslóðabakpoki",
@@ -30,5 +34,12 @@
   "vapok_mod_se_frost_resistance": "Frosteðli / Frostþol",
   "vapok_mod_se_wet_resistance": "Vatnsþol",
   "vapok_mod_yard_sale_blocked": "Gat ekki tæmt bakpoka; hindrað var að taka hluti úr honum. Bakpokinn var ekki færður.",
-  "item_friendlyskeletonwand_spectralshroud_backpack": "Draugalegur Geymsluhjúpur"
+  "item_friendlyskeletonwand_spectralshroud_backpack": "Draugalegur Geymsluhjúpur",
+  "vapok_mod_backpack": "Bakpoki",
+  "vapok_mod_open_backpack": "Opna bakpoka",
+  "vapok_mod_close_backpack": "Loka bakpoka",
+  "vapok_mod_switch_container": "Skipta um geymslu",
+  "vapok_mod_drop_backpack": "Henda bakpoka",
+  "vapok_mod_quickdrop_backpack": "Hraðsleppa bakpoka",
+  "vapok_mod_quickdrop": "Hraðslepping"
 }

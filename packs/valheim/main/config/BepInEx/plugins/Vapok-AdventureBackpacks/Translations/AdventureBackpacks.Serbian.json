@@ -11,6 +11,10 @@
   "vapok_mod_item_backpack_plains_description": "Авантуристички ранац направљен од изузетно издржљиве локсове коже.",
   "vapok_mod_item_backpack_mistlands": "Истраживачки Ранац са Светилком",
   "vapok_mod_item_backpack_mistlands_description": "Фино израђен, мистичан ранац са сопственом Кутијом за Чување. Нико није сасвим сигуран како ради.",
+  "vapok_mod_item_backpack_ashlands": "Пепелоштитни ранац",
+  "vapok_mod_item_backpack_ashlands_description": "Ребра од пламеног метала и угљенисане кости држе врелину даље од леђа. Не пламен, само врелину.",
+  "vapok_mod_item_backpack_deepnorth": "Мразом везана торба",
+  "vapok_mod_item_backpack_deepnorth_description": "Лосова кожа преко леденог језгра. Тешка, топла и изгледа да зна кад си пред падом.",
   "vapok_mod_item_rugged_backpack": "Стари Издржљиви Ранац",
   "vapok_mod_item_rugged_backpack_description": "Чврст ранац опремљен копчама и финим кожним каишевима.",
   "vapok_mod_item_arctic_backpack": "Стари Арктички Ранац",
@@ -30,5 +34,12 @@
   "vapok_mod_se_frost_resistance": "Отпорност на Мраз",
   "vapok_mod_se_wet_resistance": "Отпорност на Воду",
   "vapok_mod_yard_sale_blocked": "Није било могуће испразнити ранац; уклањање предмета је блокирано. Ранац није померен.",
-  "item_friendlyskeletonwand_spectralshroud_backpack": "Сабласни Покров за Чување"
+  "item_friendlyskeletonwand_spectralshroud_backpack": "Сабласни Покров за Чување",
+  "vapok_mod_backpack": "Ранчац",
+  "vapok_mod_open_backpack": "Отвори ранчац",
+  "vapok_mod_close_backpack": "Затвори ранчац",
+  "vapok_mod_switch_container": "Промени контејнер",
+  "vapok_mod_drop_backpack": "Баци ранчац",
+  "vapok_mod_quickdrop_backpack": "Брзо бацање ранца",
+  "vapok_mod_quickdrop": "Брзо бацање"
 }

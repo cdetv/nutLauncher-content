@@ -11,6 +11,10 @@
   "vapok_mod_item_backpack_plains_description": "Uno zaino da avventuriero realizzato in pelle di lox estremamente resistente.",
   "vapok_mod_item_backpack_mistlands": "Zaino dei Fuochi Fatui dell'Esploratore",
   "vapok_mod_item_backpack_mistlands_description": "Uno zaino mistico finemente lavorato. Completo della sua Scatola Conservante. Nessuno sa bene come funzioni.",
+  "vapok_mod_item_backpack_ashlands": "Zaino Parabraci",
+  "vapok_mod_item_backpack_ashlands_description": "Stecche di metallo fiammeggiante e osso carbonizzato proteggono la schiena dal calore. Non dalle fiamme, solo dal calore.",
+  "vapok_mod_item_backpack_deepnorth": "Borsa Vincolata al Gelo",
+  "vapok_mod_item_backpack_deepnorth_description": "Pelle d'alce su un nucleo di gelo. Pesante, calda, e sembra capire quando stai per soccombere.",
   "vapok_mod_item_rugged_backpack": "Vecchio Zaino Robusto",
   "vapok_mod_item_rugged_backpack_description": "Uno zaino robusto, completo di fibbie e cinghie di cuoio pregiato.",
   "vapok_mod_item_arctic_backpack": "Vecchio Zaino Artico",
@@ -30,5 +34,12 @@
   "vapok_mod_se_frost_resistance": "Resistenza al Gelo",
   "vapok_mod_se_wet_resistance": "Resistenza all'Acqua",
   "vapok_mod_yard_sale_blocked": "Impossibile svuotare lo zaino; rimozione oggetti bloccata. Lo zaino non è stato spostato.",
-  "item_friendlyskeletonwand_spectralshroud_backpack": "Sudario Spettrale Conservante"
+  "item_friendlyskeletonwand_spectralshroud_backpack": "Sudario Spettrale Conservante",
+  "vapok_mod_backpack": "Zaino",
+  "vapok_mod_open_backpack": "Apri zaino",
+  "vapok_mod_close_backpack": "Chiudi zaino",
+  "vapok_mod_switch_container": "Cambia contenitore",
+  "vapok_mod_drop_backpack": "Lascia zaino",
+  "vapok_mod_quickdrop_backpack": "Rilascio rapido zaino",
+  "vapok_mod_quickdrop": "Rilascio rapido"
 }
